@@ -11,7 +11,7 @@
 # Weapons
 Each universe will have a different theme, and a different means of doing damage. These are some generic-enough weapon categories that can be used to provide options for your characters.
 
-|Type|Category|Stat|Result|Notes|
+|Type|Category|Stat|Damage|Notes|
 |-|-|-|-|-|
 |**Melee**|Power|Str|1d6||
 ||Great Power|Str|2d6|Two-Handed|

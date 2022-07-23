@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hidden/Core Rules.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hidden/Core Rules.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hidden/Core Rules.md"
+                "file": "README.md"
               }
             }
           }
@@ -97,14 +97,14 @@
     "direction": "horizontal",
     "width": 186.5
   },
-  "active": "ad783310b1f5fea5",
+  "active": "fc6a70d8fdc256aa",
   "lastOpenFiles": [
-    "Character Sheet.md",
     "Adventure Build Guide.md",
-    "README.md",
-    "hidden/Reasons.md",
-    "hidden/Unofficial Ideas.md",
     "hidden/Core Rules.md",
+    "README.md",
+    "hidden/Unofficial Ideas.md",
+    "Character Sheet.md",
+    "hidden/Reasons.md",
     "Why.md",
     "Settings.md"
   ]
