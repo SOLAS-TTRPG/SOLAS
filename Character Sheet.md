@@ -2,7 +2,7 @@
 **Description**.  
   
 **Level**.  
-|Stat|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
+|Stat|Str|Dex|Con|Int|Wis|Cha|
 |-|-|-|-|-|-|-|
 |**Score**|+/-|+/-|+/-|+/-|+/-|+/-|
   

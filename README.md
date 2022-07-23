@@ -32,13 +32,13 @@ An ability check is when you are attempting to do something that isn't a surefir
 ## Attacking
 **Weapon Dice + Ability**
 
-Making an attack against something is an effort to do lasting harm to it. Your type of weapon determines the damage dice you can use, and the ability associated with it is what you add to the attack total.
+Making an attack against something is an effort to do lasting harm to it. Your type of weapon determines the damage dice you can use, and the ability associated with it is what you add to the attack total. In the Notes section, ranges and handedness are specified.
 
 |Type|Category|Stat|Damage|Notes|
 |-|-|-|-|-|
 |**Melee**|Power|Str|1d6||
 ||Great Power|Str|2d6, use highest|Two-Handed|
-||Precision Melee|Dex|1d6||
+||Precision|Dex|1d6||
 |**Ranged**|Power|Str|1d6|R60|
 ||Precision|Dex|1d6|R30|
 ||Heavy Precision|Dex|2d6, use highest|R60, Two-Handed|
