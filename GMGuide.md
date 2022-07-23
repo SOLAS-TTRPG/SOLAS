@@ -4,7 +4,7 @@ Difficulty
 |Simple|Moderate|Difficult|Impossible|
 
 # Setting
-Whether you're using a real world time and location like prohibition in Boston, adding a twist to a time period like medvieval fantasy, or creating a planet-hopping future, you have to build out at least an idea for a setting. World or universe maps aren't necessary, and are typically not worth the effort put in. Develop first the core concepts of your setting and time period. Is religion prevalent? What level of technology is widely used?
+Whether you're using a real world time and location like prohibition in Boston, adding a twist to a time period like medvieval fantasy, or creating a planet-hopping future, you have to build out at least an idea for a setting. World or universe maps aren't necessary, and are typically not worth the effort put in. Develop first the core concepts of your setting and time period. Is religion prevalent? What level of technology is widely used? All of these questions will help both the players and you properly flavor weapons, tricks, and much more.
 
 # Adventures
 A setting is not enough to explore. An adventure is a way of developing a full story, where the players can affect outcomes and reach their goals. The three main points of an adventure are exploration, social interaction, and combat. Try to make sure that there is intrinsic motivation for the players, like the desire to conquer a great enemy, stop encroaching doom, or even just achieve character growth. Keep in mind the scale of the adventure, if your adventure is going to span a couple hours or years.
