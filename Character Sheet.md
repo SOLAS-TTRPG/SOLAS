@@ -6,9 +6,9 @@
 |-|-|-|-|-|-|-|
 |**Score**|+/-|+/-|+/-|+/-|+/-|+/-|
   
+**Solace**.  
 **Defense**.  
 **Hit Points**.  
-**Solace**.  
   
 |Options|Name|Stat|Result|Notes|
 |-|-|-|-|-|
