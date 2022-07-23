@@ -36,6 +36,8 @@ Making an attack against something is an effort to do lasting harm to it. Your t
 ||Precision|Dex|1d6|R30|
 ||Heavy Precision|Dex|2d6, use highest|R60, Two-Handed|
 
+When determining damage, check the target's defense. If your attack total was equal or less than the defense, no damage was done. If your attack total was greater, the target recieves damage equal to the difference (5 attack vs 3 defense does 2 damage).
+
 ## Defense
 **4 + Dexterity + Constitution**
 
