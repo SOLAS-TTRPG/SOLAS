@@ -1,7 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "pdfExportSettings": {
     "pageSize": "Tabloid",
     "landscape": false,

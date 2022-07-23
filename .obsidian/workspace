@@ -6,24 +6,10 @@
       {
         "id": "fc6a70d8fdc256aa",
         "type": "leaf",
-        "dimension": 55.43905635648755,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0a255f90d8a89e3a",
-        "type": "leaf",
-        "dimension": 44.56094364351245,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Core Rules.md",
+            "file": "hidden/Core Rules.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "hidden/Core Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "hidden/Core Rules.md"
               }
             }
           }
@@ -111,14 +97,15 @@
     "direction": "horizontal",
     "width": 186.5
   },
-  "active": "fc6a70d8fdc256aa",
+  "active": "ad783310b1f5fea5",
   "lastOpenFiles": [
-    "Core Rules.md",
     "Character Sheet.md",
-    "README.md",
-    "Reasons.md",
-    "Why.md",
     "Adventure Build Guide.md",
+    "README.md",
+    "hidden/Reasons.md",
+    "hidden/Unofficial Ideas.md",
+    "hidden/Core Rules.md",
+    "Why.md",
     "Settings.md"
   ]
 }
