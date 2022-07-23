@@ -1,9 +1,9 @@
 ***Character Name***. 
 ***Description** (Physicality and mannerisms)*. 
 
-***Defense** (Dexterity + Constitution + Protection)*. 
-***Hit Points** (3x Constitution)*. 
-***Solace** (3x Charisma)*.
+***Defense** (3 + Dexterity + Constitution)*. 
+***Hit Points** (9 + Constitution)*. 
+***Solace** (6 + Charisma)*.
 
 |Stat|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
 |-|-|-|-|-|-|-|

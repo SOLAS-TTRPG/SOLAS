@@ -1,9 +1,3 @@
-***Terms***. A brief explanation of terms used in this ruleset
-
-*Game Master (GM)*. The player who describes scenes and situations, voices non-player characters (NPCs), and keeps the story moving forward
-
-*Spaces*. On a typical map, each 1-inch space is considered 5ft by 5ft.
-
 *Stats*. These are measures of your character's different strengths and weaknesses. These appear on your character sheet, and are used for attacks/checks, weapons, tools, and tricks of their type.
 
 |Stat|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|

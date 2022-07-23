@@ -1,4 +1,6 @@
 {
   "baseFontSize": 14,
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "cssTheme": "",
+  "theme": "obsidian"
 }
