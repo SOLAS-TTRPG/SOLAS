@@ -1,4 +1,5 @@
 **Name**.
+
 **Description**. 
 
 
@@ -8,7 +9,9 @@
 |**Score**|+/-|+/-|+/-|+/-|+/-|+/-|
 
 **Defense**. 
+
 **Hit Points**. 
+
 **Solace**.
 
 |Options|Name|Stat|Result|Notes|
