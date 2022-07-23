@@ -22,6 +22,13 @@ Comfort in sorrow, misfortune, or distress, solace allows you to fudge your way 
 
 **Increasing Rolls**. Whenever you roll at least one die, you can spend a point of solace to improve it. Roll a die, and increase the original result by the amount shown. This can be done multiple times for each attack or check you make, provided you have enough points of solace to do so.
 
+## Checks
+**Die roll + Ability**
+
+An ability check is when you are attempting to do something that isn't a surefire success, with some sort of difficulty or skill associated with it. Whether it's holding up a portcullis (Give me a strength roll) or trying to decipher an alien language (Give me an intelligence roll), it's up to the GM's discression when these rolls are appropriate. The GM decides what stat needs to be rolled, and decides the difficulty of it before players roll. When a player does, they roll a d6 and add the score associated with the type of roll. You then describe how your character passes or fails the challenge at hand.
+
+*Note: Check and roll are interchangeable, just some GMs may prefer one or the other depending on what other systems they've played*
+
 ## Attacking
 **Weapon Dice + Ability**
 
@@ -79,11 +86,6 @@ Each ability score will be a number, from -3 to +6. This is what will be added w
 Now it's time to embark on your adventure! The GM begins by introducing the world, and describes the scene you currently find yourselves in. At that point, it's up to the **characters** how they interact with the world around them by talking to people, poking around, etc. Try to act in character, describing what *you* do rather than what your character does.
 
 Your character can do almost anything when interacting with the world, whether in or out of combat. Weapons can be typically used to damage things and people, tools can be used to interact with other things, and tricks are things that are typically magical, supernatural, or just generally not found in our world.
-
-## Checks
-In the event that a character attempts something that isn't a given (i.e. some difficulty or skill associated with it), the GM can ask for a check of a particular stat. This could be a strength check for moving a bookshelf, a dexterity check to see how you pilot a ship, an intelligence check to see if you can understand an ancient artifact, a charisma check to see if you can convince someone of a lie, you get the picture.
-
-To roll a check, the GM determines the type (strength, wisdom, etc.) and sets the difficulty. You then roll a die and add your modifier, and you or the GM describe how you pass or fail.
 
 ## Exploration
 Checking out ancient tombs, unmapped planets, an old house said to be haunted, all are examples of exploration. While the **characters** choose where they want to go, it is ultimately up to the GM to decide what are in these places.
