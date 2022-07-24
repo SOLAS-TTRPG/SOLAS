@@ -13,6 +13,9 @@ To play, you'll need more than two people (one of whom is the Game Master), a wa
 # Mechanics
 SOLAS is inspired by old TTRPG systems like Dungeons and Dragons and FATE, as well as some more obscure tabletop games like T.I.M.E. stories. As such, some mechanics will be familiar to veterens of tabletop games. Previous experience is not required, and SOLAS is designed to be as understandable for new players as possible.
 
+## Rolling
+A die roll is when someone rolls a standard six-sided die to determine an outcome. Sometimes a roll is specified as "advantaged" (indicated by an A) which means rolling two dice and taking the higher of the two. Another variant is "disadvantaged" (indicated by a D), which is rolling two dice and taking the lower of the two.
+
 ## Solace
 **3 + Charisma**
 
@@ -32,16 +35,7 @@ An ability check is when you are attempting to do something that isn't a surefir
 ## Attacking
 **Weapon Dice + Ability**
 
-Making an attack against something is an effort to do lasting harm to it. Your type of weapon determines the damage dice you can use, and the ability associated with it is what you add to the attack total. In the Notes section, ranges and handedness are specified.
-
-|Type|Category|Stat|Damage|Notes|
-|-|-|-|-|-|
-|**Melee**|Power|Str|1d6||
-||Great Power|Str|2d6, use highest|Two-Handed|
-||Precision|Dex|1d6||
-|**Ranged**|Power|Str|1d6|R60|
-||Precision|Dex|1d6|R30|
-||Heavy Precision|Dex|2d6, use highest|R60, Two-Handed|
+Making an attack against something is an effort to do lasting harm to it. Your type of weapon determines the damage dice you can use, and the ability associated with it is what you add to the attack total. In the Notes section, specify the weapon's range and handedness.
 
 When determining damage, check the target's defense. If your attack total was equal or less than the defense, no damage was done. If your attack total was greater, the target recieves damage equal to the difference (5 attack vs 3 defense does 2 damage).
 
@@ -59,6 +53,9 @@ This is a measure of how much damage your body can take before quitting. When yo
 
 ## Fading
 When your character dips below 1 hit point, they begin fading. This can be flavored as bleeding out, vision going black, etc. Once they are below -6 hit points, they are truly dead. When it is your turn, you lose a hit point automatically. If you wish to do anything but stay/go prone (laying down on the ground), you may expend an extra hit point and be able to perform actions, take movement, etc. on that turn.
+
+## Tricks
+Tricks are unnatural events that players can cause in or out of battle. These can be described as magical, supernatural, or tactical objects that cause reactions. Tricks typically have a cost associated with them, requiring you to expend that much solace to use them.
 
 # Characters
 This is how the players interact with the world of the GM's creation. Characters are designed by their respective players and have abilities, backgrounds, weapons, tools, and boons, all to help each player target their ideal play style.
