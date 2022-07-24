@@ -24,9 +24,9 @@ These are premade, easy-to-flavor enemies that scale well with parties levels 1-
 |**Score**|+PL|-1|+PL|-3|-2|-2|
 **Defense**. PL + 3
 **Hit Points**. 2PL + 6
-|Options|Name|Stat|Result|Notes|
-|-|-|-|-|-|
-|**Weapons**|Power Melee|Str|1d6||
+|Options|Name|Result|Notes|
+|-|-|-|-|
+|**Weapons**|Power Melee|1d6 + Str||
 
 ### The Strategist
 *An enemy focused on dodging and cunning*
@@ -35,10 +35,22 @@ These are premade, easy-to-flavor enemies that scale well with parties levels 1-
 |**Score**|-2|+PL|+0|+PL|-3|-3|
 **Defense**. PL + 4
 **Hit Points**. PL + 5
-|Options|Name|Stat|Result|Notes|
-|-|-|-|-|-|
-|**Weapons**|Precision Melee|Dex|1d6||
-||Precision Ranged|Dex|1d6|R30|
+|Options|Name|Result|Notes|
+|-|-|-|-|
+|**Weapons**|Precision Melee|1d6 + Dex||
+||Precision Ranged|1d6 + Dex|R30|
+
+### Minion
+*A weak enemy that builds up strength in numbers*
+|Stat|Str|Dex|Con|Int|Wis|Cha|
+|-|-|-|-|-|-|-|
+|**Score**|+0|+1|-1|-2|-2|-2|
+**Defense**. 4
+**Hit Points**. 5
+|Options|Name|Result|Notes|
+|-|-|-|-|
+|**Weapons**|Precision Melee|1d6 + Dex||
+||Precision Ranged|1d6 + Dex|R30|
 
 ## Creating Enemies
 Think about what makes this enemy unique. What do they use to attack? Do they have any tricks? Is there a certain strategy they tend to fall back on? Choose their statistics, keeping in mind the Difficulty scale and what level the party is. A level one party typically cannot do damage to something with a defense of 7 without expending solace. Generally the best practice for creating enemies is just to fill out a character sheet and tweak as needed.
