@@ -14,7 +14,7 @@ To play, you'll need more than two people (one of whom is the Game Master), a wa
 SOLAS is inspired by old TTRPG systems like Dungeons and Dragons and FATE, as well as some more obscure tabletop games like T.I.M.E. stories. As such, some mechanics will be familiar to veterens of tabletop games. Previous experience is not required, and SOLAS is designed to be as understandable for new players as possible.
 
 ## Rolling
-A die roll is when someone rolls a standard six-sided die to determine an outcome. Sometimes a roll is specified as "advantaged" (indicated by an A) which means rolling two dice and taking the higher of the two. Another variant is "disadvantaged" (indicated by a D), which is rolling two dice and taking the lower of the two.
+A die roll is when someone rolls a standard six-sided die to determine an outcome. Sometimes a roll is specified as "advantaged" (indicated by an A) which means rolling two dice and taking the higher of the two. Another variant is "disadvantaged" (indicated by a D), which is rolling two dice and taking the lower of the two. If you believe your character would have advantage or disadvantage for a certain roll (due to their background, current mental state, etc.), ask your GM.
 
 ## Solace
 **3 + Charisma**
@@ -54,9 +54,6 @@ This is a measure of how much damage your body can take before quitting. When yo
 ## Fading
 When your character dips below 1 hit point, they begin fading. This can be flavored as bleeding out, vision going black, etc. Once they are below -6 hit points, they are truly dead. When it is your turn, you lose a hit point automatically. If you wish to do anything but stay/go prone (laying down on the ground), you may expend an extra hit point and be able to perform actions, take movement, etc. on that turn.
 
-## Tricks
-Tricks are unnatural events that players can cause in or out of battle. These can be described as magical, supernatural, or tactical objects that cause reactions. Tricks typically have a cost associated with them, requiring you to expend that much solace to use them.
-
 # Characters
 This is how the players interact with the world of the GM's creation. Characters are designed by their respective players and have abilities, backgrounds, weapons, tools, and boons, all to help each player target their ideal play style.
 
@@ -68,10 +65,9 @@ The character concept is arguably the most important aspect of a character, whic
 ## Abilities
 Your character will have both strengths and weaknesses, as no one can be perfect for every situation. Abilities are a collection of six areas of expertise, that characters all have differing scores in.
 
-|Stat|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
-|-|-|-|-|-|-|-|
-|**Keyword**|Power|Precision|Persist|Puzzle|Practice|Presence|
-|**Description**|Natural athleticism|Physical agility, reflexes|Physical/Mental toughness|Analytical skill|Awareness, intuition|Confidence, eloquence|
+|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
+|-|-|-|-|-|-|
+|Natural athleticism, power|Physical agility, reflexes, precision|Physical/Mental toughness, persistance|Analytical skill, puzzling|Awareness, intuition, practice|Confidence, eloquence, presence|
 
 Each ability score will be a number, from -3 to +6. This is what will be added when using that particular skill, whether for a strength attack or an intelligence roll.
 
@@ -95,15 +91,4 @@ Combat is a common thing in plenty of stories, and can be a great thematic momen
 
 ***Initiative***. Everybody (including the GM) rolls 2d6. The player who rolled highest goes first, play continues to the right (including the GM).
 
-***On Your Turn***. There are three options that can be taken on your turn in combat: 1 movement, 1 action, and 1 bonus action.
-
-|Name|Description|Category|
-|-|-|-|
-|Go Prone|You lay down|Movement/Action|
-|Stand Up|From prone, you stand up|Movement/Action|
-|Run|You move up to 6 spaces|Movement/Action|
-|Hide|You attempt to conceal yourself|Movement/Action|
-|Attack|You use a weapon to deal damage|Action|
-|Shove|You attempt to knock a creature prone|Action|
-|Use|You use an item|Action|
-|Quick Use|You can use an item specified as "quick"|Bonus Action|
+***On Your Turn***. There are three options that can be taken on your turn in combat: 1 movement, 1 action, and 1 bonus action. Movement is generally defined as standing up, laying down, or traveling up to 30ft. As your action, you can take a second movement action instead, or you can hide, attack or shove, or use an item. Bonus actions are ones that can generally be taken very quickly, options that can be used as a bonus action will be specified as such.
