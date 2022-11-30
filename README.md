@@ -24,7 +24,6 @@ Characters in the game have different categories to describe their areas of expe
 
 **Strength** *Natural athleticism, physical power*
 - Effectiveness with melee weapons
-- Wearable armor
 - Resistance
 
 **Dexterity** *Physical agility, reflexes, precision*
@@ -36,13 +35,20 @@ Characters in the game have different categories to describe their areas of expe
 - Stamina
 
 **Mind** *Analytical skill, intuition*
-Awareness and tricks
+- Tricks
+- Focus
+
+## Resistance
+How much of a hit you can take before it harms you. These points are used up when you get damaged by something, and some are given back at the start of each turn. The upper limit is your **Constitution** score, and the regeneration is equal to your character's level.
 
 ## Stamina
 This is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The upper limit of this is your **Constitution** score, and the regeneration is equal to your character's level.
 
 ## Focus
 Is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your character's level.
+
+## Speed
+How fast your character is able to move during a turn. This is a number of tiles equal to 3 plus your **Dexterity** score.
 
 # Combat
 Struggle is a part of every story, and it may present itself in the form of combat. Your characters have specific strengths and weaknesses based on your primary attributes.

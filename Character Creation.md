@@ -1,0 +1,1 @@
+For simplicity's sake, the character crreation process begins at "level zero" with a generic character. This character has a 1 in each of the primary attributes
