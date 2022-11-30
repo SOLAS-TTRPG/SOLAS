@@ -1,20 +1,7 @@
-**Name**.  
-**Description**.  
+**Name**: 
+**Description**: 
   
-**Level**.  
+**Level**: 
 |Stat|Str|Dex|Con|Int|Wis|Cha|
 |-|-|-|-|-|-|-|
-|**Score**|+/-|+/-|+/-|+/-|+/-|+/-|
-  
-**Solace**.  
-**Defense**.  
-**Hit Points**.  
-  
-|Options|Name|Result|Notes|
-|-|-|-|-|
-|**Weapons**|-|-|-|
-|**Tools**|-|-|-|
-|**Tricks**|-|-|-|
-|**Miscellaneous**|-|-|-|
-  
-**Notes**. 
+|**Score**|1+|1+|1+|1+|1+|1+|
