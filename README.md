@@ -10,6 +10,11 @@ SOLAS is a system for running tabletop role-playing games (TTRPGs) that anybody 
 
 To play, you'll need more than two people (one of whom is the Game Master), a way to take notes, and at least one standard six-sided die. Other materials are nice to have (like more d6s), but are certainly not needed.
 
+# Terms
+This guide uses certain words to describe different aspects of the game, which are defined below:
+- **Tile**: Typically a square or hexagon on a grid, consider this to be 3ft or 1m
+- **Trick**: Something that a character is able to do which isn't an aspect of their normal self. This works for lots of settings, from flashbangs to spells to traps
+
 # Primary Attributes
 Characters in the game have different categories to describe their areas of expertise. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible, and 7 being the maximum possible. The categories are as follows:
 
@@ -22,7 +27,7 @@ Characters in the game have different categories to describe their areas of expe
 - Speed
 
 **Constitution** *Physical/Mental toughness, persistance*
-- Health pool
+- Health
 - Stamina
 
 **Mind** *Analytical skill, intuition*
@@ -52,3 +57,18 @@ The GM decides which primary attribute is used for any checks, which determines 
 
 # Combat
 Struggle is a part of every story, and it may present itself in the form of combat. Your characters have specific strengths and weaknesses based on your primary attributes.
+
+## Melee Attacks
+Your character can use any melee weapon to attack something/someone within one tile. This calls for a **Strength** roll, plus any additional modifiers provided by the weapon or passive bonuses you may have. Count the total number of successes you rolled, and remove this amount from their current resistance. If you would remove more than they have remaining, the excess is direct damage to their health.
+
+## Ranged Attacks
+Similar to **melee attacks**, but instead this calls for a **Dexterity** roll. The distance you can attack over is provided by the weapon or passive bonuses that you may have.
+
+## Tricks
+Tricks have varied costs, associated with their mental difficulty, as well as varying ranges they can be used over. Please refer to the [Tricks](Tricks.md) documentation.
+
+## On Your Turn
+On your turn, you may use any number of stamina or focus points, by taking any of the following actions that you are permitted to use:
+- **Movement**: Uses 1 point per tile
+- **Attacks**: Uses 1 point per
+- **Tricks**: Point usage depends on the difficulty of the trick
