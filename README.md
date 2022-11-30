@@ -23,13 +23,17 @@ The GM decides which primary attribute is used for any checks, which determines 
 Characters in the game have different categories to describe their areas of expertise. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible, and 7 being the maximum possible. The categories are as follows:
 
 **Strength** *Natural athleticism, physical power*
-Effectiveness with melee weapons and armor that one can wear
+- Effectiveness with melee weapons
+- Wearable armor
+- Resistance
 
 **Dexterity** *Physical agility, reflexes, precision*
-Effectiveness with ranged weapons and resistance
+- Effectiveness with ranged weapons
+- Speed
 
 **Constitution** *Physical/Mental toughness, persistance*
-Health pool and Stamina
+- Health pool
+- Stamina
 
 **Mind** *Analytical skill, intuition*
 Awareness and tricks
