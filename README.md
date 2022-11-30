@@ -29,13 +29,16 @@ Effectiveness with melee weapons and armor that one can wear
 Effectiveness with ranged weapons and resistance
 
 **Constitution** *Physical/Mental toughness, persistance*
-Health pool and resistance
+Health pool and Stamina
 
 **Mind** *Analytical skill, intuition*
 Awareness and tricks
 
+## Stamina
+This is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The upper limit of this is your **Constitution** score, and the regeneration is equal to your character's level.
+
 ## Focus
-Is your mental concentration at any given moment. These points are used up when you use tricks, and some iare given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your character's level.
+Is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your character's level.
 
 # Combat
 Struggle is a part of every story, and it may present itself in the form of combat. Your characters have specific strengths and weaknesses based on your primary attributes.
