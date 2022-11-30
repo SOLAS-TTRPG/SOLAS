@@ -47,7 +47,7 @@ Is your mental concentration at any given moment. These points are used up when 
 How fast your character is able to move during a turn. This is a number of tiles equal to 3 plus your **Dexterity** score.
 
 # Mechanics
-SOLAS is inspired by old TTRPG systems like Dungeons and Dragons and FATE, as well as some more obscure tabletop games like T.I.M.E. stories and the Hollow Knight TTRPG. As such, some mechanics will be familiar to veterens of tabletop games. Previous experience is not required, and SOLAS is designed to be as understandable for new players as possible.
+SOLAS is inspired by old TTRPG systems like Dungeons and Dragons and FATE, as well as some more obscure tabletop games like T.I.M.E. stories and the fan-made Hollow Knight RPG. As such, some mechanics will be familiar to veterens of tabletop games. Previous experience is not required, and SOLAS is designed to be as understandable for new players as possible.
 
 ## Rolling
 A die roll is when someone rolls a standard six-sided die to determine an outcome. Typically, a roll of 4 or higher is a success, and lower is a failure. Sometimes a roll is specified as "advantaged" (indicated by an A) which means dice rolls succeed on a 3 or higher. Another variant is "disadvantaged" (indicated by a D), which means dice rolls succeed on a 5 or higher. A 6 is always considered to be 2 successes.
@@ -69,6 +69,6 @@ Tricks have varied costs, associated with their mental difficulty, as well as va
 
 ## On Your Turn
 On your turn, you may use any number of stamina or focus points, by taking any of the following actions that you are permitted to use:
-- **Movement**: Uses 1 point per tile
-- **Attacks**: Uses 1 point per
-- **Tricks**: Point usage depends on the difficulty of the trick
+- **Movement**: Uses 1 **Stamina** point per tile
+- **Attacks**: Uses 1 **Stamina** point per attack
+- **Tricks**: **Focus** point usage depends on the difficulty of the trick
