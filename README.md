@@ -20,7 +20,7 @@ Characters in the game have different categories to describe their areas of expe
 
 **Strength** *Natural athleticism, physical power*
 - Effectiveness with melee weapons
-- Resistance
+- Armor limit
 
 **Dexterity** *Physical agility, reflexes, precision*
 - Effectiveness with ranged weapons
@@ -35,7 +35,7 @@ Characters in the game have different categories to describe their areas of expe
 - Focus
 
 ## Resistance
-How much of a hit you can take before it harms you. These points are used up when you get damaged by something, and some are given back at the start of each turn. The upper limit is your **Constitution** score, and the regeneration is equal to your character's level.
+How much of a hit you can take before it harms you. These points are used up when you get damaged by something, and some are given back at the start of each turn. The upper limit is your **Constitution** score plus any armor you are wearing, and the regeneration is equal to your character's level.
 
 ## Stamina
 This is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The upper limit of this is your **Constitution** score, and the regeneration is equal to your character's level.
