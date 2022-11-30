@@ -16,7 +16,10 @@ SOLAS is inspired by old TTRPG systems like Dungeons and Dragons and FATE, as we
 ## Rolling
 A die roll is when someone rolls a standard six-sided die to determine an outcome. Typically, a roll of 4 or higher is a success, and lower is a failure. Sometimes a roll is specified as "advantaged" (indicated by an A) which means dice rolls succeed on a 3 or higher. Another variant is "disadvantaged" (indicated by a D), which means dice rolls succeed on a 5 or higher. A 6 is always considered to be 2 successes.
 
-## Primary Attributes
+## Checks
+The GM decides which primary attribute is used for any checks, which determines the number of dice you roll. For example, a strength check with a player who has a 3 strength would roll 3d6.
+
+# Primary Attributes
 Characters in the game have different categories to describe their areas of expertise. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible, and 7 being the maximum possible. The categories are as follows:
 
 **Strength** *Natural athleticism, physical power*
@@ -31,11 +34,8 @@ Health pool and resistance
 **Mind** *Analytical skill, intuition*
 Awareness and tricks
 
-## Checks
-The GM decides which primary attribute is used for any checks, which determines the number of dice you roll. For example, a strength check with a player who has a 3 strength would roll 3d6.
+## Focus
+Is your mental concentration at any given moment. These points are used up when you use tricks, and some iare given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your character's level.
 
 # Combat
 Struggle is a part of every story, and it may present itself in the form of combat. Your characters have specific strengths and weaknesses based on your primary attributes.
-
-## Focus
-Is your mental concentration at any given moment. These points are used up when you use tricks, and some iare given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your character's level.
