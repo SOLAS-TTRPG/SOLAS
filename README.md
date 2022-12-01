@@ -29,7 +29,7 @@ Characters in the game have different categories to describe their areas of expe
 
 **Constitution** *Physical/Mental toughness, persistance*
 - Health
-- Stamina
+- Resistance/Stamina/Focus
 
 **Mind** *Analytical skill, intuition*
 - Tricks
@@ -45,20 +45,19 @@ How fast your character is able to move during a turn. This is a number of tiles
 How much of a beating your character can take before falling. This number is equal to your **Constitution** plus your character's level, and is brought back up to full after resting.
 
 ## Stamina
-This is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The upper limit of this is your **Constitution** score, and the regeneration is equal to your **Constitution**. Your resistance is brought back up to full after combat ends
+This is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The upper limit of this is 3, and the regeneration is equal to your **Constitution** score. Your stamina is brought back up to full after combat ends.
 
 ## Focus
-Is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your **Constitution**.
+Is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your **Constitution**. Your focus is brought back up to full after combat ends.
 
 # Mechanics
 SOLAS is inspired by old TTRPG systems like Dungeons and Dragons and FATE, as well as some more obscure tabletop games like T.I.M.E. stories and the fan-made Hollow Knight RPG. As such, some mechanics will be familiar to veterens of tabletop games. Previous experience is not required, and SOLAS is designed to be as understandable for new players as possible.
 
 ## Rolling
-A die roll (R#) is when someone rolls at least one standard six-sided die to determine an outcome. Typically, a roll of 4 or higher is a success, and lower is a failure. Sometimes a roll is specified as "advantaged" (indicated by an A) which means dice rolls succeed on a 3 or higher. Another variant is "disadvantaged" (indicated by a D), which means dice rolls succeed on a 5 or higher. A 6 is always considered to be 2 successes. Advantages and disadvantages both stack, and each cancels another out. 2 advantages means the dice are successes on 2 or higher. For easy reference:
+A die roll (R#) is when someone rolls at least one standard six-sided die to determine an outcome. Typically, a roll of 4 or higher is a success, and lower is a failure. Sometimes a roll is specified as "advantaged" (indicated by an A) which means dice rolls succeed on a 3 or higher. Another variant is "disadvantaged" (indicated by a D), which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages both stack, and each cancels another out. 2 advantages means the dice are successes on 2 or higher. For easy reference:
 |AAA|AA|A|-|D|DD|
 |-|-|-|-|-|-|
 |Any number|2+|3+|4+|5+|6 exclusively|
-
 
 ## Checks
 The GM decides which primary attribute is used for any checks, which determines the number of dice you roll. For example, a strength check with a player who has a 3 strength would get to roll R3.
@@ -79,7 +78,7 @@ Tricks have varied costs, associated with their mental difficulty, as well as va
 Some enemies or characters may be resistant or weak to certain types of damage. If something is weak to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
 
 ## On Your Turn
-On your turn, you may use any number of stamina or focus points, by taking any of the following actions that you are permitted to use:
-- **Movement**: Uses 1 **Stamina** point per tile
+You regenerate some of your stamina, focus, and resistance. You may use any number of your remaining stamina or focus points, by taking any of the following actions that you are permitted to use:
+- **Movement**: Use 1 **Stamina** point to move up to your speed
 - **Attacks**: Uses 1 **Stamina** point per attack
 - **Tricks**: Uses 1 **Stamina** point per trick, as well as **Focus** points based on trick difficulty 

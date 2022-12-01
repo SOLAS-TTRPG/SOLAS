@@ -1,5 +1,7 @@
 Tricks have dynamic costs, associated with their mental difficulty. While these are flavored as fantasy spells, feel free to flavor the tricks for your setting.
 
+Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your health is reduced (resistance doesn't count) or cast another spell, the effect ends.
+
 # Simple Tricks
 *Cost: 2 Focus*
 These tricks represent things that a character can do without any effort.
@@ -34,13 +36,15 @@ You utter a divine word, and burning radiance erupts around each creature of you
 This tricks represent things that a character can do with a small effort.
 
 ## Armor of Agathys
+***Concentration***
 *Range: Self*
 *R4 Cold*
 A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear, and your resistance is brought back up to its maximum. If a creature within 1 tile reduces your resistance to 0, you attack the creature for 2 cold with no cost.
 
 ## Bless
+***Concentration***
 *Range: 6 Tiles*
-Until the end of your next turn, three creatures of your choice within range get to add R1 to their rolls (checks, attacks, and tricks)
+Three creatures of your choice who remain in range get to add R1 to their rolls (checks, attacks, and tricks)
 
 ## Burning Hands
 *Range: 3 Tiles*
@@ -50,15 +54,16 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 ## Chromatic Orb
 *Range: 9 Tiles*
 *R4 Choose*
-You hurl a small sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the damage.
+You hurl a small sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the damage type.
 
 ## Hex
+***Concentration***
 *Range: 9 Tiles*
-You place a curse on a creature that you can see within range. Until the end of your next turn, you get advantage on all attacks and tricks with that creature as the target.
+You place a curse on a creature that you can see within range. Until concentration ends, you get to add 1R on all attacks and tricks with that creature as the target.
 
 ## Inflict Wounds
 *Range: 1 Tile*
-*R6 Necrotic*
+*R5 Necrotic*
 Your touch causes a creature to be wracked with decay.
 
 ## Inspire
@@ -66,6 +71,21 @@ Your touch causes a creature to be wracked with decay.
 A creature that you choose within range has advantage on their next roll (check, attack, or trick)
 
 ## Witch Bolt
+***Concentration***
 *Range: 6 Tiles*
 *R3 Lightning*
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. As long as you do damage with the witch bolt, you may use witch bolt again with only stamina cost.
+
+# Moderate Tricks
+*Cost: 5 Focus*
+Tricks that require some knowledge to pull off
+
+## Barkskin
+***Concentration***
+*Range: 1 Tile*
+You touch a willing creature, giving them a resistance point back. The target’s skin has a rough, bark-like appearance, and at the start of each of their turns, they get an additional resistance point.
+
+## Dragon's Breath
+***Concentration***
+*Range: 1 Tile*
+You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use a stamina point to exhale energy of the chosen type in a 3 tile cone, doing 4R damage of the chosen type to each creature in the area.
