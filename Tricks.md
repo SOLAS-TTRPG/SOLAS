@@ -54,7 +54,7 @@ You hurl a small sphere of energy at a creature that you can see within range. Y
 
 ## Hex
 *Range: 9 Tiles*
-You place a curse on a creature that you can see within range. Until the end of your next turn, you get a +1 to all attacks and tricks with that creature as the target.
+You place a curse on a creature that you can see within range. Until the end of your next turn, you get advantage on all attacks and tricks with that creature as the target.
 
 ## Inflict Wounds
 *Range: 1 Tile*
@@ -65,7 +65,7 @@ Your touch causes a creature to be wracked with decay.
 *Range: 6 Tiles*
 A creature that you choose within range has advantage on their next roll (check, attack, or trick)
 
-## Magic Missile
-*Range: 12 Tiles*
-*AAR2 Force*
-You create three glowing darts of magical force which each target a creature of your choice within range.
+## Witch Bolt
+*Range: 6 Tiles*
+*R3 Lightning*
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. As long as you do damage with the witch bolt, you may use witch bolt again with only stamina cost.
