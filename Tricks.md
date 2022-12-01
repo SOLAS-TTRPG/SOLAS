@@ -2,7 +2,7 @@ Tricks have dynamic costs, associated with their mental difficulty. While these 
 
 # Simple Tricks
 *Cost: 2 Focus*
-This tricks represent things that a character can do without any effort.
+These tricks represent things that a character can do without any effort.
 
 ## Fire Bolt
 *Range: 10 Tiles*
@@ -30,3 +30,5 @@ You point at one creature you can see within range, and the sound of a dolorous 
 You utter a divine word, and burning radiance erupts around each creature of your choice that you can see within range.
 
 # Easy Tricks
+*Cost: 3 Focus*
+This tricks represent things that a character can do without any effort.
