@@ -35,9 +35,37 @@ This tricks represent things that a character can do with a small effort.
 
 ## Armor of Agathys
 *Range: Self*
-*R2 Cold*
-A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear, and your resistance is brought back up to the maximum. If a creature within 1 tile reduces your resistance to 0, you attack the creature for 2 cold with no cost.
+*R4 Cold*
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear, and your resistance is brought back up to its maximum. If a creature within 1 tile reduces your resistance to 0, you attack the creature for 2 cold with no cost.
+
+## Bless
+*Range: 6 Tiles*
+Until the end of your next turn, three creatures of your choice within range get to add R1 to their rolls (checks, attacks, and tricks)
+
+## Burning Hands
+*Range: 3 Tiles*
+*R4 Fire*
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips, burning each creature in a 3 tile cone.
+
+## Chromatic Orb
+*Range: 9 Tiles*
+*R4 Choose*
+You hurl a small sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the damage.
+
+## Hex
+*Range: 9 Tiles*
+You place a curse on a creature that you can see within range. Until the end of your next turn, you get a +1 to all attacks and tricks with that creature as the target.
+
+## Inflict Wounds
+*Range: 1 Tile*
+*R6 Necrotic*
+Your touch causes a creature to be wracked with decay.
 
 ## Inspire
 *Range: 6 Tiles*
 A creature that you choose within range has advantage on their next roll (check, attack, or trick)
+
+## Magic Missile
+*Range: 12 Tiles*
+*AAR2 Force*
+You create three glowing darts of magical force which each target a creature of your choice within range.
