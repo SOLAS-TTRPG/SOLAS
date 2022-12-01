@@ -35,16 +35,19 @@ Characters in the game have different categories to describe their areas of expe
 - Focus
 
 ## Resistance
-How much of a hit you can take before it harms you. These points are used up when you get damaged by something, and some are given back at the start of each turn. The upper limit is your **Constitution** score plus any armor you are wearing, and the regeneration is equal to your character's level.
-
-## Stamina
-This is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The upper limit of this is your **Constitution** score, and the regeneration is equal to your character's level.
-
-## Focus
-Is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your character's level.
+How much of a hit you can take before it harms you. These points are used up when you get damaged by something, and some are given back at the start of each turn. The upper limit is your **Strength** score plus any armor you are wearing, and the regeneration is equal to your **Constitution**. Your resistance is brought back up to full after combat ends.
 
 ## Speed
 How fast your character is able to move during a turn. This is a number of tiles equal to 3 plus your **Dexterity** score.
+
+## Health
+How much of a beating your character can take before falling. This number is equal to your **Constitution** plus your character's level, and is brought back up to full after resting.
+
+## Stamina
+This is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The upper limit of this is your **Constitution** score, and the regeneration is equal to your **Constitution**. Your resistance is brought back up to full after combat ends
+
+## Focus
+Is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn. The upper limit of this is your **Mind** score, and the regeneration is equal to your **Constitution**.
 
 # Mechanics
 SOLAS is inspired by old TTRPG systems like Dungeons and Dragons and FATE, as well as some more obscure tabletop games like T.I.M.E. stories and the fan-made Hollow Knight RPG. As such, some mechanics will be familiar to veterens of tabletop games. Previous experience is not required, and SOLAS is designed to be as understandable for new players as possible.
@@ -67,8 +70,11 @@ Similar to **melee attacks**, but instead this calls for a **Dexterity** roll. T
 ## Tricks
 Tricks have varied costs, associated with their mental difficulty, as well as varying ranges they can be used over. Please refer to the [Tricks](Tricks.md) documentation.
 
+## Resistances/Weaknesses
+Some enemies or characters may be resistant or weak to certain types of damage. If something is weak to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
+
 ## On Your Turn
 On your turn, you may use any number of stamina or focus points, by taking any of the following actions that you are permitted to use:
 - **Movement**: Uses 1 **Stamina** point per tile
 - **Attacks**: Uses 1 **Stamina** point per attack
-- **Tricks**: **Focus** point usage depends on the difficulty of the trick
+- **Tricks**: Uses 1 **Stamina** point per trick, as well as **Focus** points based on trick difficulty 
