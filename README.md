@@ -14,7 +14,7 @@ To play, you'll need more than two people (one of whom is the Game Master), a wa
 This guide uses certain words to describe different aspects of the game, which are defined below:
 - **Tile**: Typically a square or hexagon on a grid, consider this to be 3ft or 1m
 - **Trick**: Something that a character is able to do which isn't an aspect of their normal self. This works for lots of settings, from flashbangs to spells to traps
-- **R(*Followed by a number*)** Indicates how many dice you roll
+- **R(*Followed by a number*)** Indicates how many six-sided dice you roll
 
 # Primary Attributes
 Characters in the game have different categories to describe their areas of expertise. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible, and 7 being the maximum possible. The categories are as follows:
