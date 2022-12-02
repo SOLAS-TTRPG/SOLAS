@@ -2,6 +2,8 @@ Tricks have dynamic costs, associated with their mental difficulty. While these 
 
 Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your health is reduced (resistance doesn't count) or cast another spell, the effect ends.
 
+When you go to use a trick, you can elect to spend extra Focus points beyond the normal cost. For each additional Focus point you spend, you roll an additional d6.
+
 # Simple Tricks
 *Cost: 2 Focus*
 These tricks represent things that a character can do without any effort.
@@ -69,6 +71,12 @@ Your touch causes a creature to be wracked with decay.
 ## Inspire
 *Range: 6 Tiles*
 A creature that you choose within range has advantage on their next roll (check, attack, or trick)
+
+## Revitalizing Aura
+***Concentration***
+*Range: 1 Tile*
+Any creatures of your choice that start their turn within range recover an additional stamina point.
+
 
 ## Witch Bolt
 ***Concentration***
