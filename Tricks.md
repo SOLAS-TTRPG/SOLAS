@@ -1,12 +1,12 @@
 Tricks have dynamic costs, associated with their mental difficulty. While these are flavored as fantasy spells, feel free to flavor the tricks for your setting.
 
-Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your health is reduced (resistance doesn't count) or cast another spell, the effect ends.
+Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced (resistance doesn't count) or cast another spell, the effect ends.
 
 When you go to use a trick, you can elect to spend extra Focus points beyond the normal cost. For each additional Focus point you spend, you roll an additional d6.
 
 # Simple Tricks
 *Cost: 2 Focus*
-These tricks represent things that a character can do without any effort.
+These tricks represent things that a character can do with hardly any effort.
 
 ## Fire Bolt
 *Range: 12 Tiles*
@@ -77,7 +77,6 @@ A creature that you choose within range has advantage on their next roll (check,
 *Range: 1 Tile*
 Any creatures of your choice that start their turn within range recover an additional stamina point.
 
-
 ## Witch Bolt
 ***Concentration***
 *Range: 6 Tiles*
@@ -86,7 +85,7 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 
 # Moderate Tricks
 *Cost: 5 Focus*
-Tricks that require some knowledge to pull off
+Tricks that require some decent concentration.
 
 ## Barkskin
 ***Concentration***

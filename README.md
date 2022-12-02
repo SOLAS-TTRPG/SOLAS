@@ -12,9 +12,9 @@ To play, you'll need more than two people (one of whom is the Game Master), a wa
 
 # Terms
 This guide uses certain words to describe different aspects of the game, which are defined below:
+- **R(*Followed by a number*)**: Indicates how many six-sided dice you roll
 - **Tile**: Typically a square or hexagon on a grid, consider this to be 3ft or 1m
 - **Trick**: Something that a character is able to do which isn't an aspect of their normal self. This works for lots of settings, from flashbangs to spells to traps
-- **R(*Followed by a number*)** Indicates how many six-sided dice you roll
 
 # Primary Attributes
 Characters in the game have different categories to describe their areas of expertise. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible, and 7 being the maximum possible. The categories are as follows:
@@ -28,7 +28,7 @@ Characters in the game have different categories to describe their areas of expe
 - Speed
 
 **Constitution** *Physical/Mental toughness, persistance*
-- Health
+- Heart
 - Resistance/Stamina/Focus
 
 **Mind** *Analytical skill, intuition*
@@ -41,7 +41,7 @@ How much of a hit you can take before it harms you. These points are used up whe
 ## Speed
 How fast your character is able to move during a turn. This is a number of tiles equal to 3 plus your **Dexterity** score.
 
-## Health
+## Heart
 How much of a beating your character can take before falling. This number is equal to your **Constitution** plus your character's level, and is brought back up to full after resting.
 
 ## Stamina
@@ -66,7 +66,7 @@ The GM decides which primary attribute is used for any checks, which determines 
 Struggle is a part of every story, and it may present itself in the form of combat. Your characters have specific strengths and weaknesses based on your primary attributes.
 
 ## Melee Attacks
-Your character can use any melee weapon to attack something/someone within one tile. This calls for a **Strength** roll, plus any additional modifiers provided by the weapon or passive bonuses you may have. Count the total number of successes you rolled, and remove this amount from their current resistance. If you would remove more than they have remaining, the excess is direct damage to their health.
+Your character can use any melee weapon to attack something/someone within one tile. This calls for a **Strength** roll, plus any additional modifiers provided by the weapon or passive bonuses you may have. Count the total number of successes you rolled, and remove this amount from their current resistance. If you would remove more than they have remaining, the excess is direct damage to their remaining heart.
 
 ## Ranged Attacks
 Similar to **melee attacks**, but instead this calls for a **Dexterity** roll. The distance you can attack over is provided by the weapon or passive bonuses that you may have.
