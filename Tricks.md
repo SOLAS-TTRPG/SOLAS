@@ -2,7 +2,7 @@ Tricks have dynamic costs, associated with their mental difficulty. While these 
 
 Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced (resistance doesn't count) or cast another spell, the effect ends.
 
-When you go to use a trick, you can elect to spend extra Focus points beyond the normal cost. For each additional Focus point you spend, you roll an additional d6.
+If a trick is specified as *Scalable*, you can elect to spend extra Focus points beyond the normal cost. For each additional Focus point you spend, you roll an additional d6.
 
 # Basic Tricks
 *Cost: 1 Focus*

@@ -64,6 +64,12 @@ A die roll (R#) is when someone rolls at least one standard six-sided die to det
 ## Checks
 The GM decides which primary attribute is used for any checks, which determines the number of dice you roll. For example, a strength check with a player who has a 3 strength would get to roll R3.
 
+## Damage Types
+SOLAS contains many different damage types for different weapons and tricks. This list can be expanded upon for your needs, but the basic list is as follows:
+**Physical**: Bludgeoning, Piercing, Slashing
+**Elemental**: Acid, Fire, Cold, Lightning
+**Celestial**: Radiant, Necrotic, Force, Psychic
+
 # Combat
 Struggle is a part of every story, and it may present itself in the form of combat. Your characters have specific strengths and weaknesses based on your primary attributes.
 
@@ -79,11 +85,11 @@ Tricks have varied costs, associated with their mental difficulty, as well as va
 ## Resistances/Weaknesses
 Some enemies or characters may be resistant or weak to certain types of damage. If something is weak to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
 
-## On Your Turn
+## Fading
+Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -5 heart, your character falls and passes.
+
+# On Your Turn
 You regenerate some of your stamina, focus, and resistance. You may use any number of your remaining stamina or focus points, by taking any of the following actions that you are permitted to use:
 - **Movement**: Use 1 **Stamina** point to move up to your speed
 - **Attacks**: Uses 1 **Stamina** point per attack
 - **Tricks**: Uses 1 **Stamina** point per trick, as well as **Focus** points based on trick difficulty
-
-## Fading
-Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -5 heart, your character falls and passes.
