@@ -1,8 +1,3 @@
-For simplicity's sake, the character creation process begins at "level zero" with a generic character. This character has a 1 in each of the primary attributes.
-
-Each time you gain a level (including level one!) add a point to a primary attribute of your choosing.
-
-# Boons
 A boon is something that is a unique skill that shapes your character. Your GM decides when to award boons, but each player gets to select a boon of their choice.
 
 ## Elemental Shift
