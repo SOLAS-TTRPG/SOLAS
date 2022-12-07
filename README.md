@@ -29,13 +29,13 @@ Characters in the game have different categories to describe their areas of expe
 - Effectiveness with ranged weapons
 - Speed
 
-**Constitution** *Physical/Mental toughness, persistance*
-- Heart
-- Resistance/Stamina/Focus
-
 **Mind** *Analytical skill, intuition*
 - Tricks
 - Focus
+
+**Constitution** *Physical/Mental toughness, persistance*
+- Heart
+- Resistance/Stamina/Focus
 
 ## Resistance
 How much of a hit you can take before it harms you. These points are used up when you get damaged by something, and some are given back at the start of each turn. The upper limit is your **Strength** score plus any armor you are wearing, and the regeneration is equal to your **Constitution**. Your resistance is brought back up to full after combat ends.
