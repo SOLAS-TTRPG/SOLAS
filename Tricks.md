@@ -4,6 +4,14 @@ Each spell costs 1 stamina to cast, as well as its associated focus cost, regard
 
 When you go to use a trick, you can elect to spend extra Focus points beyond the normal cost. For each additional Focus point you spend, you roll an additional d6.
 
+# Basic Tricks
+*Cost: 1 Focus*
+These tricks are things anybody can do.
+
+## Heal
+*Range: 5ft*
+You help a creature recover lost heart within range (including yourself). The target creature regains 1 heart, up to their maximum.
+
 # Simple Tricks
 *Cost: 2 Focus*
 These tricks represent things that a character can do with hardly any effort.

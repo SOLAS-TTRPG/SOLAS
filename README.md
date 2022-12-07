@@ -44,7 +44,7 @@ How much of a hit you can take before it harms you. These points are used up whe
 How fast your character is able to move during a turn. This is a number of tiles equal to 3 plus your **Dexterity** score.
 
 ## Heart
-How much of a beating your character can take before falling. This number is equal to your **Constitution** plus your character's level, and is brought back up to full after resting.
+How much of a beating your character can take, and once it reaches zero you begin fading. This number is equal to your **Constitution** plus your character's level, and is brought back up to full after resting.
 
 ## Stamina
 This is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The upper limit of this is 3, and the regeneration is equal to your **Constitution** score. Your stamina is brought back up to full after combat ends.
@@ -83,4 +83,7 @@ Some enemies or characters may be resistant or weak to certain types of damage. 
 You regenerate some of your stamina, focus, and resistance. You may use any number of your remaining stamina or focus points, by taking any of the following actions that you are permitted to use:
 - **Movement**: Use 1 **Stamina** point to move up to your speed
 - **Attacks**: Uses 1 **Stamina** point per attack
-- **Tricks**: Uses 1 **Stamina** point per trick, as well as **Focus** points based on trick difficulty 
+- **Tricks**: Uses 1 **Stamina** point per trick, as well as **Focus** points based on trick difficulty
+
+## Fading
+Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -5 heart, your character falls and passes.
