@@ -19,7 +19,7 @@ This guide uses certain words to describe different aspects of the game, which a
 - **Trick**: Something that a character is able to do which isn't an aspect of their normal self. This works for lots of settings, from flashbangs to spells to traps
 
 # Primary Attributes
-Characters in the game have different categories to describe their areas of expertise. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible, and 7 being the maximum possible. The categories are as follows:
+Characters in the game have different categories to describe their areas of expertise. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible. The categories are as follows:
 
 **Strength** *Natural athleticism, physical power*
 - Effectiveness with melee weapons
@@ -41,7 +41,7 @@ Characters in the game have different categories to describe their areas of expe
 How much of a hit you can take before it harms you. These points are used up when you get damaged by something, and some are given back at the start of each turn. The upper limit is your **Strength** score plus any armor you are wearing, and the regeneration is equal to your **Constitution**. Your resistance is brought back up to full after combat ends.
 
 ## Speed
-How fast your character is able to move during a turn. This is a number of tiles equal to 3 plus your **Dexterity** score.
+How fast your character is able to move during a turn. This is a number of tiles equal to 4 plus your **Dexterity** score.
 
 ## Heart
 How much of a beating your character can take, and once it reaches zero you begin fading. This number is equal to your **Constitution** plus your character's level, and is brought back up to full after resting.
