@@ -75,7 +75,7 @@ A creature that you choose within range has advantage on their next roll (check,
 ## Revitalizing Aura
 ***Concentration***
 *Range: 1 Tile*
-Any creatures of your choice that start their turn within range recover an additional stamina point.
+A creature of your choice that starts their turn within range recovers an additional stamina point. If they start their turn outside of the range, the aura fades and ends.
 
 ## Witch Bolt
 ***Concentration***

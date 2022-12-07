@@ -1,9 +1,11 @@
 # Preface
-SOLAS is a simply organized, lightweight adventure system that takes the good aspects of many TTRPGs and condenses it into an understandable and easy-to-learn system that lets you tell any story.
-
 The main goals of TTRPGs are to provide exploration, social interaction, and combat, but many have far too complex systems that don't allow new players to pick up the rulebook and start playing that same day.
 
 Solas's goal is to make a dead-simple system that uses players' knowledge of storytelling to allow them to quickly understand their options and get started playing with any type of story they want to tell, in any setting. Whether it's cowboys vs aliens, a prohibition murder mystery, or medieval fantasy, Solas helps you tell that story in a fun, interactive way.
+
+I grew up playing first edition Dungeons and Dragons (copyright, Hasbro), and when I moved to fifth edition I noticed some things that didn't seem like they helped streamline the TTRPG process. Spell lists had been made confusing, with differing rules for different classes and combat having more moving pieces but less flexibility. After playing TIME Stories (copyright, Space Cowboys) and seeing the strengths of a D6 dice system, I starting building out this system. After getting wind of a fan-made Hollow Knight-inspired TTRPG, I started refining the mechanics of SOLAS.
+
+And that's where we are today! Thanks for checking it out
 
 # Welcome to SOLAS
 SOLAS is a system for running tabletop role-playing games (TTRPGs) that anybody can pick up and play. TTRPGs are about getting together with others and letting a story play out, with players controlling characters of their design.
@@ -80,5 +82,5 @@ Some enemies or characters may be resistant or weak to certain types of damage. 
 ## On Your Turn
 You regenerate some of your stamina, focus, and resistance. You may use any number of your remaining stamina or focus points, by taking any of the following actions that you are permitted to use:
 - **Movement**: Use 1 **Stamina** point to move up to your speed
-- **Attacks**: Uses 1 **Stamina** point per attack
+- **Attacks**: Uses 1 **Stamina** point per attack, but are limited to one per weapon
 - **Tricks**: Uses 1 **Stamina** point per trick, as well as **Focus** points based on trick difficulty 
