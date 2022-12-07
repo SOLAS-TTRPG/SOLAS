@@ -82,5 +82,5 @@ Some enemies or characters may be resistant or weak to certain types of damage. 
 ## On Your Turn
 You regenerate some of your stamina, focus, and resistance. You may use any number of your remaining stamina or focus points, by taking any of the following actions that you are permitted to use:
 - **Movement**: Use 1 **Stamina** point to move up to your speed
-- **Attacks**: Uses 1 **Stamina** point per attack, but are limited to one per weapon
+- **Attacks**: Uses 1 **Stamina** point per attack
 - **Tricks**: Uses 1 **Stamina** point per trick, as well as **Focus** points based on trick difficulty 
