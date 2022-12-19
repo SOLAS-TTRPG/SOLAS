@@ -3,3 +3,6 @@ For weapons, their rolls are based off of your associated Primary Attribute. Mel
 There can also be similar bonuses for tricks. The GM can give characters special means of using their tricks, such as staves, seals, etc. These can also be buffed with adding modifiers, advantages with certain damage types, etc.
 
 For melee weapons, characters have the option of wielding their weapon with both hands, giving them a level of advantage to attacks with that weapon.
+
+## Light Weapons
+Weapons that are quick to use
