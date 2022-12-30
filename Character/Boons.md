@@ -1,18 +1,5 @@
 A boon is something that is a unique skill that shapes how your character interacts with the world. Some boons have requirements, and characters that don't meet these cannot get the boon.
 
-**Physical**: Bludgeoning, Piercing, Slashing
-**Elemental**: Poison, Fire, Cold, Lightning
-**Celestial**: Radiant, Necrotic, Force, Psychic
-
-# Darkvision
-Your character has superb vision in the dark, being raised in it or naturally gifted. Your character can see up to 6 tiles away in darkness, in shades of gray.
-
-# Celestial Lineage
-Somewhere in your ancestry is a source of celestial power, whether from deities, psions, or something else entirely. You are resistant to one celestial damage type (Radiant, Necrotic, Force, or Psychic) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
-
-# Elemental Lineage
-Somewhere in your ancestry is a source of elemental power, whether from dragons, primordials, or something else entirely. You are resistant to one elemental damage type (Poison, Fire, Cold, or Lightning) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
-
 # Elemental Shift
 When you attack with a physical weapon, you can spend a focus point to change its damage type to an elemental one. This effect persists through combat, and you can spend another **focus** to re-roll the type. To do this, roll a d6:
 
