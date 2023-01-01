@@ -16,6 +16,13 @@ You help a creature recover lost heart within range (including yourself). The ta
 *Cost: 2 Focus*
 These tricks represent things that a character can do with hardly any effort.
 
+## Tinkering
+You are able to improve and change everyday objects to suit your needs. By spending 1 Stamina and 1 Focus, you may touch an object and give it one of the following properties.
+- The object sheds bright light in a 1-tile radius and dim light for an additional tile.
+- The object emits a 6-second recorded message that can be heard up to 2 tiles away (you must say this message when you touch the object)
+- The object continuously emits and odor or a nonverbal sound, percievable up to 2 tiles away.
+- The object's surface shows what you trace with your finger.
+
 ## Fire Bolt
 *Range: 12 Tiles*
 *R2 Fire*

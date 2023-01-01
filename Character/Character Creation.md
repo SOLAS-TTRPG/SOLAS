@@ -3,8 +3,14 @@ Character creation is a fantastic process where you can let your creativity run 
 # Starting
 For simplicity's sake, the character creation process begins at "level zero" with a generic character. This character has a 1 in each of the primary attributes. This is when you choose your lineage and innate abilities.
 
-## Abilities
-These are innate abilities or gifts that your character has. When creating your character, you may choose two of these
+## Lineage Abilities
+These are innate abilities, results of upbringing, or gifts that your character has. When creating your character, you may choose two of these.
+
+**Aware**
+- Your character has sharpened their senses to keep an eye out and notice details. All
+
+**Combat Training**
+- Your character thrives in combat, and has an extra point of resistance
 
 **Darkvision**
 - Your character has superb vision in the dark, being raised in it or naturally gifted. Your character can see up to 6 tiles away in darkness, in shades of gray.
