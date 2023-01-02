@@ -1,0 +1,7 @@
+The main goals of TTRPGs are to provide exploration, social interaction, and combat, but many have far too complex systems that don't allow new players to pick up the rulebook and start playing that same day.
+
+Solas's goal is to make a dead-simple system that uses players' knowledge of storytelling to allow them to quickly understand their options and get started playing with any type of story they want to tell, in any setting. Whether it's cowboys vs aliens, a prohibition murder mystery, or medieval fantasy, Solas helps you tell that story in a fun, interactive way.
+
+I grew up playing first edition Dungeons and Dragons (copyright, Hasbro), and when I moved to fifth edition I noticed some things that didn't seem like they helped streamline the TTRPG process. Spell lists had been made confusing, with differing rules for different classes and combat having more moving pieces but less flexibility. After playing TIME Stories (copyright, Space Cowboys) and seeing the strengths of a D6 dice system, I starting building out this system. After getting wind of a fan-made Hollow Knight-inspired TTRPG, and playing a hybrid first/fifth edition Dungeons with friends, I started refining the mechanics of SOLAS to make it an easily adaptible and quicker to learn.
+
+And that's where we are today! Thanks for checking it out.
