@@ -32,6 +32,7 @@ Characters in the game have different categories to describe their areas of expe
 **Mind** *Analytical skill, intuition*
 - Tricks
 - Focus
+- Magic Resistance
 
 **Constitution** *Physical/Mental toughness, persistance*
 - Heart
