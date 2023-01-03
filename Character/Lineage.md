@@ -14,16 +14,20 @@ Innate options are characteristics that one is born with.
 
 ## Darkvision
 You have superb vision in the dark, being raised in it or naturally gifted. Your character can see up to 6 tiles away in darkness, in shades of gray.
+
 *This may manifest if the form of non-human eyes, such as cat pupils or glowing irises*
 
 ## Celestial Lineage
 You are resistant to one celestial damage type (Radiant, Necrotic, Force, or Psychic) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
-*Your power may come from deities, psions, or something else entirely. This usually manifests in a shifted palette, gold for celestials, reds for devils, purples for psions, etc..*
+
+*Your power may come from deities, psions, or something else entirely. This usually manifests in a shifted palette, gold for celestials, reds for devils, purples for psions, etc.*
 
 ## Elemental Lineage
 You are resistant to one elemental damage type (Poison, Fire, Cold, or Lightning) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
+
 *Your power may come from primordials, dragons, or something else entirely. This usually manifests in a shifted palette, dealing in reds and oranges for fire, etc.*
 
 ## Twilit
 You no longer need to sleep to fully recover heart, instead only requiring 4 hours of concious meditation.
+
 *This may be the result of exposure to the feywild, underdark, or similar place. Your skin may sparkle in the right light, some animalistic features may manifest (satyrs, for example), flowers may bloom/wilt around you depending on your mood, or similar flavoring.*
