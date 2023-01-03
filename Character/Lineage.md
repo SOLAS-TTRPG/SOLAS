@@ -6,6 +6,9 @@ Lifestyle options reflect the skills that one develops based on their upbringing
 ## Athlete
 You've been raised to depend on your physical strength, in and out of combat. When you have to roll a **Strength** check, you gain advantage.
 
+## Criminal
+You are an experienced criminal with a history of breaking the law, and you have survived up to this point by flouting the rules and regulations of society. You have advantage on **Dexterity** checks involving stealth and/or sleight of hand.
+
 ## Sage
 You've spent your time pouring over every detail in your area of research, memorizing every intricacy of the field. When you have to roll a **Mind** check, you gain advantage.
 
