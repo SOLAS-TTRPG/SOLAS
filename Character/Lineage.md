@@ -1,16 +1,27 @@
-These are innate abilities, results of upbringing, or gifts that your character could have. These do not define all that your character is, only aspects. Feel free to include as much character background detail as you'd like, but you may only recieve the benefits listed here the amount gicen in character creation.
+These are innate abilities, results of upbringing, or gifts that your character could have. These do not define all that your character is, only aspects. Feel free to include as much character background detail as you'd like, or create your own! It is up to GM discretion to allow or deny lineage options, but as a rule of thumb .
 
 # Lifestyle
 Lifestyle options reflect the skills that one develops based on their upbringing.
 
 ## Athlete
-You've been raised to depend on your physical strength, in and out of combat. When you have to roll a **Strength** check, you gain advantage.
+When you have to roll a **Strength** check, you gain advantage.
 
-## Criminal
-You are an experienced criminal with a history of breaking the law, and you have survived up to this point by flouting the rules and regulations of society. You have advantage on **Dexterity** checks involving stealth and/or sleight of hand.
+*You've been raised to depend on your physical strength, in and out of combat.*
+
+## Far Traveler
+You have advantage on **Constitution**.
+
+*You are from a distant place, one so remote that few of the common folk realize that it exists, and chances are good that even if some people you meet have heard of your homeland, they know merely the name and perhaps a few outrageous tales.*
 
 ## Sage
-You've spent your time pouring over every detail in your area of research, memorizing every intricacy of the field. When you have to roll a **Mind** check, you gain advantage.
+You have advantage on **Mind** checks.
+
+*You've spent your time pouring over every detail in your area of research, memorizing every intricacy of the field.*
+
+## Runaway
+You have advantage on **Dexterity** checks.
+
+*Staying on the outskirts of society, you had no one to watch over you or to provide for you, so you learned to provide for yourself. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.*
 
 # Innate
 Innate options are characteristics that one is born with.
