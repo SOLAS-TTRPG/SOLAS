@@ -1,8 +1,6 @@
 Tricks have dynamic costs, associated with their mental difficulty. While these are flavored as fantasy spells, feel free to flavor the tricks for your setting.
 
-Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced (resistance doesn't count) or cast another spell, the effect ends.
-
-If a trick is specified as *Scalable*, you can elect to spend extra Focus points beyond the normal cost. For each additional Focus point you spend, you roll an additional d6.
+Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends.
 
 # Basic Tricks
 *Cost: 1 Focus*
@@ -10,7 +8,7 @@ These tricks are things anybody can do.
 
 ## Heal
 *Range: 5ft*
-You help a creature recover lost heart within range (including yourself). The target creature regains 1 heart, up to their maximum.
+You help a creature recover lost heart within range (including yourself). The target creature regains R2 heart, up to their maximum.
 
 # Simple Tricks
 *Cost: 2 Focus*
@@ -25,27 +23,27 @@ You are able to improve and change everyday objects to suit your needs. By spend
 
 ## Fire Bolt
 *Range: 12 Tiles*
-*R2 Fire*
+*R3 Fire*
 You hurl a mote of fire at a creature or object within range. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
 ## Ray of Frost
 *Range: 6 Tiles*
-*R2 Cold*
+*R3 Cold*
 A frigid beam of blue-white light streaks toward a creature within range. If it reduces the target's HP, its speed is reduced by 2 tiles until the start of your next turn.
 
 ## Shocking Grasp
 *Range: 1 Tile*
-*R3 Lightning*
+*R4 Lightning*
 Lightning springs from your hand to deliver a shock to a creature you try to touch. You have advantage on the attack roll if the target is wearing armor made of metal.
 
 ## Toll the Dead
 *Range: 6 Tiles*
-*R2 Necrotic*
+*R3 Necrotic*
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. If the target is missing any of its hit points, you may roll with advantage.
 
 ## Word of Radiance
 *Range: 1 Tile*
-*R2 Radiant*
+*R3 Radiant*
 You utter a divine word, and burning radiance erupts around each creature of your choice that you can see within range.
 
 # Easy Tricks
@@ -65,13 +63,13 @@ Three creatures of your choice who remain in range get to add R1 to their rolls 
 
 ## Burning Hands
 *Range: 3 Tiles*
-*R4 Fire*
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips, burning each creature in a 3 tile cone.
+*R5 Fire*
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips, burning every creature in a 3 tile cone.
 
 ## Chromatic Orb
 *Range: 9 Tiles*
-*R4 Choose*
-You hurl a small sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the damage type.
+*R5 Choose*
+You hurl a small sphere of energy at a creature that you can see within range. You choose the damage type, from the elemental damage category.
 
 ## Hex
 ***Concentration***
@@ -80,7 +78,7 @@ You place a curse on a creature that you can see within range. Until concentrati
 
 ## Inflict Wounds
 *Range: 1 Tile*
-*R5 Necrotic*
+*R6 Necrotic*
 Your touch causes a creature to be wracked with decay.
 
 ## Inspire
@@ -95,7 +93,7 @@ A creature of your choice that starts their turn within range recovers an additi
 ## Witch Bolt
 ***Concentration***
 *Range: 6 Tiles*
-*R3 Lightning*
+*R4 Lightning*
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. As long as you do damage with the witch bolt, you may use witch bolt again with only stamina cost.
 
 # Moderate Tricks
@@ -110,4 +108,4 @@ You touch a willing creature, giving them a resistance point back. The target’
 ## Dragon's Breath
 ***Concentration***
 *Range: 1 Tile*
-You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use a stamina point to exhale energy of the chosen type in a 3 tile cone, doing 4R damage of the chosen type to each creature in the area.
+You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose a damage type from the elemental damage category. Until the spell ends, the creature can use a stamina point to exhale energy of the chosen type in a 3 tile cone, doing R4 damage of the chosen type to each creature in the area.

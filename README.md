@@ -1,3 +1,6 @@
+Consider reading the [preface](Preface.md).
+
+# Welcome to SOLAS!
 SOLAS is a system for running tabletop role-playing games (TTRPGs) that anybody can pick up and play. TTRPGs are about getting together with others and letting a story play out, with players controlling characters of their design.
 
 To play, you'll need more than two people (one of whom is the Game Master, referred to as the GM), a way to take notes, and at least one standard six-sided die. Other materials are nice to have (like more d6s), but are certainly not needed.
@@ -9,11 +12,11 @@ This guide uses certain words to describe different aspects of the game, which a
 A die roll is when someone rolls at least one standard six-sided die to determine an outcome. Typically, a roll of 4 or higher is a success, and lower is a failure.
 -  These are indicated by **R**, followed by a number such as R1, R4, etc.
 
-Sometimes a roll is specified as "advantaged" (indicated by an A) which means dice rolls succeed on a 3 or higher. Another variant is "disadvantaged" (indicated by a D), which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages both stack, and each cancels another out. 2 advantages means the dice are successes on 2 or higher. For easy reference:
+Sometimes a roll is specified as "advantaged" (indicated by an A) which means dice rolls succeed on a 3 or higher. Another variant is "disadvantaged" (indicated by a D), which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages both stack, and each cancels another out. 2 advantages means the dice are successes on 2 or higher. For easy reference:Any number
 
 |AAA|AA|A|-|D|DD|
 |-|-|-|-|-|-|
-|Any number|2+|3+|4+|5+|6 exclusively|
+|1+|2+|3+|4+|5+|6|
 
 Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, trick, or GM will describe what you are trying to accomplish and what attribute you will be using. If your GM calls for a Dexterity roll (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes.
 
@@ -43,8 +46,8 @@ Characters in the game have different categories to describe their areas of expe
 
 ## Constitution
 *Physical/Mental toughness, persistance*
+- How rapidly you can physically/mentally recover from exertion. At the start of your turn, your **Constitution** gets added back to your amounts of **Focus** and **Stamina**.
 - **Heart**: How much character can take before falling, **Constitution** times Level, plus 5
-- **Recovery**: How rapidly you can physically/mentally recover from exertion. At the start of your turn, your **Constitution** gets added back to your amounts of **Focus** and **Stamina**.
 
 # Point Pools
 These are points you can save up to spend attacking, moving, or doing tricks. When combat ends, these are returned to their maximum.
@@ -80,3 +83,6 @@ Some enemies or characters may be resistant or weak to certain types of damage. 
 
 ## Fading
 Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -5 heart, your character falls and passes.
+
+# Resting
+Once combat comes to a close, your focus and stamina are restored. However, your characters cannot stay awake indefinitely, and will need to recover from the physical exertion of the battle. Characters will need to rest for a total of 8 hours, up to two of which can be sitting/lying down. If characters go 24 hours without resting, they receive disadvantage on all rolls due to exhaustion.

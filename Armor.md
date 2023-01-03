@@ -1,4 +1,4 @@
-Armor is an important thing for any adventurer to consider:
+Armor is an important thing for any adventurer to consider, but not everyone is capable of wearing it. The listed strength requirements are what your strength must be for you to be able to wear the armor.
 
 **2 Strength**
 *Light armor is capable of warding off some damage. Fabric/cloth/leathers/hides are found in this category.*
