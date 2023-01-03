@@ -1,4 +1,4 @@
-These are innate abilities, results of upbringing, or gifts that your character could have. These do not define all that your character is, only aspects. Feel free to include as much character background detail as you'd like, but you may only recieve the benefits listed here for 
+These are innate abilities, results of upbringing, or gifts that your character could have. These do not define all that your character is, only aspects. Feel free to include as much character background detail as you'd like, but you may only recieve the benefits listed here the amount gicen in character creation.
 
 # Lifestyle
 Lifestyle options reflect the skills that one develops based on their upbringing.
@@ -19,7 +19,6 @@ You have superb vision in the dark, being raised in it or naturally gifted. Your
 ## Celestial Lineage
 You are resistant to one celestial damage type (Radiant, Necrotic, Force, or Psychic) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
 *Your power may come from deities, psions, or something else entirely. This usually manifests in a shifted palette, gold for celestials, reds for devils, purples for psions, etc..*
-
 
 ## Elemental Lineage
 You are resistant to one elemental damage type (Poison, Fire, Cold, or Lightning) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.

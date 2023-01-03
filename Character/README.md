@@ -1,5 +1,3 @@
-Character creation is a fantastic process where you can let your creativity run wild!
-
 # Creating your Character
 For simplicity's sake, the character creation process begins at "level zero" with a generic character. This character has a 1 in each of the primary attributes. Select two [lineage options](Lineage.md) for your character, and now you're ready to level them up to level one and start playing!
 
