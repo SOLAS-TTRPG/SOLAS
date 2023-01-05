@@ -73,7 +73,7 @@ Characters in the game have different categories to describe their areas of expe
 **Mind** *Analytical skill, intuition*
 
 - **Focus**: Your mental concentration on a trick. Your **Mind** is the maximum.
-- How powerful the tricks you can use are.
+- How powerful the tricks you can use are, and how many you can memorize.
 
 **Constitution** *Physical/Mental toughness, persistance*
 
@@ -305,7 +305,7 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 - Reduces your speed by 3 tiles
 
 # Tricks
-Tricks have different **Focus** costs, associated with their mental difficulty. While these are flavored as fantasy spells, feel free to flavor the tricks for your setting.
+Tricks have different **Focus** costs, associated with their mental difficulty. A character can memorize up to their level plus their **Mind**. These spells can be swapped during rests, but you can not memorize more spells than this. Having a spell memorized means that you can use it for the specified **Focus** cost. If a spell isn't memorized, it cannot be used. While these are flavored as fantasy spells, feel free to flavor the tricks for your setting.
 
 Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends.
 
