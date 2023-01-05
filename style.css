@@ -1,5 +1,28 @@
+/* <link rel="stylesheet" href="style.css"> */
+
+@media print {
+    a {
+        text-decoration: none;
+    }
+}
+
+html {
+    background: #222;
+}
+
+body {
+    background: #fff;
+    max-width: 7.5in;
+    padding: .5in;
+    font-size: 14px;
+}
+
 header {
     font-weight: 600;
+}
+
+h1 {
+    page-break-before: always;
 }
 
 h1,
@@ -12,5 +35,5 @@ h6 {
 }
 
 h2 {
-    border-bottom: 3px solid #b84;
+    border-bottom: 3px solid #b96;
 }
