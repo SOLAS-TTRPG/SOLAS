@@ -1,10 +1,23 @@
 # Table of Contents
 1. [Preface](#preface)
 2. [Introduction](#introduction)
+	- [Rolling](#rolling)
+	- [Trick](#trick)
+	- [Damage Types](#damage-types)
+	- [Point Pools](#point-pools)
+	- [Primary Attributes](#primary-attributes)
+	- [Tiles](#tiles)
 3. [Character Creation](#character-creation)
+	- [Backgrounds](#backgrounds)
+	- [Lineages](#lineages)
+	- [Leveling](#leveling)
+	- [Boons](#boons)
 4. [Playing the Game](#playing-the-game)
+	- [Combat](#combat)
+	- [Resting](#resting)
 5. [Weapons](#weapons)
-6. [Tricks](#tricks)
+6. [Armor](#armor)
+7. [Tricks](#tricks)
 
 # Preface
 The main goals of TTRPGs are to provide exploration, social interaction, and combat, but many have far too complex systems that don't allow new players to pick up the rulebook and start playing that same day.
@@ -27,7 +40,7 @@ Sometimes a roll is specified as “advantaged” which means dice rolls succeed
 
 Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, trick, or GM will describe what you are trying to accomplish and what attribute you will be using. If your GM calls for a Dexterity roll (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes.
 
-## Tricks
+## Trick
 Something that a character is able to do which isn't an aspect of their normal self. This works for lots of settings, from flashbangs to spells to traps
 
 ## Damage Types
@@ -73,19 +86,37 @@ A tile is typically a square or hexagon on a grid, and is considered to be 5 fee
 # Character Creation
 To play this game, each player must create a character, a member of the setting that the GM is describing. SOLAS is designed to have very a simple character creation system, but one that lets creativity run wild. The easiest way to create a character is to break it down into two parts: Before they became an adventurer, and where they are now. Doing this naturally flows with the character creation process. The first step is...
 
-## Backgrounds and Lineages
+## Backgrounds
 Think about what makes your GM's setting different from the world you live in. There may be fantastical races, parts of the world still yet unexplored, or conflict between groups. These are shaping elements, and change the people who experience them.
 
 So how does this affect your character? Think about where they come from, what sort of upbringing they had, what are values that were instilled in them? All of these help to form a full character who really lives in the world and isn't just an observer.
 
-After you've come up with a backstory and a character vision, it's time to put pencil to paper! Selecting abilities is where you give your character interesting abilities based on who they are and what they do. You only get to select a couple of these, but this doesn't mean you have to limit your character description! You can include as much detail as you'd ilke to flesh out your character, but you can only receive the benefits from the ones you choose.
-
-**Select two from the following:**
+*Select **one** of the following backgrounds for your character*
 
 ### Athlete
 You have advantage on **Strength** checks.
 
 *You've been raised to depend on your physical strength, in and out of combat.*
+
+### Far Traveler
+You have advantage on **Constitution** checks.
+
+*You are from a distant place, one so remote that few of the common folk realize that it exists, and chances are good that even if some people you meet have heard of your homeland, they know merely the name and perhaps a few outrageous tales.*
+
+### Runaway
+You have advantage on **Dexterity** checks.
+
+*Staying on the outskirts of society, you had no one to watch over you or to provide for you, so you learned to provide for yourself. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.*
+
+### Sage
+You have advantage on **Mind** checks.
+
+*You've spent your time pouring over every detail in your area of research, memorizing every intricacy of the field.*
+
+## Lineages
+There are many different kinds of people, and in your GM's setting, there may be far more, from humans to animals to deities, and everything in between. Your character may reflect some of these differences, either directly or somewhere far back in their ancestry.
+
+*Select **one** of the following lineages for your character*
 
 ### Celestial Ancestor
 You are resistant to one celestial damage type (Radiant, Necrotic, Force, or Psychic) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
@@ -102,35 +133,20 @@ You are resistant to one elemental damage type (Poison, Fire, Cold, or Lightning
 
 *Your power may come from primordials, dragons, or something else entirely. This usually manifests in a shifted palette, dealing in reds and oranges for fire, etc.*
 
-### Far Traveler
-You have advantage on **Constitution** checks.
-
-*You are from a distant place, one so remote that few of the common folk realize that it exists, and chances are good that even if some people you meet have heard of your homeland, they know merely the name and perhaps a few outrageous tales.*
-
 ### Lucky
 Once per rest when you make a roll, you may re-roll all of the dice. You must use the new result.
-
-### Runaway
-You have advantage on **Dexterity** checks.
-
-*Staying on the outskirts of society, you had no one to watch over you or to provide for you, so you learned to provide for yourself. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.*
-
-### Sage
-You have advantage on **Mind** checks.
-
-*You've spent your time pouring over every detail in your area of research, memorizing every intricacy of the field.*
 
 ### Twilit
 You no longer need to sleep to fully recover heart, instead only requiring 4 hours of concious meditation.
 
 *This may be the result of exposure to the feywild, underdark, or similar place. Your skin may sparkle in the right light, some animalistic features may manifest (satyrs, for example), flowers may bloom/wilt around you depending on your mood, or similar flavoring.*
 
-## Leveling Up and Abilities
+## Leveling
 When you've just created your character and you have your background(s)/lineage(s) chosen, your character is at level zero. Of course, you can't play the game this way, so you need to level up!
 
 Every time you level up, you will add a point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**). Furthermore, you also gain a **Boon** every three levels, starting at level one (four, seven, ten, etc.)
 
-## Boons: Specialties
+## Boons
 A boon is something that is a unique skill that shapes how your character interacts with the world, that they have acquired throughout their journey. Some boons have requirements, and characters that do not meet these cannot recieve the boon.
 
 ***Basic Boons:** These do not have requirements*
