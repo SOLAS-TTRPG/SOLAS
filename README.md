@@ -128,12 +128,12 @@ You no longer need to sleep to fully recover heart, instead only requiring 4 hou
 ## Leveling Up and Abilities
 When you've just created your character and you have your background(s)/lineage(s) chosen, your character is at level zero. Of course, you can't play the game this way, so you need to level up!
 
-Every time you level up, you will add a point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**). Furthermore, you also gain a **Boon** every four levels, starting at level one (four, nine, thirteen, etc.)
+Every time you level up, you will add a point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**). Furthermore, you also gain a **Boon** every three levels, starting at level one (four, seven, ten, etc.)
 
 ## Boons: Specialties
 A boon is something that is a unique skill that shapes how your character interacts with the world, that they have acquired throughout their journey. Some boons have requirements, and characters that do not meet these cannot recieve the boon.
 
-**Basic Boons:** These do not have requirements
+***Basic Boons:** These do not have requirements*
 
 ### Adrenaline
 You are able to push your body beyond its normal limits for a short time. Once per rest at the start of your turn, you can use recover an additional stamina point.
@@ -154,8 +154,14 @@ When you attack with a physical weapon, you can spend one **focus** to randomly 
 5. Lightning
 6. Your choice of an elemental damage type
 
+### Inspiration
+Once per rest on your turn, you can inspire another creature. By spending one **Focus**, the target creature can roll an additional die for one roll. Once the extra dice is used (or the creature rests), the inspiration fades.
+
 ### Last Stand
 While you are fading, you do not have to spend an additional heart to take your turn.
+
+### Rage
+If you aren't wearing armor, you can use a **Focus** to channel your primal ferocity. You get advantage on melee attack rolls, and all physical attacks have disadvantage against you. While you are raging, however, you do not recover **Focus** at the start of your turns.
 
 ### Sacrifice
 After a roll, you can choose to lose some of your remaining HP to increase the roll by that amount.
@@ -163,13 +169,26 @@ After a roll, you can choose to lose some of your remaining HP to increase the r
 ### Soul Collector
 If you reduce a creature's heart, you recover additional **Focus** or **Stamina** at the start of your next turn. Recover your normal amount, then also roll R1 and distribute the successes as points.
 
+### Warcaster
+If your **heart** is reduced while you are concentrating on a trick, you may roll a **Constitution** check. If you roll more successes than damage that you took
+
 ### Well Armored
 Your **strength** is considered to be one higher when meeting an armor requirement
 
 ### Willbreaker
 When you do damage to a creature and its resistance drops to 0, you can spend focus points to roll further psychic damage against it, 1R per focus point.
 
-**Upgraded Boons:** Require other boons, a high enough primary stat, etc.
+***Upgraded Boons:** Require other boons, a high enough primary stat, etc.*
+
+### Frenzy
+*Requires **Rage***
+
+While you're raging, you can make a second attack with a weapon (costing another **Stamina** point). When combat ends, you become exhausted, having disadvantage on all checks and your speed becoming halved until you rest.
+
+### Combat Inspiration
+*Requires **Inspiration***
+
+Instead of giving **Inspiration** on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve), provided that you have enough **Focus** to use it. Additionally, the inspiration can now be used to reduce the damage of an attack (at a minimum of 0 damage, inspiration cannot heal)
 
 ### Glory
 *Requires **Last Stand***
@@ -202,7 +221,7 @@ Some enemies or characters may be resistant or weak to certain types of damage (
 Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -5 heart, your character falls and dies.
 
 ## Resting
-Once combat comes to a close, your focus and stamina are restored. However, your characters cannot stay awake indefinitely, and will need to recover from the physical exertion of the battle. Characters will need to rest for a total of 8 hours, up to two of which can be sitting/lying down. If characters go 24 hours without resting, they receive disadvantage on all rolls due to exhaustion.
+Once combat comes to a close, your focus and stamina are restored. However, your characters cannot stay awake indefinitely, and will need to recover from the physical exertion of the battle. Characters will need to rest for a total of 8 hours, up to two of which can be sitting/lying down. If characters go 24 hours without resting, they receive disadvantage on all checks due to exhaustion, and their speed is halved.
 
 # Weapons
 These are physical implements of destruction. For weapons, their damage is based off of your associated Primary Attribute. Melee weapons are based on strength, ranged ones on dexterity. While your primary attribute is affecting how many dice that you roll, some weapons can be specially made, being +1 or higher. This indicates to roll an extra dice when attacking with the weapon. While most standard weapons fall into the physical (bludgeoning, piercing, slashing) category, some special weapons could be of a different damage type.
@@ -253,20 +272,21 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 *Light armor is capable of warding off some damage. Fabric/cloth/leathers/hides are found in this category.*
 
 - Reduces physical damage by 1
+- Reduces your speed by 1 tile
 
 **4 Strength**
 
 *Medium armor is capable of warding off a decent amount of damage, but begins to impact your mobility. Expect to find breastplates, chainmail, and lighter metals.*
 
 - Reduces physical damage by 2
-- Reduces your speed by 1 tile
+- Reduces your speed by 2 tiles
 
 **6 Strength**
 
 *The heaviest armor around, which can completely mitigate lighter attacks. This severely reduces your mobility, but who needs to move if nobody can hurt you?*
 
 - Reduces physical damage by 3
-- Reduces your speed by 2 tiles
+- Reduces your speed by 3 tiles
 
 # Tricks
 Tricks have different **Focus** costs, associated with their mental difficulty. While these are flavored as fantasy spells, feel free to flavor the tricks for your setting.
