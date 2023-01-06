@@ -1,3 +1,5 @@
+[Character Cards](CharacterCards.pdf) [PDF Writeup](SOLAS.pdf)
+
 # Table of Contents
 1. [Preface](#preface)
 2. [Introduction](#introduction)
@@ -158,7 +160,7 @@ You are able to push your body beyond its normal limits for a short time. Once p
 You can use the **Misty Step** trick once per rest with no **Focus** cost (still costs 1 **Stamina**).
 
 ### Duelist
-Once per round when you are hit with a melee attack, you can spend some or all of your remaining stamina points to reduce the damage by that much
+Once per round when you are hit with a physical melee attack, you can spend some or all of your remaining stamina points to reduce the damage by that much.
 
 ### Elemental Shift
 When you attack with a physical weapon, you can spend one **focus** to randomly change its damage type to an elemental one. This effect persists through combat, and you can spend another point to roll the type again. To do determine the damage type, roll a d6:
@@ -192,7 +194,7 @@ If your **heart** is reduced while you are concentrating on a trick, you may rol
 Your **strength** is considered to be one higher when meeting an armor requirement
 
 ### Willbreaker
-When you do damage to a creature and its resistance drops to 0, you can spend focus points to roll further psychic damage against it, 1R per focus point.
+If you do damage to a creature in two consecutive turns, you may add an additional 1R of a celestial damage type of your choice (this is chosen when you take the boon and cannot be changed).
 
 ***Upgraded Boons:** Require other boons, a high enough primary stat, etc.*
 
