@@ -1,5 +1,3 @@
-[Character Cards](CharacterCards.pdf) [PDF Writeup](SOLAS.pdf)
-
 # Table of Contents
 1. [Preface](#preface)
 2. [Introduction](#introduction)
@@ -27,7 +25,7 @@ The main goals of TTRPGs are to provide exploration, social interaction, and com
 
 Solas's goal is to make a dead-simple system that uses players' knowledge of storytelling to allow them to quickly understand their options and get started playing with any type of story they want to tell, in any setting. Whether it's cowboys vs aliens, a prohibition murder mystery, or medieval fantasy, Solas helps you tell that story in a fun, interactive way.
 
-I grew up playing first edition Dungeons and Dragons (copyright, Hasbro), and when I moved to fifth edition I noticed some things that didn't seem like they helped streamline the TTRPG process. Spell lists had been made confusing, with differing rules for different classes and combat having more moving pieces but less flexibility. After playing TIME Stories (copyright, Space Cowboys) and seeing the strengths of a D6 dice system, I starting building out this system. After getting wind of a fan-made Hollow Knight-inspired TTRPG, and playing a hybrid first/fifth edition Dungeons with friends, I started refining the mechanics of SOLAS to make it an easily adaptible and quicker to learn.
+I grew up playing first edition Dungeons and Dragons (copyright, Hasbro), and when I moved to fifth edition I noticed some things that didn't seem like they helped streamline the TTRPG process. Spell lists had been made confusing, with differing rules for different classes and combat having more moving pieces but less flexibility. After playing TIME Stories (copyright, Space Cowboys) and seeing the strengths of a D6 dice system, I starting building out this system. After getting wind of a fan-made Hollow Knight-inspired TTRPG, and playing a hybrid first/fifth edition Dungeons with friends, I started refining the mechanics of SOLAS to make it an easily adaptible and quicker to learn, and more usable for different settings.
 
 And that's where we are today! Thanks for checking it out.
 
@@ -235,12 +233,16 @@ Most TTRPGs are broken down into a cycle of play, but this is by no means a one-
 Struggle is a part of every story, and it may present itself in the form of combat. Your characters have specific strengths and weaknesses based on your primary attributes. To start combat, everybody (including the GM's characters) make dexterity checks, where play goes highest to lowest according to the number of successes (this can be changed to play continues to the right, for convenience).
 
 ### On a Turn
-It's your time! Your character starts their turn by recovering some of their **Focus** and **Stamina** points (up to their maximum). You can then use any number of your remaining stamina or focus points, by taking any of the following actions:
+It's your time to shine! Your character starts their turn by recovering some of their **Focus** and **Stamina** points (up to their maximum) the amount you recover of each is equal to your **Constitution**.
 
-| |Movement|Attack|Trick|
-|-|-|-|-|
-|*Cost*|1 Stamina|1 Stamina|1 Stamina and Focus Cost|
-|*Result*|Move up to your **speed**|See [Weapons](#weapons)|See [Tricks](#tricks)|
+Now you're ready to go! You can take any of the following actions for the cost of 1 stamina point:
+
+- Moving a distance up to your speed
+- Attacking with a weapon
+
+You can also use a trick for the cost of one **Stamina** point, as well as the listed **focus** cost for the trick.
+
+If you do not have enough stamina and/or focus to take an action, you cannot do it.
 
 ### Resistances/Weaknesses
 Some enemies or characters may be resistant or weak to certain types of damage (see **Damage Types** in the [Introduction](#introduction). If something is weak to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
