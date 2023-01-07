@@ -12,8 +12,9 @@
 3. [Character Creation](#character-creation)
 	- [Backgrounds](#backgrounds)
 	- [Lineages](#lineages)
-	- [Leveling](#leveling)
+	- [Attributes and Scores](#attributes-and-scores)
 	- [Boons](#boons)
+	- [Leveling Up](#leveling-up)
 4. [Playing the Game](#playing-the-game)
 	- [Combat](#combat)
 	- [Resting](#resting)
@@ -36,7 +37,7 @@ Welcome to SOLAS! It's a rules system for running tabletop role-playing games (T
 To play, you'll need more than two people (one of whom is the Game Master, referred to as the GM), a way to take notes, and at least one standard six-sided die. Other materials are nice to have (like more d6s, some way to take notes), but are certainly not needed.
 
 ## Rolling
-A die roll is when someone rolls at least one standard six-sided die to determine an outcome. A roll of four or higher is a success (a six is worth two successes), meaning a three or lower is a failure. The “result” of a roll is how many total successes there are. In these rules, rolls are indicated in these rules by an **R**, followed by a number such as R1, R4, etc.
+A die roll is when someone rolls at least one standard six-sided die to determine an outcome. A roll of four or higher is a success (a six is worth two successes), meaning a three or lower is a failure. The “result” of a roll is how many total successes there are. In these rules, rolls are indicated in these rules by an **R**, followed by a number such as R1, R4, etc. The **R** indicates a roll, and the number after it is the number of dice that you are rolling.
 
 Sometimes a roll is specified as “advantaged” which means dice rolls succeed on a 3 or higher. Another variant is “disadvantaged” which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages both stack, and each cancels the other out. Having double advantage means the dice are successes on twos or higher.
 
@@ -55,32 +56,20 @@ SOLAS contains many different damage types for different weapons and tricks. Thi
 ## Point Pools
 These are points you can save up to spend attacking, moving, or doing tricks. When combat ends, these are returned to their maximum.
 
-**Focus** is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn. The upper limit of this is your Mind score.
+**Focus** is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn.
 
-**Stamina** is your physical ablness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. The standard limit of this is 3.
+**Stamina** is your physical ableness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. Every character has 3 stamina points.
 
 ## Primary Attributes
-Characters in the game have different categories to describe their areas of expertise. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible. The categories are as follows:
+Characters in the game have different attributes to describe their general skills. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible. The categories are as follows:
 
 **Strength** *Natural athleticism, physical power*
 
-- Effectiveness with melee weapons.
-- What armor you can wear.
-
 **Dexterity** *Physical agility, reflexes, precision*
-
-- **Speed**: How fast your character is, 4 tiles plus **dexterity**.
-- Effectiveness with ranged weapons.
-
-**Mind** *Analytical skill, intuition*
-
-- **Focus**: Your mental concentration on a trick. Your **Mind** is the maximum.
-- How powerful the tricks you can use are, and how many you can memorize.
 
 **Constitution** *Physical/Mental toughness, persistance*
 
-- How rapidly you can physically/mentally recover from exertion. At the start of your turn, your **Constitution** gets added back to your amounts of **Focus** and **Stamina**.
-- **Heart**: How much character can take before falling, **Constitution** times Level, plus 5.
+**Mind** *Analytical skill, intuition*
 
 ## Tiles
 A tile is typically a square or hexagon on a grid, and is considered to be 5 feet (or 1.5 meters). While you may not be playing with an actual grid at all, this still describes specific distances for tricks, ranges, and movement.
@@ -143,13 +132,31 @@ You no longer need to sleep to fully recover heart, instead only requiring 4 hou
 
 *This may be the result of exposure to the feywild, underdark, or similar place. Your skin may sparkle in the right light, some animalistic features may manifest (satyrs, for example), flowers may bloom/wilt around you depending on your mood, or similar flavoring.*
 
-## Leveling
-When you've just created your character and you have your background(s)/lineage(s) chosen, your character is at level zero. Of course, you can't play the game this way, so you need to level up!
+## Attributes and Scores
+When you've started your character and you have your background(s)/lineage(s) chosen, start your character with one point in each of your **Primary Attributes**, then add one point to the attribute of your choice.
 
-Every time you level up, you will add a point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**). Furthermore, you also gain a **Boon** every three levels, starting at level one (four, seven, ten, etc.)
+You then must figure out your other scores. Referring back to the **Primary Attributes** section:
+
+### Strength
+Your **strength** limits what **armor** you can wear. Ask your DM if you are allowed to start with armor, or if armor will be available in their setting.
+
+### Dexterity
+Your **dexterity** affects your **speed**. This is equal to four plus your **dexterity** score.
+
+### Constitution
+Your **constitution** affects your **heart** (also referred to as health and/or hit points). This is equal to your **constitution** score times your level, plus five.
+
+### Mind
+Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
+
+Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind** score plus your level. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters have access to at least one **trick**, so check out the section to make sure you know your character's options.
+
+Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
 
 ## Boons
 A boon is something that is a unique skill that shapes how your character interacts with the world, that they have acquired throughout their journey. Some boons have requirements, and characters that do not meet these cannot recieve the boon.
+
+***You get to choose one boon when you create your character**, as well as an additional boon every three levels after that (levels four, seven, ten, thirteen, sixteen, and nineteen).*
 
 ***Basic Boons:** These do not have requirements*
 
@@ -217,6 +224,9 @@ While you are fading, all damage rolls are made with advantage.
 *Requires **Adrenaline***
 
 Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level.
+
+## Leveling Up
+After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**), and if at an appropriate level you also recieve another **Boon**!
 
 # Playing the Game
 Most TTRPGs are broken down into a cycle of play, but this is by no means a one-size fits all solution. Generally, a GM will describe the environment, and the players respond with what their character does. The GM then goes back and forth with the players, narrating the results of their actions and having the players respond, until a scene comes to a natural close.
@@ -307,22 +317,26 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 - Reduces your speed by 3 tiles
 
 # Tricks
-Tricks have different **Focus** costs, associated with their mental difficulty. A character can memorize up to their level plus their **Mind**. These spells can be swapped during rests, but you can not memorize more spells than this. Having a spell memorized means that you can use it for the specified **Focus** cost. If a spell isn't memorized, it cannot be used. While these are flavored as fantasy spells, feel free to flavor the tricks for your setting.
+Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
+
+Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind** score plus your level. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters have access to at least one **trick**, so check out the section to make sure you know your character's options.
+
+Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
 
 Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends.
 
 ## Basic Tricks
-*Cost: 1 Focus*
+*Requires 1 Mind, Costs 1 Focus*
 
 These tricks are things anybody can do.
 
-## Heal
+### Heal
 *Range: 5ft*
 
 You help a creature recover lost heart within range (including yourself). The target creature regains R2 heart, up to their maximum.
 
 ## Simple Tricks
-*Cost: 2 Focus*
+*Requires 2 Mind, Cost: 2 Focus*
 
 These tricks represent things that a character can do with hardly any effort.
 
@@ -370,7 +384,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 You utter a divine word, and burning radiance erupts around each creature of your choice that you can see within range.
 
 ## Easy Tricks
-*Cost: 3 Focus*
+*Requires 3 Mind, Cost: 3 Focus*
 
 This tricks represent things that a character can do with a small effort.
 
@@ -438,7 +452,7 @@ A creature of your choice that starts their turn within range recovers an additi
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. As long as you do damage with the witch bolt, you may use witch bolt again with only stamina cost.
 
 ## Moderate Tricks
-*Cost: 5 Focus*
+*Requires 4 Mind, Cost: 4 Focus*
 
 Tricks that require some decent concentration.
 
