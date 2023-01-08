@@ -11,14 +11,16 @@
 	- [Backgrounds](#backgrounds)
 	- [Lineages](#lineages)
 	- [Attributes and Scores](#attributes-and-scores)
-	- [Boons](#boons)
 	- [Leveling Up](#leveling-up)
-4. [Playing the Game](#playing-the-game)
+4. [Boons](#boons)
+	- [Basic Boons](#basic-boons)
+	- [Upgraded Boons](#upgraded-boons)
+5. [Playing the Game](#playing-the-game)
 	- [Combat](#combat)
 	- [Resting](#resting)
-5. [Weapons](#weapons)
-6. [Armor](#armor)
-7. [Tricks](#tricks)
+6. [Weapons](#weapons)
+7. [Armor](#armor)
+8. [Tricks](#tricks)
 
 # Preface
 The main goals of TTRPGs are to provide exploration, social interaction, and combat, but many have far too complex systems that don't allow new players to pick up the rulebook and start playing that same day.
@@ -151,18 +153,25 @@ Your **mind** also affects what tricks you know. A character can only memorize a
 
 Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
 
-## Boons
+## Leveling Up
+After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**), and if at an appropriate level you also recieve another **Boon**!
+
+# Boons
 A boon is something that is a unique skill that shapes how your character interacts with the world, that they have acquired throughout their journey. Some boons have requirements, and characters that do not meet these cannot recieve the boon.
 
 ***You get to choose one boon when you create your character**, as well as an additional boon every three levels after that (levels four, seven, ten, thirteen, sixteen, and nineteen).*
 
-***Basic Boons:** These do not have requirements*
+## Basic Boons
+*These do not have requirements*
 
 ### Adrenaline
 You are able to push your body beyond its normal limits for a short time. Once per rest at the start of your turn, you can use recover an additional stamina point.
 
 ### Blink
 You can use the **Misty Step** trick once per rest with no **Focus** cost (still costs 1 **Stamina**).
+
+### Divine Smite
+When you attack a creature, you can expend **Focus** points to do additional celestial damage (choose this type when you select this boon, this cannot be changed). You roll an additional dice of this type for each **Focus** point you spent.
 
 ### Duelist
 Once per round when you are hit with a physical melee attack, you can spend some or all of your remaining stamina points to reduce the damage by that much.
@@ -177,8 +186,14 @@ When you attack with a physical weapon, you can spend one **focus** to randomly 
 5. Lightning
 6. Your choice of an elemental damage type
 
+### Finesse
+If you aren't wearing armor, you can use your dexterity instead of strength when rolling melee damage with a light or medium weapon.
+
+### Hunter's Mark
+When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll with advantage.
+
 ### Inspiration
-Once per rest on your turn, you can inspire another creature. By spending one **Focus**, the target creature can roll an additional die for one roll. Once the extra dice is used (or the creature rests), the inspiration fades.
+Once per rest on your turn, you can inspire another creature. By spending one **Stamina**, the target creature can roll an additional die for one roll. Once the extra dice is used (or the creature rests), the inspiration fades.
 
 ### Last Stand
 While you are fading, you do not have to spend an additional heart to take your turn.
@@ -189,42 +204,45 @@ If you aren't wearing armor, you can use a **Focus** to channel your primal fero
 ### Sacrifice
 After a roll, you can choose to lose some of your remaining HP to increase the roll by that amount.
 
+### Second Wind
+*Requires **Adrenaline***
+
+Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level.
+
+### Sneak Attack
+You have learned to exploit an emey's moment of weakness. If you have advantage on an attack against a creature, you gain an additional R1. 
+
 ### Soul Collector
 If you reduce a creature's heart, you recover additional **Focus** or **Stamina** at the start of your next turn. Recover your normal amount, then also roll R1 and distribute the successes as points.
 
 ### Warcaster
-If your **heart** is reduced while you are concentrating on a trick, you may roll a **Constitution** check. If you roll more successes than damage that you took
+If your **heart** is reduced while you are concentrating on a trick, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell.
 
 ### Well Armored
-Your **strength** is considered to be one higher when meeting an armor requirement
+Your **strength** is considered to be one higher when meeting an armor requirement. For example, a strength score of one allows the character to wear light armor, which usually requires a strength of two.
 
-### Willbreaker
-If you do damage to a creature in two consecutive turns, you may add an additional 1R of a celestial damage type of your choice (this is chosen when you take the boon and cannot be changed).
-
-***Upgraded Boons:** Require other boons, a high enough primary stat, etc.*
-
-### Frenzy
-*Requires **Rage***
-
-While you're raging, you can make a second attack with a weapon (costing another **Stamina** point). When combat ends, you become exhausted, having disadvantage on all checks and your speed becoming halved until you rest.
+## Upgraded Boons
+*These require other boons, a high enough primary stat, etc.*
 
 ### Combat Inspiration
 *Requires **Inspiration***
 
 Instead of giving **Inspiration** on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve), provided that you have enough **Focus** to use it. Additionally, the inspiration can now be used to reduce the damage of an attack (at a minimum of 0 damage, inspiration cannot heal)
 
+### Extra Attack
+*Requires **Divine Smite**, **Finesse**, **Rage**, or **Second Wind***
+
+On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
+
 ### Glory
 *Requires **Last Stand***
 
 While you are fading, all damage rolls are made with advantage.
 
-### Second Wind
-*Requires **Adrenaline***
+### Movement Master
+*Requires **Hunter's Mark***
 
-Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level.
-
-## Leveling Up
-After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**), and if at an appropriate level you also recieve another **Boon**!
+You can swim and climb at your normal speed. Additionally, when you have a creature marked, you gain 2 tiles of movement speed.
 
 # Playing the Game
 Most TTRPGs are broken down into a cycle of play, but this is by no means a one-size fits all solution. Generally, a GM will describe the environment, and the players respond with what their character does. The GM then goes back and forth with the players, narrating the results of their actions and having the players respond, until a scene comes to a natural close.
