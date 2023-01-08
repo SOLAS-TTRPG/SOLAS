@@ -39,7 +39,7 @@ To play, you'll need more than two people (one of whom is the Game Master, refer
 ## Rolling
 A die roll is when someone rolls at least one standard six-sided die to determine an outcome. A roll of four or higher is a success (a six is worth two successes), meaning a three or lower is a failure. The “result” of a roll is how many total successes there are. In these rules, rolls are indicated in these rules by an **R**, followed by a number such as R1, R4, etc. The **R** indicates a roll, and the number after it is the number of dice that you are rolling.
 
-Sometimes a roll is specified as “advantaged” which means dice rolls succeed on a 3 or higher. Another variant is “disadvantaged” which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages both stack, and each cancels the other out. Having double advantage means the dice are successes on twos or higher.
+Sometimes a roll is specified as “advantaged” which means dice rolls succeed on a 3 or higher. Another variant is “disadvantaged” which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages don't stack, you can only be "advantaged" or "disadvantaged" and any amount of each cancels out. Having double advantage means the dice are successes on twos or higher.
 
 Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, trick, or GM will describe what you are trying to accomplish and what attribute you will be using. If your GM calls for a Dexterity roll (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes.
 
@@ -149,7 +149,7 @@ Your **constitution** affects your **heart** (also referred to as health and/or 
 ### Mind
 Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
 
-Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind** score plus your level. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters have access to at least one **trick**, so check out the section to make sure you know your character's options.
+Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind** score plus your level. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters with a two or higher **mind** can use **tricks**, so check out the section to make sure you know your character's options.
 
 Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
 
@@ -164,8 +164,11 @@ A boon is something that is a unique skill that shapes how your character intera
 ## Basic Boons
 *These do not have requirements*
 
-### Adrenaline
-You are able to push your body beyond its normal limits for a short time. Once per rest at the start of your turn, you can use recover an additional stamina point.
+### Among the Dead
+You have advantage on checks against disease. Additionally, any necrotic damage against you is rolled with disadvantage.
+
+### Arcanist
+When using a trick, you can instead choose to use any combination of **Heart** and **Focus** totaling the focus cost of the trick.
 
 ### Blink
 You can use the **Misty Step** trick once per rest with no **Focus** cost (still costs 1 **Stamina**).
@@ -187,33 +190,28 @@ When you attack with a physical weapon, you can spend one **focus** to randomly 
 6. Your choice of an elemental damage type
 
 ### Finesse
-If you aren't wearing armor, you can use your dexterity instead of strength when rolling melee damage with a light or medium weapon.
+If you are wearing light or no armor, you can use your dexterity instead of strength when rolling melee damage with a light or medium weapon.
+
+### Glory
+While you are fading, all damage rolls are made with advantage.
 
 ### Hunter's Mark
 When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll with advantage.
 
 ### Inspiration
-Once per rest on your turn, you can inspire another creature. By spending one **Stamina**, the target creature can roll an additional die for one roll. Once the extra dice is used (or the creature rests), the inspiration fades.
-
-### Last Stand
-While you are fading, you do not have to spend an additional heart to take your turn.
+Once per rest on your turn, you can spend one **stamina** and inspire another creature. The target creature can roll an additional die for a roll of their choice. Once the extra die is used (or the creature rests), the inspiration fades.
 
 ### Rage
-If you aren't wearing armor, you can use a **Focus** to channel your primal ferocity. You get advantage on melee attack rolls, and all physical attacks have disadvantage against you. While you are raging, however, you do not recover **Focus** at the start of your turns.
-
-### Sacrifice
-After a roll, you can choose to lose some of your remaining HP to increase the roll by that amount.
+If you aren't wearing armor, you can use a **Focus** point to channel your primal ferocity. You get advantage on melee attack rolls, and all physical attacks have disadvantage against you. While you are raging, however, you do not recover **Focus** at the start of your turns.
 
 ### Second Wind
-*Requires **Adrenaline***
-
 Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level.
 
 ### Sneak Attack
 You have learned to exploit an emey's moment of weakness. If you have advantage on an attack against a creature, you gain an additional R1. 
 
-### Soul Collector
-If you reduce a creature's heart, you recover additional **Focus** or **Stamina** at the start of your next turn. Recover your normal amount, then also roll R1 and distribute the successes as points.
+### Soul Siphon
+Once per turn when you reduce a creature's heart, you recover **Focus**, **Stamina**, or **Heart** at the start of your next turn. Recover your normal amount, then also roll R1 and recover points in the one that you choose (up to your maximum), equal to the number of successes.
 
 ### Warcaster
 If your **heart** is reduced while you are concentrating on a trick, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell.
@@ -227,22 +225,44 @@ Your **strength** is considered to be one higher when meeting an armor requireme
 ### Combat Inspiration
 *Requires **Inspiration***
 
-Instead of giving **Inspiration** on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve), provided that you have enough **Focus** to use it. Additionally, the inspiration can now be used to reduce the damage of an attack (at a minimum of 0 damage, inspiration cannot heal)
+Instead of giving inspiration on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve). Additionally, the inspired creature can now use the inspiration die to reduce the damage of an attack.
+
+### Font of Inspiration
+*Requires **Inspiration***
+
+You can give inspiration dice multiple times per rest, equal to your maximum **stamina**. These can be given on different turns, or all on the same turn (provided you have enough stamina to do so).
 
 ### Extra Attack
 *Requires **Divine Smite**, **Finesse**, **Rage**, or **Second Wind***
 
 On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
 
-### Glory
-*Requires **Last Stand***
+### Misty Escape
+*Requires **Blink***
 
-While you are fading, all damage rolls are made with advantage.
+You can now also use your Blink ability outside of your turn, after you take damage. When you do not immediately reappear. While you do move to the space that you can see, you remain invisible until the start of your next turn.
 
 ### Movement Master
 *Requires **Hunter's Mark***
 
 You can swim and climb at your normal speed. Additionally, when you have a creature marked, you gain 2 tiles of movement speed.
+
+### Runewoven
+*Requires **Arcanist***
+
+When you are healed, you have the option of regaining a combination of **heart** and **focus** equal to the amount of heart you would regain normally. Additionally, once per rest, you can choose to lose some **focus** points instead of **heart** (as the result of an attack or trick).
+
+*Your body itself has become the conduit for tricks, with the line between your mental fortitude and your physical resilience becoming blurred.*
+
+### Spirit Interference
+*Requires **Soul Siphon***
+
+The spirits of those who you've felled in battle manifest for a moment. After using soul siphon on a creature, it has disadvantage when attacking you until your next turn.
+
+### Undying
+*Requires **Among the Dead**, **Glory**, or **Rage***
+
+When your character is fading, you do not need to use an extra heart to take your turn. Any healing on your character (while fading) is rolled with advantage.
 
 # Playing the Game
 Most TTRPGs are broken down into a cycle of play, but this is by no means a one-size fits all solution. Generally, a GM will describe the environment, and the players respond with what their character does. The GM then goes back and forth with the players, narrating the results of their actions and having the players respond, until a scene comes to a natural close.
@@ -339,21 +359,11 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 # Tricks
 Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
 
-Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind** score plus your level. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters have access to at least one **trick**, so check out the section to make sure you know your character's options.
+Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind** score plus your level. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters with a two or higher **mind** can use **tricks**, so check out the section to make sure you know your character's options.
 
 Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
 
 Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends.
-
-## Basic Tricks
-*Requires 1 Mind, Costs 1 Focus*
-
-These tricks are things anybody can do.
-
-### Heal
-*Range: 5ft*
-
-You help a creature recover lost heart within range (including yourself). The target creature regains R2 heart, up to their maximum.
 
 ## Simple Tricks
 *Requires 2 Mind, Cost: 2 Focus*
@@ -374,6 +384,13 @@ You are able to improve and change everyday objects to suit your needs. By spend
 *R3 Fire*
 
 You hurl a mote of fire at a creature or object within range. A flammable object hit by this spell ignites if it isn’t being worn or carried.
+
+### Heal
+*Range: 1 Tile*
+
+*R3 Healing*
+
+You help a creature recover lost heart within range (including yourself). The target creature regains some heart, up to their maximum.
 
 ### Ray of Frost
 *Range: 6 Tiles*
