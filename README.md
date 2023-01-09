@@ -149,7 +149,7 @@ Your **constitution** affects your **heart** (also referred to as health and/or 
 ### Mind
 Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
 
-Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind** score plus your level. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters with a two or higher **mind** can use **tricks**, so check out the section to make sure you know your character's options.
+Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters with a two or higher **mind** can use **tricks**, so check out the section to make sure you know your character's options.
 
 Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
 
@@ -359,11 +359,11 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 # Tricks
 Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
 
-Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind** score plus your level. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters with a two or higher **mind** can use **tricks**, so check out the section to make sure you know your character's options.
+Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters with a two or higher **mind** can use **tricks**, so check out the section to make sure you know your character's options.
 
 Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
 
-Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends.
+Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends. You can use at most one trick per turn.
 
 ## Simple Tricks
 *Requires 2 Mind, Cost: 2 Focus*
