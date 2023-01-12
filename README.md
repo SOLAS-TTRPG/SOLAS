@@ -1,3 +1,8 @@
+<div class="title">
+<h1>SOLAS Handbook</h1>
+<p>A Simply Organized, Lightweight Adventure System</p>
+</div>
+
 # Table of Contents
 1. [Preface](#preface)
 2. [Introduction](#introduction)
@@ -149,9 +154,7 @@ Your **constitution** affects your **heart** (also referred to as health and/or 
 ### Mind
 Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
 
-Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters with a two or higher **mind** can use **tricks**, so check out the section to make sure you know your character's options.
-
-Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
+Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. Characters with a **Mind** score higher than one can use **tricks**, so check out the section to make sure you know your character's options.
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**), and if at an appropriate level you also recieve another **Boon**!
@@ -222,6 +225,11 @@ Your **strength** is considered to be one higher when meeting an armor requireme
 ## Upgraded Boons
 *These require other boons, a high enough primary stat, etc.*
 
+### Arcane Entanglement
+*Requires **Arcanist***
+
+Once per rest, you can choose to lose some **focus** points instead of **heart** (as the result of an attack or trick).
+
 ### Combat Inspiration
 *Requires **Inspiration***
 
@@ -250,7 +258,7 @@ You can swim and climb at your normal speed. Additionally, when you have a creat
 ### Runewoven
 *Requires **Arcanist***
 
-When you are healed, you have the option of regaining a combination of **heart** and **focus** equal to the amount of heart you would regain normally. Additionally, once per rest, you can choose to lose some **focus** points instead of **heart** (as the result of an attack or trick).
+When you are healed, you have the option of regaining a combination of **heart** and **focus** equal to the amount of heart you would regain normally.
 
 *Your body itself has become the conduit for tricks, with the line between your mental fortitude and your physical resilience becoming blurred.*
 
@@ -276,7 +284,7 @@ It's your time to shine! Your character starts their turn by recovering some of 
 Now you're ready to go! You can take any of the following actions for the cost of 1 stamina point:
 
 - Moving a distance up to your speed
-- Attacking with a weapon
+- Attacking with a weapon (you must be on an adjacent square to do so with a melee weapon, or the target must be within range for a ranged weapon)
 
 You can also use a trick for the cost of one **Stamina** point, as well as the listed **focus** cost for the trick.
 
@@ -357,11 +365,7 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 - Reduces your speed by 3 tiles
 
 # Tricks
-Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
-
-Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. All characters with a two or higher **mind** can use **tricks**, so check out the section to make sure you know your character's options.
-
-Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
+A character can only memorize a certain number of tricks at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
 
 Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends. You can use at most one trick per turn.
 
@@ -370,13 +374,12 @@ Each spell costs 1 stamina to cast, as well as its associated focus cost, regard
 
 These tricks represent things that a character can do with hardly any effort.
 
-### Tinkering
-You are able to improve and change everyday objects to suit your needs. By spending 1 Stamina and 1 Focus, you may touch an object and give it one of the following properties.
+### Cure Wounds
+*Range: 1 Tile*
 
-- The object sheds bright light in a 1-tile radius and dim light for an additional tile.
-- The object emits a 6-second recorded message that can be heard up to 2 tiles away (you must say this message when you touch the object)
-- The object continuously emits and odor or a nonverbal sound, percievable up to 2 tiles away.
-- The object's surface shows what you trace with your finger.
+You cure the wounds of a willing creature (including yourself) that is within range.
+
+You can increase the **Focus** cost of this spell when casting it. For every **Focus** that you spend, the creature recovers the successes of R2 as **Heart**. (For example, the normal **Focus** cost is 1, so would heal R2. Increasing the cost to 2 would result in R4).
 
 ### Fire Bolt
 *Range: 12 Tiles*
@@ -385,12 +388,10 @@ You are able to improve and change everyday objects to suit your needs. By spend
 
 You hurl a mote of fire at a creature or object within range. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-### Heal
-*Range: 1 Tile*
+### Healing Word
+*Range: 6 Tiles*
 
-*R3 Healing*
-
-You help a creature recover lost heart within range (including yourself). The target creature regains some heart, up to their maximum.
+You help a willing creature recover lost heart within range (including yourself). Count the successes of R3, and the target creature regains this amount of heart up to their maximum.
 
 ### Ray of Frost
 *Range: 6 Tiles*
