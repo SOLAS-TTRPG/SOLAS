@@ -290,8 +290,8 @@ You can also use a trick for the cost of one **Stamina** point, as well as the l
 
 If you do not have enough stamina and/or focus to take an action, you cannot do it.
 
-### Resistances/Weaknesses
-Some enemies or characters may be resistant or weak to certain types of damage (see **Damage Types** in the [Introduction](#introduction). If something is weak to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
+### Resistances/vulnerabilities
+Some enemies or characters may be resistant or vulnerable to certain types of damage (see **Damage Types** in the [Introduction](#introduction). If something is vulnerable to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
 
 ### Fading
 Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -5 heart, your character falls and dies.
@@ -380,6 +380,11 @@ These tricks represent things that a character can do with hardly any effort.
 You cure the wounds of a willing creature (including yourself) that is within range.
 
 You can increase the **Focus** cost of this spell when casting it. For every **Focus** that you spend, the creature recovers the successes of R2 as **Heart**. (For example, the normal **Focus** cost is 1, so would heal R2. Increasing the cost to 2 would result in R4).
+
+### Entangle
+*Range: 12 Tiles*
+
+Within range, grasping weeds and vines sprout in a two-tile radius from a point on the ground within range. Any creature who is in this range must make a **Strength Check**. Creatures who get fewer successes than your **Mind** score can only move at half of their normal speed while in the area.
 
 ### Fire Bolt
 *Range: 12 Tiles*
@@ -476,9 +481,9 @@ A creature that you choose within range has advantage on their next roll (check,
 ### Revitalizing Aura
 ***Concentration***
 
-*Range: 1 Tile*
+*Range: 3 Tiles*
 
-A creature of your choice that starts their turn within range recovers an additional stamina point. If they start their turn outside of the range, the aura fades and ends.
+When you use this trick, you focus on a willing creature of your choice. When it starts its turn within range, it recovers an additional stamina point. If it moves outside of your range, the aura fades and ends.
 
 ### Witch Bolt
 ***Concentration***
@@ -499,7 +504,7 @@ Tricks that require some decent concentration.
 
 *Range: 1 Tile*
 
-You touch a willing creature, giving them a resistance point back. The target’s skin has a rough, bark-like appearance, and at the start of each of their turns, they get an additional resistance point.
+You touch a willing creature (including yourself), giving them a boost to their vitality and durability. The target’s skin has a rough, bark-like appearance, and attacks against them have disadvantage.
 
 ### Dragon's Breath
 ***Concentration***
