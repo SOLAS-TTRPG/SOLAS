@@ -1,6 +1,7 @@
 <div class="title">
 <h1>SOLAS Creature Collection</h1>
 <p>A Simply Organized, Lightweight Adventure System</p>
+<p><strong>Note</strong> Art included without a source is free to use, without license.</p>
 </div>
 
 # Combat
@@ -9,15 +10,8 @@ Players typically end up in some sort of fight, and this bestiary is here to fle
 # About Challenge Scores
 Balancing combat is a tricky thing to do, especially given the amount of possible player combinations there are. Each creature here has a **Challenge** score, which describes the level of a party that it is an appropriate challenge for. A standard party is considered to be 4 players, but creatures can be scaled for more or fewer players by reducing/increasing the health. Any attacks which specify multiple times per turn are limited to once per player if there are multiple targets within range.
 
-|Challenge Rating|Appropriate For|
-|-|-|
-|1/4|One (1) player|
-|1/2|Two (1) players|
-|1|Four (1) players, Two (2) players|
-|2|Four (2) players, Two (3) players|
-
 # Centaur
-*Wanderers of blasted wastelands, centaur tribes are nomadic hunters who defend their chosen families and territory fiercly. Most were raised in constant threat of other tribes or encroaching humanoids, and carry that distrust and combat readiness with them for the rest of their lives. Those who live for battle gain the status folk heroes, and are referred to across the varied tribes as The Warhungered*
+*Wanderers of blasted wastelands, centaur tribes are nomadic hunters who defend their chosen families and territory fiercly. Most were raised in constant threat of other tribes or encroaching humanoids, and carry that distrust and combat readiness with them for the rest of their lives. Those who live for battle gain the status folk heroes, and are referred to across the varied tribes as The Warhungered.*
 
 `Do not find yourself running from centaurs, as they will catch up.`
 
@@ -77,6 +71,21 @@ Balancing combat is a tricky thing to do, especially given the amount of possibl
 - Entangle
 - Barkskin
 
+# Giant Bumblebee
+*A larger variety of the common pollinator, Giant Bumblebees are regularly sought after for their honey (or rarer still, the royal jelly) which contain healing properties. With the larger size comes more danger though, and angering a hive is usually a one-way trip.*
+
+`This is GIANT bumblebee honey, you don't just put this in any cup of tea!`
+
+![Giant Bumblebee](Giant%20Bumblebee.png)
+
+## Giant Bumblebee
+*Heart 8, (Fly) Speed 6, Challenge 1/2*
+
+**Strength 1, Dexterity 2, Constitution 1, Mind 1**
+
+**Sting** *Melee, R4 Piercing*
+- Targets who fail a **Constitution Check (1)** are poisoned, and take an additional R2 Poison damage now and at the start of the Giant Bumblebee's next turn.
+
 # Kulgeli
 *The Kulgeli is an intelligent nocturnal predator who seeks out isolated creatures and ensnares them with roots and vines. Some towns that border forests or swamps share stories of a gargantuan creature who blends in with the trees and patiently waits for those foolish enough to wander away. When morning comes, those who go looking find a skeleton with clean bones strung up in a tangle of vines, with the victim's belongings in a neat pile below them.*
 
@@ -93,7 +102,7 @@ Balancing combat is a tricky thing to do, especially given the amount of possibl
 
 **Grasping Vines** *12 Tiles, R5 Necrotic*
 - Can be used up to 2x per turn
-- Targets who fail a **Dexterity Check (2)** are pulled 2 Tiles toward the Kulgeli. If the target is within 2 tiles, the target is hoisted up into the air 2 Tiles. Targets who fail remain in the vines and cannot move further away from the Kulgeli until they make a **Strength Check (3)**, taking damage at the start of each of the Kulgeli's turns.
+- Targets who fail a **Dexterity Check (2)** are pulled 2 Tiles toward the Kulgeli. If the target is within 2 tiles, the target is hoisted up into the air 2 Tiles. Targets who fail the check remain in the vines and cannot move further away from the Kulgeli until they succeed on a **Strength Check (3)**, taking damage at the start of each of the Kulgeli's turns.
 
 **Cold Clutches** *2 Tiles, R10 Necrotic*
 - Can be used up to 2x per turn
@@ -122,6 +131,35 @@ Balancing combat is a tricky thing to do, especially given the amount of possibl
 **Bite** *Melee, R4 Piercing*
 - Can be used up to 3 times on different targets
 - After a creature is bit, it makes a **Constitution Check (1)**. If it fails, its speed is reduced by two tiles on the next turn. This can stack with other **Midas Beetle Swarm** bites.
+
+# Shelken
+*While originating from the underdark, some shelken have sought to earn a place in societies aboveground. While their enormous shell provides incredible protection, its cumbersome weight typically prevents them from fast-paced occupations. While somewhat ambivalent towards outsiders, one who is wronged will devote their life to slowly tracking down the offender and exacting justice.*
+
+`Not everybody likes salty snacks!`
+
+![Shelken](Shelken.png)
+
+## Shelken
+*Heart 20, Speed 1, Light Armor, Challenge 2*
+
+**Strength 2, Dexterity 1, Constitution 2, Mind 2**
+
+**Daggers** *Melee, R6 Slashing*
+- Can be used up to 2x per turn
+
+**Crossbow** *8 Tiles, R6 Piercing*
+- Can be used up to 2x per turn
+
+## Shelken Guard
+*Heart 22, Speed 1, Medium Armor, Challenge 4*
+
+**Strength 6, Dexterity 1, Constitution 2, Mind 2**
+
+**Warhammers** *Melee, R8 Bludgeoning*
+- Can be used up to 2x per turn
+
+**Crossbow** *8 Tiles, R8 Piercing*
+- Can be used up to 2x per turn
 
 # Werewolf
 *Humanoids afflicted with a terrible curse take the form of wolves when threatened, or during exposure to the moon. While most flee and try to live out a peaceful life on the outer edges of society, some manage to keep their curse a secret and continue to live amongst others. The more times a werewolf transforms, however, the more of a wolf hybrid they become, with sharper teeth, yellowed eyes, and an elongated face.*

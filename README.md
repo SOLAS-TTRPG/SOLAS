@@ -55,7 +55,7 @@ Something that a character is able to do which isn't an aspect of their normal s
 SOLAS contains many different damage types for different weapons and tricks. This list can be expanded upon for your needs, but the standard categories as follows:
 
 - **Physical**: Bludgeoning, Piercing, Slashing
-- **Elemental**: Acid, Fire, Cold, Lightning
+- **Elemental**: Acid, Poison, Fire, Cold, Lightning
 - **Celestial**: Radiant, Necrotic, Force, Psychic
 
 ## Point Pools
@@ -125,9 +125,9 @@ You have superb vision in the dark, being raised in it or naturally gifted. Your
 *This may manifest if the form of non-human eyes, such as cat pupils or glowing irises.*
 
 ### Elemental Ancestor
-You are resistant to one elemental damage type (Poison, Fire, Cold, or Lightning) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
+You are resistant to one elemental damage type (Acid, Poison, Fire, Cold, or Lightning) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
 
-*Your power may come from primordials, dragons, or something else entirely. This usually manifests in a shifted palette, dealing in reds and oranges for fire, etc.*
+*Your power may come from primordials, dragons, or something else entirely. This usually manifests in a different body color palette, dealing in reds and oranges for fire, etc.*
 
 ### Lucky
 Once per rest when you make a roll, you may re-roll all of the dice. You must use the new result.
