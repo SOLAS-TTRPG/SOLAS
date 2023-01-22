@@ -223,7 +223,7 @@ If your **heart** is reduced while you are concentrating on a trick, you may rol
 Your **strength** is considered to be one higher when meeting an armor requirement. For example, a strength score of one allows the character to wear light armor, which usually requires a strength of two.
 
 ## Upgraded Boons
-*These require other boons, a high enough primary stat, etc.*
+*These require other basic boons*
 
 ### Arcane Entanglement
 *Requires **Arcanist***
@@ -234,6 +234,11 @@ Once per rest, you can choose to lose some **focus** points instead of **heart**
 *Requires **Inspiration***
 
 Instead of giving inspiration on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve). Additionally, the inspired creature can now use the inspiration die to reduce the damage of an attack.
+
+### Celestial Fury
+*Requires **Rage***
+
+While you are raging and use a physical attack on a creature, you add an extra R1 to your attack, of a celestial damage type of your choice.
 
 ### Font of Inspiration
 *Requires **Inspiration***
@@ -270,7 +275,12 @@ The spirits of those who you've felled in battle manifest for a moment. After us
 ### Undying
 *Requires **Among the Dead**, **Glory**, or **Rage***
 
-When your character is fading, you do not need to use an extra heart to take your turn. Any healing on your character (while fading) is rolled with advantage.
+When your character is fading, you do not need to use an extra heart to take your turn. Any healing on your character is rolled with advantage.
+
+### Zealous Presence
+*Requires **Glory**, or **Rage***
+
+By spending one **focus**, you can give a number of creatures (equal to your level) that can hear you advantage on attack rolls and checks until the start of your next turn.
 
 # Playing the Game
 Most TTRPGs are broken down into a cycle of play, but this is by no means a one-size fits all solution. Generally, a GM will describe the environment, and the players respond with what their character does. The GM then goes back and forth with the players, narrating the results of their actions and having the players respond, until a scene comes to a natural close.
