@@ -168,7 +168,7 @@ A boon is something that is a unique skill that shapes how your character intera
 *These do not have requirements*
 
 ### Among the Dead
-You have advantage on checks against disease. Additionally, any necrotic damage against you is rolled with disadvantage.
+When a creature is fading within 1 Tile of you, you can expend 1 **Focus** to return them to a total of 1 **Heart**. Additionally, any necrotic damage against you is rolled with disadvantage.
 
 ### Arcanist
 When using a trick, you can instead choose to use any combination of **Heart** and **Focus** totaling the focus cost of the trick.
@@ -190,6 +190,9 @@ When you reduce a creature's heart, you form a mystical bond with that creature.
 
 ### Inspiration
 Once per rest on your turn, you can spend one **stamina** and inspire another creature. The target creature can roll an additional die for a roll of their choice. Once the extra die is used (or the creature rests), the inspiration fades.
+
+### Martial Arts
+Your fists are now considered to be light weapons which can be used with strength or dexterity. Additionally, you can use **Focus** points instead of stamina to make attacks with your fists.
 
 ### Rage
 If you aren't wearing armor, you can use a **Focus** point to channel your primal ferocity. You get advantage on melee attack rolls, and all physical attacks have disadvantage against you. While you are raging, however, you do not recover **Focus** at the start of your turns.
@@ -232,15 +235,20 @@ Instead of giving inspiration on your turn, you can now give it at any point (up
 
 While you are raging and use a physical attack on a creature, you add an extra R1 to your attack, of a celestial damage type of your choice.
 
+### Extra Attack
+*Requires **Divine Smite**, **Finesse**, **Martial Arts**, **Rage**, or **Second Wind***
+
+On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
+
 ### Font of Inspiration
 *Requires **Inspiration***
 
 You can give inspiration dice multiple times per rest, equal to your maximum **stamina**. These can be given on different turns, or all on the same turn (provided you have enough stamina to do so).
 
-### Extra Attack
-*Requires **Divine Smite**, **Finesse**, **Rage**, or **Second Wind***
+### Grave Touched
+*Requires **Among the Dead***
 
-On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
+Once per rest, you can use a **Focus** point to
 
 ### Misty Escape
 *Requires **Blink***
@@ -267,12 +275,17 @@ The spirits of those who you've felled in battle manifest for a moment. After us
 ### Steady Aim
 *Requires **Sneak Attack***
 
-If you have not moved on your turn before you make a dexterity-based attack
+If you have not moved on your turn before you make a dexterity-based attack, you gain advantage on the attack.
+
+### Stunning Strike
+*Requires **Martial Arts***
+
+When you attack a creature with your fists, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check**, and if they roll fewer successes than the heart that they lost, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
 
 ### Undying
 *Requires **Among the Dead**, **Glory**, or **Rage***
 
-When your character is fading, you do not need to use an extra heart to take your turn. Any healing on your character is rolled with advantage.
+When your character is fading, you do not need to use an extra heart to take your turn. Additionally, any healing on your character is rolled with advantage.
 
 ### Zealous Presence
 *Requires **Glory**, or **Rage***
@@ -384,13 +397,6 @@ Each spell costs 1 stamina to cast, as well as its associated focus cost, regard
 
 These tricks represent things that a character can do with hardly any effort.
 
-### Cure Wounds
-*Range: 1 Tile*
-
-You cure the wounds of a willing creature (including yourself) that is within range.
-
-You can increase the **Focus** cost of this spell when casting it. For every **Focus** that you spend, the creature recovers the successes of R2 as **Heart**. (For example, the normal **Focus** cost is 1, so would heal R2. Increasing the cost to 2 would result in R4).
-
 ### Entangle
 *Range: 12 Tiles*
 
@@ -403,17 +409,23 @@ Within range, grasping weeds and vines sprout in a two-tile radius from a point 
 
 You hurl a mote of fire at a creature or object within range. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-### Healing Word
-*Range: 6 Tiles*
+**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, you it does an additional R2 Fire.
 
-You help a willing creature recover lost heart within range (including yourself). Count the successes of R3, and the target creature regains this amount of heart up to their maximum.
+### Healing Word
+*Range: 3 Tiles*
+
+You cure the wounds of a willing creature (including yourself) that is within range, healing the target R2.
+
+**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, you add another R2 to the healing.
 
 ### Ray of Frost
 *Range: 6 Tiles*
 
-*R3 Cold*
+*R2 Cold*
 
 A frigid beam of blue-white light streaks toward a creature within range. If it reduces the target's HP, its speed is reduced by 2 tiles until the start of your next turn.
+
+**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, the target takes an additional R1 Cold damage, and its speed is reduced by an additional tile.
 
 ### Shocking Grasp
 *Range: 1 Tile*
@@ -422,19 +434,32 @@ A frigid beam of blue-white light streaks toward a creature within range. If it 
 
 Lightning springs from your hand to deliver a shock to a creature you try to touch. You have advantage on the attack roll if the target is wearing armor made of metal.
 
+**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, the target takes an additional R2 Lightning damage.
+
 ### Toll the Dead
 *Range: 6 Tiles*
 
-*R3 Necrotic*
+*R2 Necrotic*
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. If the target is missing any of its hit points, you may roll with advantage.
+
+**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, the target takes an additional R2 Necrotic damage.
+
+### Wither and Bloom
+*Range 12*
+
+You weaken the veil between life and death at a point within range. In a radius of 2 tiles, each creature of your choice takes R2 Necrotic damage. Additionally, a creature of your choice within the radius recovers some **heart**, equal to the number of creatures who took damage.
+
+**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each additional point you spend, the radius and number of dice increase by 1.
 
 ### Word of Radiance
 *Range: 1 Tile*
 
-*R3 Radiant*
+*R2 Radiant*
 
 You utter a divine word, and burning radiance erupts around each creature of your choice that you can see within range.
+
+**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, each creature takes an additional R1 Radiant damage.
 
 ## Easy Tricks
 *Requires 3 Mind, Cost: 3 Focus*
@@ -488,13 +513,6 @@ Your touch causes a creature to be wracked with decay.
 
 A creature that you choose within range has advantage on their next roll (check, attack, or trick).
 
-### Revitalizing Aura
-***Concentration***
-
-*Range: 3 Tiles*
-
-When you use this trick, you focus on a willing creature of your choice. When it starts its turn within range, it recovers an additional stamina point. If it moves outside of your range, the aura fades and ends.
-
 ### Witch Bolt
 ***Concentration***
 
@@ -514,14 +532,7 @@ Tricks that require some decent concentration.
 
 *Range: 1 Tile*
 
-You touch a willing creature (including yourself), giving them a boost to their vitality and durability. The target’s skin has a rough, bark-like appearance, and attacks against them have disadvantage.
-
-### Dragon's Breath
-***Concentration***
-
-*Range: 1 Tile*
-
-You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose a damage type from the elemental damage category. Until the spell ends, the creature can use a stamina point to exhale energy of the chosen type in a 3 tile cone, doing R4 damage of the chosen type to each creature in the area.
+You touch a willing creature (including yourself), giving them a boost to their vitality and durability. The target’s skin has a rough, bark-like appearance, and attacks against them have disadvantage. At the start of the creature's turn, it regains R2 hit points.
 
 ### Misty Step
 You disappear in a silvery mist, reappearing in an open space within 6 tiles that you can see.
