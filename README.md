@@ -179,19 +179,6 @@ You can use the **Misty Step** trick once per rest with no **Focus** cost (still
 ### Divine Smite
 When you attack a creature, you can expend **Focus** points to do additional celestial damage (choose this type when you select this boon, this cannot be changed). You roll an additional dice of this type for each **Focus** point you spent.
 
-### Duelist
-Once per round when you are hit with a physical melee attack, you can spend some or all of your remaining stamina points to reduce the damage by that much.
-
-### Elemental Shift
-When you attack with a physical weapon, you can spend one **focus** to randomly change its damage type to an elemental one. This effect persists through combat, and you can spend another point to roll the type again. To do determine the damage type, roll a d6:
-
-1. No change, the damage type is the normal one for the weapon
-2. Poison
-3. Fire
-4. Cold
-5. Lightning
-6. Your choice of an elemental damage type
-
 ### Finesse
 If you are wearing light or no armor, you can use your dexterity instead of strength when rolling melee damage with a light or medium weapon.
 
@@ -211,7 +198,7 @@ If you aren't wearing armor, you can use a **Focus** point to channel your prima
 Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level.
 
 ### Sneak Attack
-You have learned to exploit an emey's moment of weakness. If you have advantage on an attack against a creature, you gain an additional R1. 
+You have learned to exploit an emey's moment of weakness. If you have advantage on an dexterity-based attack against a creature, you roll additional dice equal to your **Mind** score. 
 
 ### Soul Siphon
 Once per turn when you reduce a creature's heart, you recover **Focus**, **Stamina**, or **Heart** at the start of your next turn. Recover your normal amount, then also roll R1 and recover points in the one that you choose (up to your maximum), equal to the number of successes.
@@ -229,6 +216,11 @@ Your **strength** is considered to be one higher when meeting an armor requireme
 *Requires **Arcanist***
 
 Once per rest, you can choose to lose some **focus** points instead of **heart** (as the result of an attack or trick).
+
+### Arcane Reaction
+*Requires **Arcanist** or **Warcaster***
+
+If you are able to make an attack of opportunity, you can instead use a trick with a 1 Tile range, with the target being the creature that provoked the opportunity attack. You must expend the appropriate amount of **Focus** and **Stamina**.
 
 ### Combat Inspiration
 *Requires **Inspiration***
@@ -272,6 +264,11 @@ When you are healed, you have the option of regaining a combination of **heart**
 
 The spirits of those who you've felled in battle manifest for a moment. After using soul siphon on a creature, it has disadvantage when attacking you until your next turn.
 
+### Steady Aim
+*Requires **Sneak Attack***
+
+If you have not moved on your turn before you make a dexterity-based attack
+
 ### Undying
 *Requires **Among the Dead**, **Glory**, or **Rage***
 
@@ -299,6 +296,9 @@ Now you're ready to go! You can take any of the following actions for the cost o
 You can also use a trick for the cost of one **Stamina** point, as well as the listed **focus** cost for the trick.
 
 If you do not have enough stamina and/or focus to take an action, you cannot do it.
+
+### Opportunity Attacks
+If a creature leaves your melee range, you can make a melee attack against it, provided you have enough stamina to do so.
 
 ### Resistances/vulnerabilities
 Some enemies or characters may be resistant or vulnerable to certain types of damage (see **Damage Types** in the [Introduction](#introduction). If something is vulnerable to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
