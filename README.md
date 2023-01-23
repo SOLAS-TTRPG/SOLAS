@@ -197,6 +197,8 @@ Your fists are now considered to be light weapons which can be used with strengt
 ### Rage
 If you aren't wearing armor, you can use a **Focus** point to channel your primal ferocity. You get advantage on melee attack rolls, and all physical attacks have disadvantage against you. While you are raging, however, you do not recover **Focus** at the start of your turns.
 
+### Defender
+
 ### Second Wind
 Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level.
 
@@ -216,7 +218,7 @@ Your **strength** is considered to be one higher when meeting an armor requireme
 *These require other basic boons*
 
 ### Arcane Entanglement
-*Requires **Arcanist***
+*Requires **Arcanist**, **Warcaster**, or **Well-Armored***
 
 Once per rest, you can choose to lose some **focus** points instead of **heart** (as the result of an attack or trick).
 
@@ -260,6 +262,11 @@ You can now also use your Blink ability outside of your turn, after you take dam
 
 You can swim and climb at your normal speed. Additionally, when you have a creature marked, you gain 2 tiles of movement speed.
 
+### Resilience
+*Requires **Glory**, **Second Wind**, **Soul Siphon**, or **Well-Armored***
+
+While you are fading, you recover one additional **Stamina** and **Focus** point at the start of each turn.
+
 ### Runewoven
 *Requires **Arcanist***
 
@@ -283,7 +290,7 @@ If you have not moved on your turn before you make a dexterity-based attack, you
 When you attack a creature with your fists, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check**, and if they roll fewer successes than the heart that they lost, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
 
 ### Undying
-*Requires **Among the Dead**, **Glory**, or **Rage***
+*Requires **Among the Dead**, **Glory**, **Rage**, or **Well-Armored***
 
 When your character is fading, you do not need to use an extra heart to take your turn. Additionally, any healing on your character is rolled with advantage.
 

@@ -16,6 +16,7 @@
 - Extra Attack
 
 ### Glory
+- Resilience
 - Undying
 - Zealous Presence
 
@@ -38,14 +39,20 @@
 
 ### Second Wind
 - Extra Attack
+- Resilience
 
 ### Sneak Attack
 - Steady Aim
 
 ### Soul Siphon
 - Spirit Interference
+- Resilience
 
 ### Warcaster
 - Arcane Reaction
 
 ### Well Armored
+- Arcane Entanglement
+- Resilience
+- Undying
+- Zealous Presence
