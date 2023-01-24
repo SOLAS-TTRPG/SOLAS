@@ -4,28 +4,27 @@
 </div>
 
 # Table of Contents
-1. [Preface](#preface)
-2. [Introduction](#introduction)
-	- [Rolling](#rolling)
-	- [Trick](#trick)
-	- [Damage Types](#damage-types)
-	- [Point Pools](#point-pools)
-	- [Primary Attributes](#primary-attributes)
-	- [Tiles](#tiles)
-3. [Character Creation](#character-creation)
-	- [Backgrounds](#backgrounds)
-	- [Lineages](#lineages)
-	- [Attributes and Scores](#attributes-and-scores)
-	- [Leveling Up](#leveling-up)
-4. [Boons](#boons)
-	- [Basic Boons](#basic-boons)
-	- [Upgraded Boons](#upgraded-boons)
-5. [Playing the Game](#playing-the-game)
-	- [Combat](#combat)
-	- [Resting](#resting)
-6. [Weapons](#weapons)
-7. [Armor](#armor)
-8. [Tricks](#tricks)
+1. Preface
+2. Introduction
+	- Rolling
+	- Damage Types
+	- Point Pools
+	- Primary Attributes
+	- Tiles
+3. Character Creation
+	- Backgrounds
+	- Lineages
+	- Attributes and Scores
+	- Leveling Up
+4. Boons
+	- Basic Boons
+	- Ugraded Boons
+5. Playing the Game
+	- Combat
+	- Resting
+6. Weapons
+7. Armor
+8. Spells
 
 # Preface
 The main goals of TTRPGs are to provide exploration, social interaction, and combat, but many have far too complex systems that don't allow new players to pick up the rulebook and start playing that same day.
@@ -46,22 +45,19 @@ A die roll is when someone rolls at least one standard six-sided die to determin
 
 Sometimes a roll is specified as “advantaged” which means dice rolls succeed on a 3 or higher. Another variant is “disadvantaged” which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages don't stack, you can only be "advantaged" or "disadvantaged" and any amount of each cancels out. Having double advantage means the dice are successes on twos or higher.
 
-Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, trick, or GM will describe what you are trying to accomplish and what attribute you will be using. If your GM calls for a Dexterity roll (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes.
-
-## Trick
-Something that a character is able to do which isn't an aspect of their normal self. This works for lots of settings, from flashbangs to spells to traps
+Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, spell, or GM will describe what you are trying to accomplish and what attribute you will be using. If your GM calls for a Dexterity roll (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes.
 
 ## Damage Types
-SOLAS contains many different damage types for different weapons and tricks. This list can be expanded upon for your needs, but the standard categories as follows:
+SOLAS contains many different damage types for different weapons and spells. This list can be expanded upon for your needs, but the standard categories as follows:
 
 - **Physical**: Bludgeoning, Piercing, Slashing
 - **Elemental**: Acid, Poison, Fire, Cold, Lightning
 - **Celestial**: Radiant, Necrotic, Force, Psychic
 
 ## Point Pools
-These are points you can save up to spend attacking, moving, or doing tricks. When combat ends, these are returned to their maximum.
+These are points you can save up to spend attacking, moving, or doing spells. When combat ends, these are returned to their maximum.
 
-**Focus** is your mental concentration at any given moment. These points are used up when you use tricks, and some are given back at the start of each turn.
+**Focus** is your mental concentration at any given moment. These points are used up when you use spells, and some are given back at the start of each turn.
 
 **Stamina** is your physical ableness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. Every character has 3 stamina points.
 
@@ -77,7 +73,7 @@ Characters in the game have different attributes to describe their general skill
 **Mind** *Analytical skill, intuition*
 
 ## Tiles
-A tile is typically a square or hexagon on a grid, and is considered to be 5 feet (or 1.5 meters). While you may not be playing with an actual grid at all, this still describes specific distances for tricks, ranges, and movement.
+A tile is typically a square or hexagon on a grid, and is considered to be 5 feet (or 1.5 meters). While you may not be playing with an actual grid at all, this still describes specific distances for spells, ranges, and movement.
 
 # Character Creation
 To play this game, each player must create a character, a member of the setting that the GM is describing. SOLAS is designed to have very a simple character creation system, but one that lets creativity run wild. The easiest way to create a character is to break it down into two parts: Before they became an adventurer, and where they are now. Doing this naturally flows with the character creation process. The first step is...
@@ -154,7 +150,7 @@ Your **constitution** affects your **heart** (also referred to as health and/or 
 ### Mind
 Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
 
-Your **mind** also affects what tricks you know. A character can only memorize a certain number of tricks at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. Characters with a **Mind** score higher than one can use **tricks**, so check out the section to make sure you know your character's options.
+Your **mind** also affects what spells you know. A character can only memorize a certain number of spells at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a spell prepared, you cannot use it. Characters with a **Mind** score higher than one can use **spells**, so check out the section to make sure you know your character's options.
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**), and if at an appropriate level you also recieve another **Boon**!
@@ -171,10 +167,10 @@ A boon is something that is a unique skill that shapes how your character intera
 When a creature is fading within 1 Tile of you, you can expend 1 **Focus** to return them to a total of 1 **Heart**. Additionally, any necrotic damage against you is rolled with disadvantage.
 
 ### Arcanist
-When using a trick, you can instead choose to use any combination of **Heart** and **Focus** totaling the focus cost of the trick.
+When using a spell, you can instead choose to use any combination of **Heart** and **Focus** totaling the focus cost of the spell.
 
 ### Blink
-You can use the **Misty Step** trick once per rest with no **Focus** cost (still costs 1 **Stamina**).
+You can use the **Misty Step** spell once per rest with no **Focus** cost (still costs 1 **Stamina**).
 
 ### Divine Smite
 When you attack a creature, you can expend **Focus** points to do additional celestial damage (choose this type when you select this boon, this cannot be changed). You roll an additional dice of this type for each **Focus** point you spent.
@@ -197,8 +193,6 @@ Your fists are now considered to be light weapons which can be used with strengt
 ### Rage
 If you aren't wearing armor, you can use a **Focus** point to channel your primal ferocity. You get advantage on melee attack rolls, and all physical attacks have disadvantage against you. While you are raging, however, you do not recover **Focus** at the start of your turns.
 
-### Defender
-
 ### Second Wind
 Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level.
 
@@ -209,7 +203,7 @@ You have learned to exploit an emey's moment of weakness. If you have advantage 
 Once per turn when you reduce a creature's heart, you recover **Focus**, **Stamina**, or **Heart** at the start of your next turn. Recover your normal amount, then also roll R1 and recover points in the one that you choose (up to your maximum), equal to the number of successes.
 
 ### Warcaster
-If your **heart** is reduced while you are concentrating on a trick, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell.
+If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell.
 
 ### Well Armored
 Your **strength** is considered to be one higher when meeting an armor requirement. For example, a strength score of one allows the character to wear light armor, which usually requires a strength of two.
@@ -218,14 +212,14 @@ Your **strength** is considered to be one higher when meeting an armor requireme
 *These require other basic boons*
 
 ### Arcane Entanglement
-*Requires **Arcanist**, **Warcaster**, or **Well-Armored***
+*Requires **Arcanist** or **Warcaster***
 
-Once per rest, you can choose to lose some **focus** points instead of **heart** (as the result of an attack or trick).
+Once per rest, you can choose to lose some **focus** points instead of **heart** (as the result of an attack or spell).
 
 ### Arcane Reaction
 *Requires **Arcanist** or **Warcaster***
 
-If you are able to make an attack of opportunity, you can instead use a trick with a 1 Tile range, with the target being the creature that provoked the opportunity attack. You must expend the appropriate amount of **Focus** and **Stamina**.
+If you are able to make an attack of opportunity, you can instead use a spell with a 1 Tile range, with the target being the creature that provoked the opportunity attack. You must expend the appropriate amount of **Focus** and **Stamina**.
 
 ### Combat Inspiration
 *Requires **Inspiration***
@@ -272,7 +266,7 @@ While you are fading, you recover one additional **Stamina** and **Focus** point
 
 When you are healed, you have the option of regaining a combination of **heart** and **focus** equal to the amount of heart you would regain normally.
 
-*Your body itself has become the conduit for tricks, with the line between your mental fortitude and your physical resilience becoming blurred.*
+*Your body itself has become the conduit for spells, with the line between your mental fortitude and your physical resilience becoming blurred.*
 
 ### Spirit Interference
 *Requires **Soul Siphon***
@@ -313,7 +307,7 @@ Now you're ready to go! You can take any of the following actions for the cost o
 - Moving a distance up to your speed
 - Attacking with a weapon (you must be on an adjacent square to do so with a melee weapon, or the target must be within range for a ranged weapon)
 
-You can also use a trick for the cost of one **Stamina** point, as well as the listed **focus** cost for the trick.
+You can also use a spell for the cost of one **Stamina** point, as well as the listed **focus** cost for the spell.
 
 If you do not have enough stamina and/or focus to take an action, you cannot do it.
 
@@ -324,7 +318,7 @@ If a creature leaves your melee range, you can make a melee attack against it, p
 Some enemies or characters may be resistant or vulnerable to certain types of damage (see **Damage Types** in the [Introduction](#introduction). If something is vulnerable to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
 
 ### Fading
-Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -5 heart, your character falls and dies.
+Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -7 heart, your character falls and dies.
 
 ## Resting
 Once combat comes to a close, your focus and stamina are restored. However, your characters cannot stay awake indefinitely, and will need to recover from the physical exertion of the battle. Characters will need to rest for a total of 8 hours, up to two of which can be sitting/lying down. If characters go 24 hours without resting, they receive disadvantage on all checks due to exhaustion, and their speed is halved.
@@ -394,15 +388,15 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 - Reduces physical damage by 3
 - Reduces your speed by 3 tiles
 
-# Tricks
-A character can only memorize a certain number of tricks at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a trick prepared, you cannot use it. Keep in mind that tricks cost **focus** to use: a trick that requires more focus than your maximum simply cannot be memorized.
+# Spells
+A character can only memorize a certain number of spells at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a spell prepared, you cannot use it. Keep in mind that spells cost **focus** to use: a spell that requires more focus than your maximum simply cannot be memorized.
 
-Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends. You can use at most one trick per turn.
+Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends. You can use at most one spell per turn.
 
-## Simple Tricks
+## Simple Spells
 *Requires 2 Mind, Cost: 2 Focus*
 
-These tricks represent things that a character can do with hardly any effort.
+These spells represent things that a character can do with little concentration.
 
 ### Entangle
 *Range: 12 Tiles*
@@ -468,10 +462,10 @@ You utter a divine word, and burning radiance erupts around each creature of you
 
 **Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, each creature takes an additional R1 Radiant damage.
 
-## Easy Tricks
+## Easy spells
 *Requires 3 Mind, Cost: 3 Focus*
 
-This tricks represent things that a character can do with a small effort.
+This spells represent things that a character can do with a small effort.
 
 ### Armor of Agathys
 *Range: Self*
@@ -485,7 +479,7 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 
 *Range: 6 Tiles*
 
-Three creatures of your choice who remain in range get to add R1 to their rolls (checks, attacks, and tricks)
+Three creatures of your choice who remain in range get to add R1 to their rolls (checks, attacks, and spells)
 
 ### Burning Hands
 *Range: 3 Tiles*
@@ -506,7 +500,7 @@ You hurl a small sphere of energy at a creature that you can see within range. Y
 
 *Range: 9 Tiles*
 
-You place a curse on a creature that you can see within range. Until concentration ends, you get to add 1R on all attacks and tricks with that creature as the target.
+You place a curse on a creature that you can see within range. Until concentration ends, you get to add 1R on all attacks and spells with that creature as the target.
 
 ### Inflict Wounds
 *Range: 1 Tile*
@@ -518,7 +512,7 @@ Your touch causes a creature to be wracked with decay.
 ### Inspire
 *Range: 6 Tiles*
 
-A creature that you choose within range has advantage on their next roll (check, attack, or trick).
+A creature that you choose within range has advantage on their next roll (check, attack, or spell).
 
 ### Witch Bolt
 ***Concentration***
@@ -529,10 +523,10 @@ A creature that you choose within range has advantage on their next roll (check,
 
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. As long as you do damage with the witch bolt, you may use witch bolt again with only stamina cost.
 
-## Moderate Tricks
+## Moderate spells
 *Requires 4 Mind, Cost: 4 Focus*
 
-Tricks that require some decent concentration.
+spells that require some decent concentration.
 
 ### Barkskin
 ***Concentration***
