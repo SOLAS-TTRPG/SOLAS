@@ -1,7 +1,7 @@
 <div class="title">
-<h1>SOLAS Creature Compendium</h1>
+<h1>SOLAS Creature Collection</h1>
 <p>A Simply Organized, Lightweight Adventure System</p>
-<p><strong>Note</strong> Art included without a source is free to use, without license.</p>
+<p><strong>Note:</strong> Art included without a source is free to use, without license.</p>
 </div>
 # Important Notes
 

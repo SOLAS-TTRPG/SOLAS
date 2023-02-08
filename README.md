@@ -163,135 +163,55 @@ A boon is something that is a unique skill that shapes how your character intera
 ## Basic Boons
 *These do not have requirements*
 
-### Among the Dead
-When a creature is fading within 1 Tile of you, you can expend 1 **Focus** to return them to a total of 1 **Heart**. Additionally, any necrotic damage against you is rolled with disadvantage.
+### Arcane Infusion
+You've learned how to invest a spark of magic into mundane objects. You can touch a nonmagical object, spending one **Focus** to give it one of the following magical properties of your choice:
 
-### Arcanist
-When using a spell, you can instead choose to use any combination of **Heart** and **Focus** totaling the focus cost of the spell.
+- **Boots of Speed**, infused to increase the wearer's speed by 1 tile
+- **Armor of Strength**, infused to give the wearer advantage on **Strength** checks
+- **Helm of Awareness**, infused to give the wearer advantage on **Mind** checks
+- **Gloves of Persuasion**, act as light melee weapons that deal an additional R1 force damage
+- **Radiant Weapon**. The infused item deals radiant damage instead of the usual type, and can emit light in a 6 tile radius. Once per rest, the weilder can use one **Focus** to blind melee target, giving them disadvantage on any rolls until the end of the target's next turn
 
-### Blink
-You can use the **Misty Step** spell once per rest with no **Focus** cost (still costs 1 **Stamina**).
+The chosen property lasts indefinitely, and you can end the property at will. You can bestow magic on multiple objects, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your **Mind** score.
 
-### Divine Smite
-When you attack a creature, you can expend **Focus** points to do additional celestial damage (choose this type when you select this boon, this cannot be changed). You roll an additional dice of this type for each **Focus** point you spent.
+### Barbarous Rage
+While you aren't wearing armor, you can use one **Focus** to channel your primal ferocity and rage. While you are raging, you have advantage on all **Strength** checks/rolls (including damage). While raging, you reduce incoming damage by 1 per attack. While you are raging, however, you do not recover **Focus** at the start of your turns. If you do not lose heart in between two of your consecutive turns, your rage ends.
 
-### Finesse
-If you are wearing light or no armor, you can use your dexterity instead of strength when rolling melee damage with a light or medium weapon.
+### Bardic Inspiration
+You can spend one **Focus** and inspire another creature. The target creature can roll an additional die for a roll of their choice. Once the extra die is used (or the creature rests), the inspiration fades. You can use this a number of times per rest, equal to your **Mind** score.
 
-### Glory
-While you are fading, all damage rolls are made with advantage.
+### Divine Domain
+You choose a certain domain, gaining additional power from a higher power associated with it. You can use your domain's features a number of times per rest, equal to your **Mind** score. You expend one **Focus** point when you use a feature.
 
-### Hunter's Mark
-When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll with advantage.
+#### Tempest
+- **Thunderous Rebuke**. When a creature hits you with a melee attack, you can cause them to make a **Dexterity Check** against your **Mind** score. They then take R4 Lightning damage (with disadvantage if they succeeded the check).
+- **Destructive Wrath**. When you are rolling lightning or force damage, you can gain advantage on the roll.
 
-### Inspiration
-Once per rest on your turn, you can spend one **stamina** and inspire another creature. The target creature can roll an additional die for a roll of their choice. Once the extra die is used (or the creature rests), the inspiration fades.
+#### Trickery
+- **Blessing of the Trickster**. You touch a willing creature, giving them advantage on dexterity checks for an hour
+- **Invoke Duplicity**. You can create an illusory duplicate of yourself that lasts for 1 minute. For this duration, you can take actions, move, and use spells from your duplicate, using focus and stamina as normal.
 
-### Martial Arts
-Your fists are now considered to be light weapons which can be used with strength or dexterity. Additionally, you can use **Focus** points instead of stamina to make attacks with your fists.
-
-### Rage
-If you aren't wearing armor, you can use a **Focus** point to channel your primal ferocity. You get advantage on melee attack rolls, and all physical attacks have disadvantage against you. While you are raging, however, you do not recover **Focus** at the start of your turns.
+#### War
+- **War Priest**. You can make an additional attack with a weapon on your turn, even if you've already attacked with it.
+- **Guided Strike**. When you make an attack roll, you can add R2.
 
 ### Second Wind
-Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level.
+You push yourself to continue fighting, past the point of what would normally be possible. Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level. Additionally, you roll a number of dice equal to your **Constitution** score, and recover the successes as **Heart**.
+
+### Martial Arts
+Your fists are now considered to be light melee weapons, with no limit on the number of attacks per turn (a stamina point still must be expended for each attack). Additionally, you can expend **Focus** points instead of stamina to make attacks with your fists.
+
+### Paladic Presence
+When you make a melee attack against a creature, you can expend **Focus** points to do additional celestial damage (choose this type when you select this boon, this cannot be changed later). You do an additional R2 of this type for each **Focus** point you spend.
+
+### Ranger's Mark
+When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll additional dice equal to your **Constitution** score.
 
 ### Sneak Attack
-You have learned to exploit an emey's moment of weakness. If you have advantage on an dexterity-based attack against a creature, you roll additional dice equal to your **Mind** score. 
+You have learned to exploit an emey's moment of weakness. If you have advantage on a melee attack against a creature, you roll additional dice equal to your **Dexterity** score.
 
-### Soul Siphon
-Once per turn when you reduce a creature's heart, you recover **Focus**, **Stamina**, or **Heart** at the start of your next turn. Recover your normal amount, then also roll R1 and recover points in the one that you choose (up to your maximum), equal to the number of successes.
-
-### Warcaster
-If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell.
-
-### Well Armored
-Your **strength** is considered to be one higher when meeting an armor requirement. For example, a strength score of one allows the character to wear light armor, which usually requires a strength of two.
-
-## Upgraded Boons
-*These require other basic boons*
-
-### Arcane Entanglement
-*Requires **Arcanist** or **Warcaster***
-
-Once per rest, you can choose to lose some **focus** points instead of **heart** (as the result of an attack or spell).
-
-### Arcane Reaction
-*Requires **Arcanist** or **Warcaster***
-
-If you are able to make an attack of opportunity, you can instead use a spell with a 1 Tile range, with the target being the creature that provoked the opportunity attack. You must expend the appropriate amount of **Focus** and **Stamina**.
-
-### Combat Inspiration
-*Requires **Inspiration***
-
-Instead of giving inspiration on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve). Additionally, the inspired creature can now use the inspiration die to reduce the damage of an attack.
-
-### Celestial Fury
-*Requires **Rage***
-
-While you are raging and use a physical attack on a creature, you add an extra R1 to your attack, of a celestial damage type of your choice.
-
-### Extra Attack
-*Requires **Divine Smite**, **Finesse**, **Martial Arts**, **Rage**, or **Second Wind***
-
-On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
-
-### Font of Inspiration
-*Requires **Inspiration***
-
-You can give inspiration dice multiple times per rest, equal to your maximum **stamina**. These can be given on different turns, or all on the same turn (provided you have enough stamina to do so).
-
-### Grave Touched
-*Requires **Among the Dead***
-
-Once per rest, you can use a **Focus** point to
-
-### Misty Escape
-*Requires **Blink***
-
-You can now also use your Blink ability outside of your turn, after you take damage. When you do not immediately reappear. While you do move to the space that you can see, you remain invisible until the start of your next turn.
-
-### Movement Master
-*Requires **Hunter's Mark***
-
-You can swim and climb at your normal speed. Additionally, when you have a creature marked, you gain 2 tiles of movement speed.
-
-### Resilience
-*Requires **Glory**, **Second Wind**, **Soul Siphon**, or **Well-Armored***
-
-While you are fading, you recover one additional **Stamina** and **Focus** point at the start of each turn.
-
-### Runewoven
-*Requires **Arcanist***
-
-When you are healed, you have the option of regaining a combination of **heart** and **focus** equal to the amount of heart you would regain normally.
-
-*Your body itself has become the conduit for spells, with the line between your mental fortitude and your physical resilience becoming blurred.*
-
-### Spirit Interference
-*Requires **Soul Siphon***
-
-The spirits of those who you've felled in battle manifest for a moment. After using soul siphon on a creature, it has disadvantage when attacking you until your next turn.
-
-### Steady Aim
-*Requires **Sneak Attack***
-
-If you have not moved on your turn before you make a dexterity-based attack, you gain advantage on the attack.
-
-### Stunning Strike
-*Requires **Martial Arts***
-
-When you attack a creature with your fists, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check**, and if they roll fewer successes than the heart that they lost, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
-
-### Undying
-*Requires **Among the Dead**, **Glory**, **Rage**, or **Well-Armored***
-
-When your character is fading, you do not need to use an extra heart to take your turn. Additionally, any healing on your character is rolled with advantage.
-
-### Zealous Presence
-*Requires **Glory**, or **Rage***
-
-By spending one **focus**, you can give a number of creatures (equal to your level) that can hear you advantage on attack rolls and checks until the start of your next turn.
+### Sorcerous Origin
+You are able to channel spells using bursts of physical strength, granted to you by an otherworldly patron. Your maximum amount of **Focus** is equal to your **Mind + Strength**. This does not increase the number of spells you can memorize, nor the difficulty.
 
 # Playing the Game
 Most TTRPGs are broken down into a cycle of play, but this is by no means a one-size fits all solution. Generally, a GM will describe the environment, and the players respond with what their character does. The GM then goes back and forth with the players, narrating the results of their actions and having the players respond, until a scene comes to a natural close.
@@ -389,7 +309,7 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 - Reduces your speed by 3 tiles
 
 # Spells
-A character can only memorize a certain number of spells at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a spell prepared, you cannot use it. Keep in mind that spells cost **focus** to use: a spell that requires more focus than your maximum simply cannot be memorized.
+A character can only memorize a certain number of spells at a time, this being your **Mind** score. The ones you have memorized can be swapped during rests, but if you don't have a spell prepared, you cannot use it. Keep in mind that spells cost **focus** to use: a spell that requires more focus than your maximum simply cannot be memorized.
 
 Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends. You can use at most one spell per turn.
 
