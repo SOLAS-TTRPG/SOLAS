@@ -95,6 +95,11 @@ You have advantage on **Constitution** checks.
 
 *You are from a distant place, one so remote that few of the common folk realize that it exists, and chances are good that even if some people you meet have heard of your homeland, they know merely the name and perhaps a few outrageous tales.*
 
+### Lucky
+Once per rest when you make a roll, you may re-roll all of the dice. You must use the new result.
+
+*You've had close brushes with danger and doom, but you're always able to get out of tough situations in the nick of time.*
+
 ### Runaway
 You have advantage on **Dexterity** checks.
 
@@ -125,18 +130,20 @@ You are resistant to one elemental damage type (Acid, Poison, Fire, Cold, or Lig
 
 *Your power may come from primordials, dragons, or something else entirely. This usually manifests in a unique bodily color palette, with reds and oranges for fire, etc.*
 
-### Lucky
-Once per rest when you make a roll, you may re-roll all of the dice. You must use the new result.
+### Fey Ancestry
+You no longer need to sleep to fully recover heart, instead only requiring 4 hours of concious meditation. As a result of this, magic cannot put you to sleep. Furthermore, you have advantage on **Mind checks** against spell effects.
+
+*This may be the result of exposure to the feywild, underdark, or similar place. Your skin may sparkle in the right light, some animalistic features may manifest (satyrs, for example), flowers may bloom/wilt around you depending on your mood, or you may even represent aspects of nature like seasons.*
+
+### Innate Arcana
+You permanently memorize one simple spell, which costs one **Focus** as opposed to the normal two. This does not count towards your maximum number of memorized spells. After using this memorized spell for the reduced cost, you recover one less **Focus** at the start of your next turn.
+
+*Your ancestry has been touched by magic, having a natural gift of spell usage. This can come from all sorts of places, from planar magic to deities, a natural connection or a deliberate augmentation.*
 
 ### Runewoven
 When casting a spell, you can use a combination of **heart** or **focus** points to equal the original cost. Likewise, when you're healed, you can regain a combination of **heart** or **focus** points instead of just heart. Once per rest when you lose **heart**, you can instead choose to lose a combination of **heart** or **focus** points that is equal to the original amount.
 
 *Your connection to magic is much more than knowledge, it's what keeps you alive. This could manifest as runic etchings carved into your skin/exterior, a cracked appearance with a dull glow coming through, etc.*
-
-### Twilit
-You no longer need to sleep to fully recover heart, instead only requiring 4 hours of concious meditation.
-
-*This may be the result of exposure to the feywild, underdark, or similar place. Your skin may sparkle in the right light, some animalistic features may manifest (satyrs, for example), flowers may bloom/wilt around you depending on your mood, or similar flavoring.*
 
 ## Attributes and Scores
 When you've started your character and you have your background(s)/lineage(s) chosen, start your character with one point in each of your **Primary Attributes**, then add one point to the attribute of your choice.
@@ -188,15 +195,15 @@ You can spend one **Focus** and inspire another creature. The target creature ca
 ### Divine Domain
 You choose a certain domain, gaining additional power from a higher power associated with it. You can use your domain's features a number of times per rest, equal to your **Mind** score. You expend one **Focus** point when you use a feature.
 
-#### Tempest
+#### Tempest Domain
 - **Thunderous Rebuke**. When a creature hits you with a melee attack, you can cause them to make a **Dexterity Check** against your **Mind** score. They then take R4 Lightning damage (with disadvantage if they succeeded the check).
 - **Destructive Wrath**. When you are rolling lightning or force damage, you can gain advantage on the roll.
 
-#### Trickery
+#### Trickery Domain
 - **Blessing of the Trickster**. You touch a willing creature, giving them advantage on dexterity checks for an hour
-- **Invoke Duplicity**. You can create an illusory duplicate of yourself that lasts for 1 minute. For this duration, you can take actions, move, and use spells from your duplicate, using focus and stamina as normal.
+- **Invoke Duplicity**. You can create an illusory duplicate of yourself that lasts for 4 rounds. For this duration, you can take actions, move, and use spells from your duplicate, using focus and stamina as normal.
 
-#### War
+#### War Domain
 - **War Priest**. You can make an additional attack with a weapon on your turn, even if you've already attacked with it.
 - **Guided Strike**. When you make an attack roll, you can add R2.
 
@@ -215,8 +222,27 @@ You have learned to exploit an emey's moment of weakness. If you have advantage 
 ### Second Wind
 You push yourself to continue fighting, past the point of what would normally be possible. Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level. Additionally, you roll a number of dice equal to your **Constitution** score, and recover the successes as **Heart**.
 
-### Sorcerous Origin
-You are able to channel spells using bursts of physical strength, granted to you by an otherworldly patron. Your maximum amount of **Focus** is equal to your **Mind + Strength**. This does not increase the number of spells you can memorize, nor the difficulty.
+### Sorcerous Patron
+You are able to channel spells using bursts of physical strength, granted to you or your ancestry by a powerful patron. Your maximum amount of **Focus** is equal to your **Mind + Strength**. This does not increase the number of spells you can memorize, nor the difficulty. You also choose a certain origin based on your patron.
+
+#### Celestial Patronage
+- **Radiant Soul**. Once per rest, you may add your **Strength** score to the number of dice you are rolling for any check.
+- **Empowered Healing**. When you or an ally within 1 tile is rolling healing, you can expend **Focus** points to scale their spell.
+
+#### Eldritch Patronage
+- **Awakened Mind**. You can speak telepathically to any creature you can see within 6 tiles that can understand at least one language.
+- **Entropic Presence**. When you do damage to a creature, you can spend one **Focus** to imbue fear into it. Until the end of your next turn, it had disadvantage on attacks against you.
+
+#### Storm Patronage
+- **Tempestuous Magic**. On your turn, you can spend a **Focus** to surround yourself with gusts of wind, flying up to half of your speed without provoking opportunity attacks.
+- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures within 2 tiles of your choice to make a **Strength check** against your **Strength** score, or be pushed back 2 tiles.
+
+#### Twilight Patronage
+- **Strength of the Grave**. Once per rest, when damage reduces you to 0 heart, you can spend one **Focus** to make a **Strength check** and recover the successes as heart.
+- **Hound of Ill Omen**. Once per rest on your turn, you can spend one **Focus** to summon a howling creature formed from shadow within 6 tiles of you. You can spend your **stamina** points to have it move (speed of 6 tiles) or attack (slashing damage, rolled with your **Strength** score).
+
+#### Undead Patronage
+- **Form of Dread**. 
 
 ## Dexterity Boons
 *These boons require you to have a **Dexterity** score of **2 or Higher***
@@ -375,147 +401,75 @@ A character can only memorize a certain number of spells at a time, this being y
 
 Each spell costs 1 stamina to cast, as well as its associated focus cost, regardless of the damage dealt. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends. You can use at most one spell per turn.
 
+Some spells are **scalable**, which means they can be improved by spending more focus. The scalable description explains how the spell improves for each additional point you spend.
+
 ## Simple Spells
 *Requires 2 Mind, Cost: 2 Focus*
 
 These spells represent things that a character can do with little concentration.
 
 ### Entangle
-*Range: 12 Tiles*
+- **Concentration**
+- Range: 12 Tiles
+- Duration: 1 Minute
 
 Within range, grasping weeds and vines sprout in a two-tile radius from a point on the ground within range. Any creature who is in this range must make a **Strength Check**. Creatures who get fewer successes than your **Mind** score can only move at half of their normal speed while in the area.
 
 ### Fire Bolt
-*Range: 12 Tiles*
+- Range: 12 Tiles
+- Scalable: +R2
 
-*R3 Fire*
+You hurl a mote of fire at a creature or object within range, doing **R2 Fire** damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-You hurl a mote of fire at a creature or object within range. A flammable object hit by this spell ignites if it isn’t being worn or carried.
+### Guiding Bolt
+- Range: 6 Tiles
+- Scalable: +R2
 
-**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, you it does an additional R2 Fire.
+A flash of light streaks toward a creature of your choice within range, doing **R3 Radiant** damage. The next attack against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
 ### Healing Word
-*Range: 3 Tiles*
+- Range: 3 Tiles
+- Scalable: +R2
 
 You cure the wounds of a willing creature (including yourself) that is within range, healing the target R2.
 
-**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, you add another R2 to the healing.
+### Mage Hand
+- **Concentration**
+- Range: 30ft
+- Duration: 1 Minute
+
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 6 tiles away from you or if you cast this spell again.
+
+You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 6 tiles each time you use it.
+
+The hand can’t attack, activate magical items, or carry more than 10 pounds.
 
 ### Ray of Frost
-*Range: 6 Tiles*
+- Range: 6 Tiles
+- Scalable: +R1 and target's speed - 1 tile
 
-*R2 Cold*
-
-A frigid beam of blue-white light streaks toward a creature within range. If it reduces the target's HP, its speed is reduced by 2 tiles until the start of your next turn.
-
-**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, the target takes an additional R1 Cold damage, and its speed is reduced by an additional tile.
+A frigid beam of blue-white light streaks toward a creature within range, dealing **R3 cold** damage. If it reduces the target's HP, its speed is reduced by 2 tiles until the start of your next turn.
 
 ### Shocking Grasp
-*Range: 1 Tile*
+- Range: 1 Tile
+- Scalable: +R2
 
-*R4 Lightning*
-
-Lightning springs from your hand to deliver a shock to a creature you try to touch. You have advantage on the attack roll if the target is wearing armor made of metal.
-
-**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, the target takes an additional R2 Lightning damage.
+Lightning springs from your hand to deliver a shock to a creature you try to touch, dealing **R4 Lightning**. You have advantage on the attack roll if the target is wearing armor made of metal.
 
 ### Toll the Dead
-*Range: 6 Tiles*
+- Range: 6 Tiles
+- Scalable: +R2
 
-*R2 Necrotic*
-
-You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. If the target is missing any of its hit points, you may roll with advantage.
-
-**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, the target takes an additional R2 Necrotic damage.
+You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment, dealing **R3 Necrotic** damage. If the target is missing any heart, you may roll with advantage.
 
 ### Wither and Bloom
-*Range 12*
+- Range 12
+- Scalable: +R1 and radius + 1
 
-You weaken the veil between life and death at a point within range. In a radius of 2 tiles, each creature of your choice takes R2 Necrotic damage. Additionally, a creature of your choice within the radius recovers some **heart**, equal to the number of creatures who took damage.
-
-**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each additional point you spend, the radius and number of dice increase by 1.
+You weaken the veil between life and death at a point within range. In a radius of 2 tiles, each creature of your choice takes **R2 Necrotic** damage (rolled individually). Additionally, a creature of your choice within the radius gains heart equal to the number of creatures who took damage.
 
 ### Word of Radiance
-*Range: 1 Tile*
+- Range: 1 Tile
+- Scalable: +R1
 
-*R2 Radiant*
-
-You utter a divine word, and burning radiance erupts around each creature of your choice that you can see within range.
-
-**Scaling.** You can increase the **Focus** cost of this spell when you cast it. For each point you spend, each creature takes an additional R1 Radiant damage.
-
-## Easy spells
-*Requires 3 Mind, Cost: 3 Focus*
-
-This spells represent things that a character can do with a small effort.
-
-### Armor of Agathys
-*Range: Self*
-
-*R4 Cold*
-
-A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear, and you gain 3 temporary health. If a creature within 1 tile reduces this to 0, the creature takes R4 Cold (no stamina/focus cost). If not fully used in 3 turns, the spell fades and any remaining temporary health is removed.
-
-### Bless
-***Concentration***
-
-*Range: 6 Tiles*
-
-Three creatures of your choice who remain in range get to add R1 to their rolls (checks, attacks, and spells)
-
-### Burning Hands
-*Range: 3 Tiles*
-
-*R5 Fire*
-
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips, burning every creature in a 3 tile cone.
-
-### Chromatic Orb
-*Range: 9 Tiles*
-
-*R5 Choose*
-
-You hurl a small sphere of energy at a creature that you can see within range. You choose the damage type, from the elemental damage category.
-
-### Hex
-***Concentration***
-
-*Range: 9 Tiles*
-
-You place a curse on a creature that you can see within range. Until concentration ends, you get to add 1R on all attacks and spells with that creature as the target.
-
-### Inflict Wounds
-*Range: 1 Tile*
-
-*R6 Necrotic*
-
-Your touch causes a creature to be wracked with decay.
-
-### Inspire
-*Range: 6 Tiles*
-
-A creature that you choose within range has advantage on their next roll (check, attack, or spell).
-
-### Witch Bolt
-***Concentration***
-
-*Range: 6 Tiles*
-
-*R4 Lightning*
-
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. As long as you do damage with the witch bolt, you may use witch bolt again with only stamina cost.
-
-## Moderate spells
-*Requires 4 Mind, Cost: 4 Focus*
-
-spells that require some decent concentration.
-
-### Barkskin
-***Concentration***
-
-*Range: 1 Tile*
-
-You touch a willing creature (including yourself), giving them a boost to their vitality and durability. The target’s skin has a rough, bark-like appearance, and attacks against them have disadvantage. At the start of the creature's turn, it regains R2 hit points.
-
-### Misty Step
-You disappear in a silvery mist, reappearing in an open space within 6 tiles that you can see.
+You utter a divine word, and burning radiance erupts around each creature of your choice that you can see within range, dealing **R3 Radiant** damage.
