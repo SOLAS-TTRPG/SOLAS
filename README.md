@@ -113,7 +113,7 @@ There are many different kinds of people, and in your GM's setting, there may be
 ### Celestial Ancestor
 You are resistant to one celestial damage type (Radiant, Necrotic, Force, or Psychic) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
 
-*Your power may come from deities, psions, or something else entirely. This usually manifests in a shifted palette, gold for celestials, reds for devils, purples for psions, etc.*
+*Your power may come from deities, psions, or something else entirely. This usually manifests in a unique bodily color palette, golds for celestials, reds for devils, purples for psions, etc.*
 
 ### Darkvision
 You have superb vision in the dark, being raised in it or naturally gifted. Your character can see up to 6 tiles away in darkness, in shades of gray.
@@ -123,10 +123,15 @@ You have superb vision in the dark, being raised in it or naturally gifted. Your
 ### Elemental Ancestor
 You are resistant to one elemental damage type (Acid, Poison, Fire, Cold, or Lightning) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
 
-*Your power may come from primordials, dragons, or something else entirely. This usually manifests in a different body color palette, dealing in reds and oranges for fire, etc.*
+*Your power may come from primordials, dragons, or something else entirely. This usually manifests in a unique bodily color palette, with reds and oranges for fire, etc.*
 
 ### Lucky
 Once per rest when you make a roll, you may re-roll all of the dice. You must use the new result.
+
+### Runewoven
+When casting a spell, you can use a combination of **heart** or **focus** points to equal the original cost. Likewise, when you're healed, you can regain a combination of **heart** or **focus** points instead of just heart. Once per rest when you lose **heart**, you can instead choose to lose a combination of **heart** or **focus** points that is equal to the original amount.
+
+*Your connection to magic is much more than knowledge, it's what keeps you alive. This could manifest as runic etchings carved into your skin/exterior, a cracked appearance with a dull glow coming through, etc.*
 
 ### Twilit
 You no longer need to sleep to fully recover heart, instead only requiring 4 hours of concious meditation.
@@ -195,9 +200,6 @@ You choose a certain domain, gaining additional power from a higher power associ
 - **War Priest**. You can make an additional attack with a weapon on your turn, even if you've already attacked with it.
 - **Guided Strike**. When you make an attack roll, you can add R2.
 
-### Second Wind
-You push yourself to continue fighting, past the point of what would normally be possible. Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level. Additionally, you roll a number of dice equal to your **Constitution** score, and recover the successes as **Heart**.
-
 ### Martial Arts
 Your fists are now considered to be light melee weapons, with no limit on the number of attacks per turn (a stamina point still must be expended for each attack). Additionally, you can expend **Focus** points instead of stamina to make attacks with your fists.
 
@@ -207,11 +209,70 @@ When you make a melee attack against a creature, you can expend **Focus** points
 ### Ranger's Mark
 When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll additional dice equal to your **Constitution** score.
 
-### Sneak Attack
+### Rogue Agent
 You have learned to exploit an emey's moment of weakness. If you have advantage on a melee attack against a creature, you roll additional dice equal to your **Dexterity** score.
+
+### Second Wind
+You push yourself to continue fighting, past the point of what would normally be possible. Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level. Additionally, you roll a number of dice equal to your **Constitution** score, and recover the successes as **Heart**.
 
 ### Sorcerous Origin
 You are able to channel spells using bursts of physical strength, granted to you by an otherworldly patron. Your maximum amount of **Focus** is equal to your **Mind + Strength**. This does not increase the number of spells you can memorize, nor the difficulty.
+
+## Dexterity Boons
+*These boons require you to have a **Dexterity** score of **2 or Higher***
+
+### Duelist
+If you are wearing light or no armor, you can use your dexterity instead of strength when rolling damage with a light or medium melee weapon. Additionally, if you are attacked by a creature within melee range, you can spend one **Focus** to impose disadvantage on the roll.
+
+### Strike True
+While making a **Dexterity** based attack roll, you can spend an additional **Stamina** point to gain advantage on the roll.
+
+## Mind Boons
+*These boons require you to have a **Mind** score of **2 or Higher***
+
+### Warcaster
+If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell. Additionally, if you are able to make an attack of opportunity, you can instead use a spell with a 1 Tile range, with the target being the creature that provoked the opportunity attack. You must have and expend the appropriate amount of **Focus** and **Stamina**.
+
+## Upgraded Boons
+*These boons require you have selected another boon at an earlier level.*
+
+### Blood Hunter
+*Requires **Ranger's Mark***
+
+You've learned occult rituals that twist the ways of normal magic to help you track down your targets. When you mark a creature, you lose R1 heart, with your blood sacrifice strengthening the bond between you. You choose an elemental or celestial damage type for the nature of the bond when you select this boon.
+
+- **Binding Curse**. When you attack a marked creature, they must make a **Strength Check** equal to the damage they recieved. If they fail, their speed is reduced to 0 until the end of your next turn.
+- **Crimson Brand**. If a marked creature is within melee range of you and attacks you or an ally, you can expend any number of **Focus** points you currently have. You roll a number of dice equal to the focus points you expended, the successes being damage to the creature of your mark's type.
+
+### Combat Inspiration
+*Requires **Bardic Inspiration***
+
+Instead of giving inspiration on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve). Additionally, the inspired creature can now use the inspiration die to reduce the damage of an attack.
+
+### Extra Attack
+*Requires **Barbarous Rage**, **Duelist**, **Martial Arts**, **Paladic Presence**, **Ranger's Mark**, **Rogue Agent**, or **Second Wind***
+
+On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
+
+### Font of Inspiration
+*Requires **Bardic Inspiration***
+
+You can give inspiration dice multiple times per rest, equal to your **Constitution**. These can be given on different turns, or all on the same turn (provided you have enough stamina to do so).
+
+### Movement Master
+*Requires **Ranger's Mark**, or **Martial Arts***
+
+You can swim and climb at your normal speed. Additionally, you can fall from a number of tiles equal to your **Dexterity** score without taking damage.
+
+### Stunning Strike
+*Requires **Martial Arts***
+
+When you attack a creature with your fists, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check**, and if they roll fewer successes than the heart that they lost, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
+
+### Zealous Presence
+*Requires **Paladic Presence**, or **Rage***
+
+By spending one **Focus**, you can give a number of creatures (equal to your level) that can hear you advantage on attack rolls and checks until the start of your next turn.
 
 # Playing the Game
 Most TTRPGs are broken down into a cycle of play, but this is by no means a one-size fits all solution. Generally, a GM will describe the environment, and the players respond with what their character does. The GM then goes back and forth with the players, narrating the results of their actions and having the players respond, until a scene comes to a natural close.
@@ -244,7 +305,7 @@ Once your character reaches 0 heart, you begin fading. This means your character
 Once combat comes to a close, your focus and stamina are restored. However, your characters cannot stay awake indefinitely, and will need to recover from the physical exertion of the battle. Characters will need to rest for a total of 8 hours, up to two of which can be sitting/lying down. If characters go 24 hours without resting, they receive disadvantage on all checks due to exhaustion, and their speed is halved.
 
 # Weapons
-These are physical implements of destruction. For weapons, their damage is based off of your associated Primary Attribute. Melee weapons are based on strength, ranged ones on dexterity. While your primary attribute is affecting how many dice that you roll, some weapons can be specially made, being +1 or higher. This indicates to roll an extra dice when attacking with the weapon. While most standard weapons fall into the physical (bludgeoning, piercing, slashing) category, some special weapons could be of a different damage type.
+These are physical implements of destruction. For weapons, their damage is based off of your associated Primary Attribute. Melee weapons are based on strength, ranged ones on dexterity. 
 
 Each weapon that is held can be used once per turn.
 
@@ -254,12 +315,13 @@ Each weapon that is held can be used once per turn.
 ### Light Weapons
 Weapons that are quick to use, and one can be held in each hand.
 
-- Standard light weapons limit any attacks with them to 3R damage
+- Standard light weapons limit any attacks with them to R3 damage
 
 ### Medium Weapons
-Standard weapons that have the option of being held with two hands to gain advantage on attacks. 
+Standard weapons that have the option of being held with two hands to gain advantage on attacks.
 
-- Standard medium weapons limit any attacks with them to 5R damage
+- Standard medium weapons limit any attacks with them to R5 damage
+- Standard medium weapons that are being held with two hands have a damage limit of R7.
 
 ### Heavy Weapons
 Weapons that are so large that they require both hands to be held, there is no limit to the amount of damage a heavy weapon can deal.
@@ -270,13 +332,13 @@ Weapons that are so large that they require both hands to be held, there is no l
 ### Light Weapons
 Weapons that are quick to use, like shortbows, slingshots, or throwing knives.
 
-- Standard light weapons limit any attacks with them to 3R damage
+- Standard light weapons limit any attacks with them to R3 damage
 - Limited to a range of 4 tiles
 
 ### Medium Weapons
 Weapons that pack more of a punch and can shoot further, like pistols, hand crossbows and longbows.
 
-- Standard medium weapons limit any attacks with them to 5R damage
+- Standard medium weapons limit any attacks with them to R5 damage
 - Limited to a range of 8 tiles
 
 ### Heavy Weapons
