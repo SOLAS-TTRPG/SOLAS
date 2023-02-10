@@ -135,6 +135,21 @@ Balancing combat is a tricky thing to do, especially given the amount of possibl
 - Can be used up to 3 times on different targets
 - After a creature is bit, it makes a **Constitution Check (1)**. If it fails, its speed is reduced by two tiles on the next turn. This can stack with other **Midas Beetle Swarm** bites.
 
+## Nothic
+Nothics are unfortunate creatures, containing the fractured minds of great wizards long cursed for twisted magics. They endlessly searching for magic that could reverse the curse done to them, but their minds are too far gone to ever
+
+### Nothic
+*Heart 22, Speed 7, Challenge 1*
+
+**Strength 1, Dexterity 3, Constitution 1, Mind 2**
+
+**Rotting Claw** *Melee, R4 Piercing*
+- Can be used up to 2 times per turn.
+- After a creature takes damage, it makes a **Constitution Check (1)**. If it fails, it takes an additional **R1 Necrotic** damage.
+
+**Weird Insight**
+- The nothic targets one creature that it can see within 6 tiles of it. The creature must make a **Mind Check (2)**. If the creature fails, the nothic magically learns on fact or secret about the target. The target automatically wins if it immune to being charmed.
+
 ## Shelken
 *While originating from the underdark, some shelken have sought to earn a place in societies aboveground. While their enormous shell provides incredible protection, its cumbersome weight typically prevents them from fast-paced occupations. While somewhat ambivalent towards outsiders, one who is wronged will devote their life to slowly tracking down the offender and exacting justice.*
 
