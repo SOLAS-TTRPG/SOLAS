@@ -242,7 +242,8 @@ You are able to channel spells using bursts of physical strength, granted to you
 - **Hound of Ill Omen**. Once per rest on your turn, you can spend one **Focus** to summon a howling creature formed from shadow within 6 tiles of you. You can spend your **stamina** points to have it move (speed of 6 tiles) or attack (slashing damage, rolled with your **Strength** score).
 
 #### Undead Patronage
-- **Form of Dread**. 
+- **Form of Dread**. On your turn, you can spend one **Focus** to change your form into one of pure terror, such as shadowy appearance, elongated limbs, etc, until the end of your next turn. When you reduce a creature's heart, it makes a **Mind Check** against your **Strength** score. If that creature fails, it is petrified and cannot move until your form of dread ends.
+- **Grave Touch**. Once per turn, you can change the damage type of a melee attack to Necrotic.
 
 ## Dexterity Boons
 *These boons require you to have a **Dexterity** score of **2 or Higher***

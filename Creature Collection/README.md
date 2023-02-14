@@ -136,12 +136,14 @@ Balancing combat is a tricky thing to do, especially given the amount of possibl
 - After a creature is bit, it makes a **Constitution Check (1)**. If it fails, its speed is reduced by two tiles on the next turn. This can stack with other **Midas Beetle Swarm** bites.
 
 ## Nothic
-Nothics are unfortunate creatures, containing the fractured minds of great wizards long cursed for twisted magics. They endlessly searching for magic that could reverse the curse done to them, but their minds are too far gone to ever
+Nothics are broken, mad creatures, containing the fractured minds of great wizards cursed long ago for twisted magics. They endlessly searching for magic that could reverse the curse done to them, but their minds are too far shattered to survive it. Some retain brief flashes of memory from their time as a humanoid, but these may have been warped with time.
+
+![Nothic](Nothic.png)
 
 ### Nothic
 *Heart 22, Speed 7, Challenge 1*
 
-**Strength 1, Dexterity 3, Constitution 1, Mind 2**
+**Strength 1, Dexterity 3, Constitution 2, Mind 2**
 
 **Rotting Claw** *Melee, R4 Piercing*
 - Can be used up to 2 times per turn.
