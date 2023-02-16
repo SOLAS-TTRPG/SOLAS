@@ -45,7 +45,12 @@ A die roll is when someone rolls at least one standard six-sided die to determin
 
 Sometimes a roll is specified as “advantaged” which means dice rolls succeed on a 3 or higher. Another variant is “disadvantaged” which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages don't stack, you can only be "advantaged" or "disadvantaged" and any amount of each cancels out. Having double advantage means the dice are successes on twos or higher.
 
-Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, spell, or GM will describe what you are trying to accomplish and what attribute you will be using. If your GM calls for a Dexterity roll (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes.
+Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, spell, or GM will describe what you are trying to accomplish and what attribute you will be using.
+
+## Checks
+A check is when you rely on a particular skill to determine an outcome. If your GM calls for a Dexterity Check (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes. If you meet or exceed the difficulty of the check, you succeed!
+
+Checks can also be **contested**. This is where a character attempts a roll against someone else's score. If the character gets more successes that the score they're against, they succeed! These checks will be written as **{Attribute} Check vs {Attribute}**.
 
 ## Damage Types
 SOLAS contains many different damage types for different weapons and spells. This list can be expanded upon for your needs, but the standard categories as follows:
@@ -136,7 +141,7 @@ You no longer need to sleep to fully recover heart, instead only requiring 4 hou
 *This may be the result of exposure to the feywild, underdark, or similar place. Your skin may sparkle in the right light, some animalistic features may manifest (satyrs, for example), flowers may bloom/wilt around you depending on your mood, or you may even represent aspects of nature like seasons.*
 
 ### Innate Arcana
-You permanently memorize one simple spell, which costs one **Focus** as opposed to the normal two. This does not count towards your maximum number of memorized spells. After using this memorized spell for the reduced cost, you recover one less **Focus** at the start of your next turn.
+You permanently memorize one **Primary Spell**, which costs one **Focus** as opposed to the normal two. This does not count towards your maximum number of memorized spells. After using this memorized spell for the reduced cost, you recover one less **Focus** at the start of your next turn.
 
 *Your ancestry has been touched by magic, having a natural gift of spell usage. This can come from all sorts of places, from planar magic to deities, a natural connection or a deliberate augmentation.*
 
@@ -182,7 +187,7 @@ You've learned how to invest a spark of magic into mundane objects. You can touc
 - **Armor of Strength**, infused to give the wearer advantage on **Strength** checks
 - **Helm of Awareness**, infused to give the wearer advantage on **Mind** checks
 - **Gloves of Persuasion**, act as light melee weapons that deal an additional R1 force damage
-- **Radiant Weapon**. The infused item deals radiant damage instead of the usual type, and can emit light in a 6 tile radius. Once per rest, the weilder can use one **Focus** to blind melee target, giving them disadvantage on any rolls until the end of the target's next turn
+- **Radiant Weapon**. The infused item deals radiant damage instead of the usual type, and can emit light in a 6 tile radius. Once per rest, the wielder can use one **Focus** to blind melee target, giving them disadvantage on any rolls until the end of the target's next turn
 
 The chosen property lasts indefinitely, and you can end the property at will. You can bestow magic on multiple objects, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your **Mind** score.
 
@@ -196,7 +201,7 @@ You can spend one **Focus** and inspire another creature. The target creature ca
 You choose a certain domain, gaining additional power from a higher power associated with it. You can use your domain's features a number of times per rest, equal to your **Mind** score. You expend one **Focus** point when you use a feature.
 
 #### Tempest Domain
-- **Thunderous Rebuke**. When a creature hits you with a melee attack, you can cause them to make a **Dexterity Check** against your **Mind** score. They then take R4 Lightning damage (with disadvantage if they succeeded the check).
+- **Thunderous Rebuke**. When a creature hits you with a melee attack, you can cause them to make a **Dexterity Check vs Your Mind**. They then take R4 Lightning damage (with disadvantage if they succeeded the check).
 - **Destructive Wrath**. When you are rolling lightning or force damage, you can gain advantage on the roll.
 
 #### Trickery Domain
@@ -235,14 +240,14 @@ You are able to channel spells using bursts of physical strength, granted to you
 
 #### Storm Patronage
 - **Tempestuous Magic**. On your turn, you can spend a **Focus** to surround yourself with gusts of wind, flying up to half of your speed without provoking opportunity attacks.
-- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures within 2 tiles of your choice to make a **Strength check** against your **Strength** score, or be pushed back 2 tiles.
+- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures within 2 tiles of your choice to make a **Strength Check vs Your Strength**, or be pushed back 2 tiles.
 
 #### Twilight Patronage
 - **Strength of the Grave**. Once per rest, when damage reduces you to 0 heart, you can spend one **Focus** to make a **Strength check** and recover the successes as heart.
 - **Hound of Ill Omen**. Once per rest on your turn, you can spend one **Focus** to summon a howling creature formed from shadow within 6 tiles of you. You can spend your **stamina** points to have it move (speed of 6 tiles) or attack (slashing damage, rolled with your **Strength** score).
 
 #### Undead Patronage
-- **Form of Dread**. On your turn, you can spend one **Focus** to change your form into one of pure terror, such as shadowy appearance, elongated limbs, etc, until the end of your next turn. When you reduce a creature's heart, it makes a **Mind Check** against your **Strength** score. If that creature fails, it is petrified and cannot move until your form of dread ends.
+- **Form of Dread**. On your turn, you can spend one **Focus** to change your form into one of pure terror, such as shadowy appearance, elongated limbs, etc, until the end of your next turn. When you reduce a creature's heart, it makes a **Mind Check vs Your Strength**. If that creature fails, it is petrified and cannot move until your form of dread ends.
 - **Grave Touch**. Once per turn, you can change the damage type of a melee attack to Necrotic.
 
 ## Dexterity Boons
@@ -258,7 +263,7 @@ While making a **Dexterity** based attack roll, you can spend an additional **St
 *These boons require you to have a **Mind** score of **2 or Higher***
 
 ### Warcaster
-If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell. Additionally, if you are able to make an attack of opportunity, you can instead use a spell with a 1 Tile range, with the target being the creature that provoked the opportunity attack. You must have and expend the appropriate amount of **Focus** and **Stamina**.
+If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell. Additionally, if you are able to make an attack of opportunity, you can instead use a spell with a range of 1 Tile, with the target being the creature that provoked the opportunity attack. You must have and expend the appropriate amount of **Focus** and **Stamina**.
 
 ## Upgraded Boons
 *These boons require you have selected another boon at an earlier level.*
@@ -326,7 +331,7 @@ If a creature leaves your melee range, you can make a melee attack against it, p
 Some enemies or characters may be resistant or vulnerable to certain types of damage (see **Damage Types** in the [Introduction](#introduction). If something is vulnerable to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
 
 ### Fading
-Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -7 heart, your character falls and dies.
+Once your character reaches 0 heart, you begin fading. This means your character is losing their grip on mortality, and will soon die. Once you reach 0 heart, continuing to fight is dangerous. At the start of each of your turns, you lose a heart. Additionally, you can choose to lose an extra heart to take your normal turn, being any number of actions up to your current stamina/focus. Once you reach -5 heart, your character falls and dies.
 
 ## Resting
 Once combat comes to a close, your focus and stamina are restored. However, your characters cannot stay awake indefinitely, and will need to recover from the physical exertion of the battle. Characters will need to rest for a total of 8 hours, up to two of which can be sitting/lying down. If characters go 24 hours without resting, they receive disadvantage on all checks due to exhaustion, and their speed is halved.
@@ -404,8 +409,8 @@ Each spell costs 1 stamina to cast, as well as its associated focus cost, regard
 
 Some spells are **scalable**, which means they can be improved by spending more focus. The scalable description explains how the spell improves for each additional point you spend.
 
-## Simple Spells
-*Requires 2 Mind, Cost: 2 Focus*
+## Primary Spells
+*Requires 2 Mind, Costs 2 Focus*
 
 These spells represent things that a character can do with little concentration.
 
@@ -414,7 +419,7 @@ These spells represent things that a character can do with little concentration.
 - Range: 12 Tiles
 - Duration: 1 Minute
 
-Within range, grasping weeds and vines sprout in a two-tile radius from a point on the ground within range. Any creature who is in this range must make a **Strength Check**. Creatures who get fewer successes than your **Mind** score can only move at half of their normal speed while in the area.
+Within range, grasping weeds and vines sprout in a two-tile radius from a point on the ground within range. Any creature who is in this range must make a **Strength Check vs Your Mind**. Creatures who fail have their speed halved while in the area.
 
 ### Fire Bolt
 - Range: 12 Tiles
@@ -436,12 +441,11 @@ You cure the wounds of a willing creature (including yourself) that is within ra
 
 ### Mage Hand
 - **Concentration**
-- Range: 30ft
-- Duration: 1 Minute
+- Range: 6 Tiles
 
-A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 6 tiles away from you or if you cast this spell again.
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 6 tiles away from you.
 
-You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 6 tiles each time you use it.
+You can use **one Stamina** to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 6 tiles each time you use it.
 
 The hand can’t attack, activate magical items, or carry more than 10 pounds.
 
@@ -449,7 +453,7 @@ The hand can’t attack, activate magical items, or carry more than 10 pounds.
 - Range: 6 Tiles
 - Scalable: +R1 and target's speed - 1 tile
 
-A frigid beam of blue-white light streaks toward a creature within range, dealing **R3 cold** damage. If it reduces the target's HP, its speed is reduced by 2 tiles until the start of your next turn.
+A frigid beam of blue-white light streaks toward a creature within range, dealing **R3 cold** damage. If it reduces the target's HP, its speed is halved until the start of your next turn.
 
 ### Shocking Grasp
 - Range: 1 Tile
@@ -464,7 +468,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment, dealing **R3 Necrotic** damage. If the target is missing any heart, you may roll with advantage.
 
 ### Wither and Bloom
-- Range 12
+- Range: 12 Tiles
 - Scalable: +R1 and radius + 1
 
 You weaken the veil between life and death at a point within range. In a radius of 2 tiles, each creature of your choice takes **R2 Necrotic** damage (rolled individually). Additionally, a creature of your choice within the radius gains heart equal to the number of creatures who took damage.
@@ -474,3 +478,35 @@ You weaken the veil between life and death at a point within range. In a radius 
 - Scalable: +R1
 
 You utter a divine word, and burning radiance erupts around each creature of your choice that you can see within range, dealing **R3 Radiant** damage.
+
+## Secondary Spells
+*Requires 3 Mind, Costs 3 Focus*
+
+These spells represent things that a character can do with some effort.
+
+### Bane
+- **Concentration**
+- Range: 6 Tiles
+- Scalable: +1 target
+
+Up to three creatures of your choice make **Mind Checks vs Your Mind**. Creatures who fail roll one less dice when attacking or making a check.
+
+### Bless
+- **Concentration**
+- Range: 6 Tiles
+- Scalable: +1 target
+
+You bless up to three willing creatures of your choice. When blessed, creatures roll one more dice when attacking or making a check.
+
+### Hellish Rebuke
+- **Concentration**
+- Scalable: +R2
+
+You channel the power of the lower planes, surrounding yourself in flames. Until you take damage, you can add **R1 Fire** damage to melee attacks. When you do take damage (before concentration ends), the flames engulf your attacker, dealing **R4 Fire** damage.
+
+### Witch Bolt
+- **Concentration**
+- Range: 6 Tiles
+- Scalable: +R2 **Note:** Scaling the spell does not increase the cost to deal additional damage.
+
+A beam of crackling energy lances out towards a creature within range, forming a sustained arc of lightning between you and the target. The target takes **R4 Lightning** damage. If the target's heart is reduced, the lightning arc stays connected. On each of your following turns (until the creature dies, you lose concentration, or the target leaves the range), you can spend **one Focus** to deal **R2 Lightning** to the creature.
