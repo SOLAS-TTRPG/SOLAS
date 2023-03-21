@@ -181,6 +181,22 @@ Nothics are broken, mad creatures, containing the fractured minds of great wizar
 **Crossbow** *8 Tiles, R8 Piercing*
 - Can be used up to 2x per turn
 
+## Skum
+*Several poor souls around the Styes have succumbed to an aboleth's magic through its diease-bearing touch. Transformed into creatures called Skum, they barely resemble their past forms, their skin turning slimy and translucent while their limbs warp to resemble those of deep sea oddities. They are bound to their aboleth master by a psychic bond that compels them to serve its every sinister whim.*
+
+`I think we're safe, it doesn't seem to like leaving the water`
+
+![skum](skum.jpeg)
+
+### Skum
+*Heart 6, Light Armor, Speed 7, Challenge 1*
+
+**Strength 2, Dexterity 3, Constitution 1, Mind 1**
+
+**Mind-Breaking Claws** *Melee, R3 Piercing + R2 Psychic*
+- Can be used up to two times per turn.
+- Target makes a **Mind Check (1)**, if it succeeds the psychic damage is at disadvantage.
+
 ## Werewolf
 *Humanoids afflicted with a terrible curse take the form of wolves when threatened, or during exposure to the moon. While most flee and try to live out a peaceful life on the outer edges of society, some manage to keep their curse a secret and continue to live amongst others. The more times a werewolf transforms, however, the more of a wolf hybrid they become, with sharper teeth, yellowed eyes, and an elongated face.*
 
