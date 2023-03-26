@@ -504,6 +504,10 @@ You bless up to three willing creatures of your choice. When blessed, creatures 
 
 You channel the power of the lower planes, surrounding yourself in flames. Until you take damage, you can add **R1 Fire** damage to melee attacks. When you do take damage (before concentration ends), the flames engulf your attacker, dealing **R4 Fire** damage.
 
+### Identify
+- Range: 1 Tile
+You choose one object that you must touch while the casting the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any.
+
 ### Witch Bolt
 - **Concentration**
 - Range: 6 Tiles
