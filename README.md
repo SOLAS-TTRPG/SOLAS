@@ -514,3 +514,8 @@ You choose one object that you must touch while the casting the spell. If it is 
 - Scalable: +R2 **Note:** Scaling the spell does not increase the cost to deal additional damage.
 
 A beam of crackling energy lances out towards a creature within range, forming a sustained arc of lightning between you and the target. The target takes **R4 Lightning** damage. If the target's heart is reduced, the lightning arc stays connected. On each of your following turns (until the creature dies, you lose concentration, or the target leaves the range), you can spend **one Focus** to deal **R2 Lightning** to the creature.
+
+### Zorin's Forge
+- **Concentration**
+
+The caster summons a spectral melee weapon of their choice (i.e. sword, axe, etc.) The summoned weapon is semi-transparent and emits dim light for one tile, and lasts until the end of combat (unless dispelled or dismissed first). Attacking with weapon deals damage based on strength, but deals **Force** damage instead of the weapon's original type and is not limited by the weapon's size
