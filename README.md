@@ -414,6 +414,13 @@ Some spells are **scalable**, which means they can be improved by spending more 
 
 These spells represent things that a character can do with little concentration.
 
+### Dancing Lights
+- **Concentration**
+- Range: 24 Tiles
+- Duration: 1 Minute
+
+You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a two-tile radius. On your turn, you can move each light up to 60 feet to a new spot within range.
+
 ### Entangle
 - **Concentration**
 - Range: 12 Tiles
@@ -449,6 +456,14 @@ You can use **one Stamina** to control the hand. You can use the hand to manipul
 
 The hand can’t attack, activate magical items, or carry more than 10 pounds.
 
+### Minor Illusion
+- **Concentration**
+- Range: 6 Tiles
+- Duration: 1 Minute
+- Scalable: +1 Tile size
+
+You create a sound or an image of an object within range that lasts for the duration. If a sound, its volume can range from a whisper to a yell, and can be a perfect imitation of any sound you have heard before. If an image, it must be contained within a one-tile space. An illusion can noticed with a **contested Mind Check**.
+
 ### Ray of Frost
 - Range: 6 Tiles
 - Scalable: +R1 and target's speed - 1 tile
@@ -460,6 +475,19 @@ A frigid beam of blue-white light streaks toward a creature within range, dealin
 - Scalable: +R2
 
 Lightning springs from your hand to deliver a shock to a creature you try to touch, dealing **R4 Lightning**. You have advantage on the attack roll if the target is wearing armor made of metal.
+
+### Thaumaturgy
+- **Concentration**
+- Range: 6 Tiles
+- Duration: 1 minute
+You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
+
+-   Your voice booms up to three times as loud as normal for 1 minute.
+-   You cause flames to flicker, brighten, dim, or change color for 1 minute.
+-   You cause harmless tremors in the ground for 1 minute.
+-   You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+-   You instantaneously cause an unlocked door or window to fly open or slam shut.
+-   You alter the appearance of your eyes for 1 minute.
 
 ### Toll the Dead
 - Range: 6 Tiles
@@ -479,6 +507,12 @@ You weaken the veil between life and death at a point within range. In a radius 
 
 You utter a divine word, and burning radiance erupts around each creature of your choice that you can see within range, dealing **R3 Radiant** damage.
 
+### Vicious Mockery
+- Range: 12 Tiles
+- Scalable: +R2
+
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it makes a **Mind Check**, reducing damage dealt to it by its successes. Before reduction, this deals **R2 Psychic** damage.
+
 ## Secondary Spells
 *Requires 3 Mind, Costs 3 Focus*
 
@@ -497,6 +531,10 @@ Up to three creatures of your choice make **Mind Checks vs Your Mind**. Creature
 - Scalable: +1 target
 
 You bless up to three willing creatures of your choice. When blessed, creatures roll one more dice when attacking or making a check.
+
+### Disguise Self
+- **Concentration**
+- Duration: 1 hour
 
 ### Hellish Rebuke
 - **Concentration**
