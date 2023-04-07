@@ -532,9 +532,16 @@ Up to three creatures of your choice make **Mind Checks vs Your Mind**. Creature
 
 You bless up to three willing creatures of your choice. When blessed, creatures roll one more dice when attacking or making a check.
 
+### Crescendo
+- **Concentration**
+
+When you cast this spell, you select one of your primary attributes to boost. When you're making checks of this type, you 
+
 ### Disguise Self
 - **Concentration**
 - Duration: 1 hour
+
+You can make yourself appear as a different race, gender, height, and weight, and even change their voice.
 
 ### Hellish Rebuke
 - **Concentration**
@@ -545,6 +552,13 @@ You channel the power of the lower planes, surrounding yourself in flames. Until
 ### Identify
 - Range: 1 Tile
 You choose one object that you must touch while the casting the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any.
+
+### Siren's Call
+- **Concentration**
+- Range: 6 Tiles
+- Scalable: +1 target, check +1
+
+A hauntingly beautiful melody fills the air around the caster (optionally sung by them) that steals the will of enemies. Three creatures within range make **Mind Checks (2)**, and those who fail can only spend stamina to move towards the caster.
 
 ### Witch Bolt
 - **Concentration**
