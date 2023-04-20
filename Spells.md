@@ -139,7 +139,7 @@ You bless up to three willing creatures of your choice. When blessed, creatures 
 - Range: 6 Tiles
 - Scalable: +1 Creature (they both have the same primary attribute scaled)
 
-When you cast this spell, you select a primary attribute of a creature you can see within range to boost. If you use this attribute for a check or attack before the end of your next turn, you roll an additional die. For up to the next two consecutive turns, you may continue adding an additional dice
+When you cast this spell, you select a primary attribute of a creature you can see within range to boost. If you use this attribute for a check or attack before the end of your next turn, you roll an additional die. For up to the next two consecutive turns, you may continue adding an additional dice.
 
 ### Disguise Self
 - **Concentration**
@@ -151,7 +151,7 @@ You can make yourself appear as a different race, gender, height, and weight, an
 - **Concentration**
 - Scalable: +R2
 
-You channel the power of the lower planes, surrounding yourself in flames. Until you take damage, you can add **R1 Fire** damage to melee attacks. When you do take damage (before concentration ends), the flames engulf your attacker, dealing **R4 Fire** damage.
+You channel the power of the lower planes, surrounding yourself in flames. Until you lose heart, you can add **R1 Fire** damage to melee attacks. When you do take damage (before concentration ends), the flames engulf your attacker, dealing **R3 Fire** damage.
 
 ### Identify
 - Range: 1 Tile
