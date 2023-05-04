@@ -13,6 +13,18 @@ Balancing combat is a tricky thing to do, especially given the amount of possibl
 
 # The Creatures
 
+## Assassin
+*People in trouble will do anything to get out of it. For some in dire financial straits, they turn to the business of killing people.*
+
+![red-assassin](red-assassin.png)
+
+### Assassin (2@3 Difficulty)
+*Heart 13, Speed 7, Light Armor
+
+**Strength 2, Dexterity 4, Constitution 2, Mind 2**
+- **Shortsword x2** *1 Tile, R4 Piercing*
+- **Crossbow** *8 Tiles, R5 Bludgeoning*
+
 ## Centaur
 *Wanderers of blasted wastelands, centaur tribes are nomadic hunters who defend their chosen families and territory fiercly. Most were raised in constant threat of other tribes or encroaching humanoids, and carry that distrust and combat readiness with them for the rest of their lives. Those who live for battle gain the status folk heroes, and are referred to across the varied tribes as The Warhungered.*
 
