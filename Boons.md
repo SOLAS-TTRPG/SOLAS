@@ -63,13 +63,16 @@ You are able to channel spells using bursts of physical strength, granted to you
 - **Awakened Mind**. You can speak telepathically to any creature you can see within 6 tiles that can understand at least one language.
 - **Entropic Presence**. When you do damage to a creature, you can spend one **Focus** to imbue fear into it. Until the end of your next turn, it had disadvantage on attacks against you.
 
+#### Primordial Patronage
+- **Elemental Blessing**. When you take damage of an elemental type, you are empowered with that element. Until the end of your next turn, your first time you roll damage of that type, you may roll with advantage.
+
 #### Storm Patronage
+- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures within 2 tiles of your choice to make a **Strength Check vs Your Strength** or be pushed back 2 tiles.
 - **Tempestuous Magic**. On your turn, you can spend a **Focus** to surround yourself with gusts of wind, flying up to half of your speed without provoking opportunity attacks.
-- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures within 2 tiles of your choice to make a **Strength Check vs Your Strength**, or be pushed back 2 tiles.
 
 #### Twilight Patronage
-- **Strength of the Grave**. Once per rest, when damage reduces you to 0 heart, you can spend one **Focus** to make a **Strength check** and recover the successes as heart.
 - **Hound of Ill Omen**. Once per rest on your turn, you can spend one **Focus** to summon a howling creature formed from shadow within 6 tiles of you. You can spend your **stamina** points to have it move (speed of 6 tiles) or attack (slashing damage, rolled with your **Strength** score).
+- **Strength of the Grave**. Once per rest, when damage reduces you to 0 heart, you can spend one **Focus** to make a **Strength check** and recover the successes as heart.
 
 #### Undead Patronage
 - **Form of Dread**. On your turn, you can spend one **Focus** to change your form into one of pure terror, such as shadowy appearance, elongated limbs, etc, until the end of your next turn. When you reduce a creature's heart, it makes a **Mind Check vs Your Strength**. If that creature fails, it is petrified and cannot move until your form of dread ends.
@@ -80,9 +83,6 @@ You are able to channel spells using bursts of physical strength, granted to you
 
 ### Duelist
 If you are wearing light or no armor, you can use your dexterity instead of strength when rolling damage with a light or medium melee weapon. Additionally, if you are attacked by a creature within melee range, you can spend one **Focus** to impose disadvantage on the roll.
-
-### Strike True
-While making a **Dexterity** based attack roll, you can spend an additional **Stamina** point to gain advantage on the roll.
 
 ## Mind Boons
 *These boons require you to have a **Mind** score of **2 or Higher***
