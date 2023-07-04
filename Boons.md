@@ -84,10 +84,10 @@ You are able to channel spells using bursts of physical strength, granted to you
 ## Warcaster
 If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell. Additionally, if you are able to make an attack of opportunity, you can instead use a spell with a range of 1 Tile, with the target being the creature that provoked the opportunity attack. You must have and expend the appropriate amount of **Focus** and **Stamina**.
 
-## Upgraded Boons
+# Upgraded Boons
 *These boons require you have selected another boon at an earlier level.*
 
-### Blood Hunter
+## Blood Hunter
 *Requires **Ranger's Mark***
 
 You've learned occult rituals that twist the ways of normal magic to help you track down your targets. When you mark a creature, you lose R1 heart, with your blood sacrifice strengthening the bond between you. You choose an elemental or celestial damage type for the nature of the bond when you select this boon.
@@ -95,32 +95,32 @@ You've learned occult rituals that twist the ways of normal magic to help you tr
 - **Binding Curse**. When you attack a marked creature, they must make a **Strength Check** equal to the damage they recieved. If they fail, their speed is reduced to 0 until the end of your next turn.
 - **Crimson Brand**. If a marked creature is within melee range of you and attacks you or an ally, you can expend any number of **Focus** points you currently have. You roll a number of dice equal to the focus points you expended, the successes being damage to the creature of your mark's type.
 
-### Combat Inspiration
+## Combat Inspiration
 *Requires **Bardic Inspiration***
 
 Instead of giving inspiration on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve). Additionally, the inspired creature can now use the inspiration die to reduce the damage of an attack.
 
-### Extra Attack
+## Extra Attack
 *Requires **Barbarous Rage**, **Duelist**, **Martial Arts**, **Paladic Presence**, **Ranger's Mark**, **Rogue Agent**, or **Second Wind***
 
 On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
 
-### Font of Inspiration
+## Font of Inspiration
 *Requires **Bardic Inspiration***
 
 You can give inspiration dice multiple times per rest, equal to your **Constitution**. These can be given on different turns, or all on the same turn (provided you have enough stamina to do so).
 
-### Movement Master
+## Movement Master
 *Requires **Ranger's Mark**, or **Martial Arts***
 
 You can swim and climb at your normal speed. Additionally, you can fall from a number of tiles equal to your **Dexterity** score without taking damage.
 
-### Stunning Strike
+## Stunning Strike
 *Requires **Martial Arts***
 
 When you attack a creature with your fists, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check**, and if they roll fewer successes than the heart that they lost, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
 
-### Zealous Presence
+## Zealous Presence
 *Requires **Paladic Presence**, or **Rage***
 
 By spending one **Focus**, you can give a number of creatures (equal to your level) that can hear you advantage on attack rolls and checks until the start of your next turn.
