@@ -35,7 +35,7 @@ To play, you'll need more than two people (one of whom is the Game Master, refer
 ## Rolling
 A die roll is when someone rolls at least one standard six-sided die to determine an outcome. A roll of four or higher is a success (a six is worth two successes), meaning a three or lower is a failure. The “result” of a roll is how many total successes there are. In these rules, rolls are indicated in these rules by an **R**, followed by a number such as R1, R4, etc. The **R** indicates a roll, and the number after it is the number of dice that you are rolling.
 
-Sometimes a roll is specified as “advantaged” which means dice rolls succeed on a 3 or higher. Another variant is “disadvantaged” which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages don't stack, you can only be "advantaged" or "disadvantaged" and any amount of each cancels out. Having double advantage means the dice are successes on twos or higher.
+Sometimes a roll is specified as “advantaged” which means dice rolls succeed on a 3 or higher. Another variant is “disadvantaged” which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages don't stack, you can only be "advantaged" or "disadvantaged" and any amount of each cancels out.
 
 Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, spell, or GM will describe what you are trying to accomplish and what attribute you will be using.
 
