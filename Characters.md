@@ -45,12 +45,12 @@ You are resistant to one celestial damage type (Radiant, Necrotic, Force, or Psy
 ### Darkvision
 You have superb vision in the dark, being raised in it or naturally gifted. Your character can see up to 6 tiles away in darkness, in shades of gray.
 
-*This may manifest if the form of non-human eyes, such as cat pupils or glowing irises.*
+*This may manifest if the form of non-human eyes, such as cat pupils, glowing irises, etc*
 
 ### Elemental Ancestor
 You are resistant to one elemental damage type (Acid, Poison, Fire, Cold, or Lightning) of your choice, which cannot be changed later. You also roll with advantage when attacking with this type of damage.
 
-*Your power may come from primordials, dragons, or something else entirely. This usually manifests in a unique bodily color palette, with reds and oranges for fire, etc.*
+*Your power may come from primordial beings, dragons, or something else entirely. This usually manifests in a unique bodily color palette, with reds and oranges for fire, etc.*
 
 ### Fey Ancestry
 You no longer need to sleep to fully recover heart, instead only requiring 4 hours of concious meditation. As a result of this, magic cannot put you to sleep. Furthermore, you have advantage on **Mind checks** against spell effects.

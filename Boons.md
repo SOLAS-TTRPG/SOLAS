@@ -2,6 +2,27 @@ A boon is something that is a unique skill that shapes how your character intera
 
 ***You get to choose one boon when you create your character**, as well as an additional boon every three levels after that (levels four, seven, ten, thirteen, sixteen, and nineteen).*
 
+# Boon Sets
+If you are coming from other systems that have classes (or don't want to spend forever deciding which boons to choose), take a look at these example sets of boons! Each set is laid out in a specific order, but once you find your footing with it, feel free to deviate and get creative!
+
+## Artificer
+*A master of invention, creating unique magical contraptions and/or concoctions*. [Arcane Infusion](Boons.md#Arcane%20Infusion), [Warcaster](Boons.md#Warcaster)
+
+## Barbarian
+*An unflinching reserve of anger, a fierce rage enduring any amount of punishment*. [Barbarous Rage](Boons.md#Barbarous%20Rage), [Extra Attack](Boons.md#Extra%20Attack), [Zealous Presence](Boons.md#Zealous%20Presence)
+
+## Cleric
+*A divine healer, manifesting aspects of a deity to perform magic*. [Divine Domain](Boons.md#Divine%20Domain), [Warcaster](Boons.md#Warcaster)
+
+## Druid
+*A force of nature manifest, channeling healing and destructive aspects of it towards friends and foes.*
+
+## Occultist
+*An arcane warrior who devotes themselves to the bringing down of a target at any cost*. [Ranger's Mark](Boons.md#Ranger's%20Mark), [Blood Hunter](Boons.md#Blood%20Hunter), [Second Wind](Boons.md#Second%20Wind)
+
+## Swashbuckler
+*An acrobatic fighter, focused on the spectacle of swordsmanship*. [Duelist](Boons.md#Duelist), [Bardic Inspiration](Boons.md#Bardic%20Inspiration), [Combat Inspiration](Boons.md#Combat%20Inspiration), [Movement Master](Boons.md#Movement%20Master)
+
 # Basic Boons
 *These do not have requirements*
 
@@ -36,6 +57,9 @@ You choose a certain domain, gaining additional power from a higher power associ
 ### War Domain
 - **War Priest**. You can make an additional attack with a weapon on your turn, even if you've already attacked with it.
 - **Guided Strike**. When you make an attack roll, you can add R2.
+
+## Druidic
+You gain the ability to take on the form of a creature you have seen before. Twice per rest, you may change your form. This form may have a total of 4 + your level points in its primary attributes, but you may choose to use your normal **Mind** score instead of the form's. You do not wear any armor and are unable to use equipment, but you do gain temporary heart equal to your level. When the temporary heart drops to zero (or when you choose), you revert back to your original form.
 
 ## Duelist
 If you are wearing light or no armor, you can use your dexterity instead of strength when rolling damage with a light or medium melee weapon. Additionally, if you are attacked by a creature within melee range, you can spend one **Focus** to impose disadvantage on the roll.
@@ -111,7 +135,7 @@ On your turn, you can make two attacks with one light or medium weapon (both att
 You can give inspiration dice multiple times per rest, equal to your **Constitution**. These can be given on different turns, or all on the same turn (provided you have enough stamina to do so).
 
 ## Movement Master
-*Requires **Ranger's Mark**, or **Martial Arts***
+*Requires **Duelist**, ***Ranger's Mark**, or **Martial Arts***
 
 You can swim and climb at your normal speed. Additionally, you can fall from a number of tiles equal to your **Dexterity** score without taking damage.
 
