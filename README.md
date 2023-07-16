@@ -42,7 +42,7 @@ Rolls can be used to determine damage, healing, or checks of your abilities. The
 ## Checks
 A check is when you rely on a particular skill to determine an outcome. If your GM calls for a Dexterity Check (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes. If you meet or exceed the difficulty of the check, you succeed!
 
-Checks can also be **contested**. This is where a character attempts a roll against someone else's score. If the character gets more successes that the score they're against, they succeed! These checks will be written as **{Attribute} Check vs {Attribute}**.
+Checks can also be **contested**. This is where a character attempts a roll against someone else's score. If the character gets more successes that the score they're against, they succeed! These checks will be written as **Attribute Check vs Attribute**.
 
 ## Damage Types
 SOLAS contains many different damage types for different weapons and spells. This list can be expanded upon for your needs, but the standard categories as follows:
@@ -54,7 +54,7 @@ SOLAS contains many different damage types for different weapons and spells. Thi
 ## Point Pools
 These are points you can save up to spend attacking, moving, or doing spells. When combat ends, these are returned to their maximum.
 
-**Focus** is your mental concentration at any given moment. These points are used up when you use spells, and some are given back at the start of each turn.
+**Focus** is your mental concentration at any given moment. These points are used up when you use spells and certain abilities, and some are given back at the start of each turn.
 
 **Stamina** is your physical ableness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. Every character has 3 stamina points.
 

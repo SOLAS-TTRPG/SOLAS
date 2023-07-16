@@ -1,32 +1,13 @@
-A boon is something that is a unique skill that shapes how your character interacts with the world, that they have acquired throughout their journey. Some boons have requirements, and characters that do not meet these cannot recieve the boon.
+A boon is something that is a unique skill that shapes how your character interacts with the world, that they have acquired throughout their journey. Some boons have requirements, and characters that do not meet these cannot receive the boon.
 
 ***You get to choose one boon when you create your character**, as well as an additional boon every three levels after that (levels four, seven, ten, thirteen, sixteen, and nineteen).*
 
-# Boon Sets
-If you are coming from other systems that have classes (or don't want to spend forever deciding which boons to choose), take a look at these example sets of boons! Each set is laid out in a specific order, but once you find your footing with it, feel free to deviate and get creative!
-
-## Artificer
-*A master of invention, creating unique magical contraptions and/or concoctions*. [Arcane Infusion](Boons.md#Arcane%20Infusion), [Warcaster](Boons.md#Warcaster)
-
-## Barbarian
-*An unflinching reserve of anger, a fierce rage enduring any amount of punishment*. [Barbarous Rage](Boons.md#Barbarous%20Rage), [Extra Attack](Boons.md#Extra%20Attack), [Zealous Presence](Boons.md#Zealous%20Presence)
-
-## Cleric
-*A divine healer, manifesting aspects of a deity to perform magic*. [Divine Domain](Boons.md#Divine%20Domain), [Warcaster](Boons.md#Warcaster)
-
-## Druid
-*A force of nature manifest, channeling healing and destructive aspects of it towards friends and foes.*
-
-## Occultist
-*An arcane warrior who devotes themselves to the bringing down of a target at any cost*. [Ranger's Mark](Boons.md#Ranger's%20Mark), [Blood Hunter](Boons.md#Blood%20Hunter), [Second Wind](Boons.md#Second%20Wind)
-
-## Swashbuckler
-*An acrobatic fighter, focused on the spectacle of swordsmanship*. [Duelist](Boons.md#Duelist), [Bardic Inspiration](Boons.md#Bardic%20Inspiration), [Combat Inspiration](Boons.md#Combat%20Inspiration), [Movement Master](Boons.md#Movement%20Master)
-
 # Basic Boons
-*These do not have requirements*
+*These do not have any prerequisite boons*
 
 ## Arcane Infusion
+***Upgrades***. *None*
+
 You've learned how to invest a spark of magic into mundane objects. You can touch a nonmagical object, spending one **Focus** to give it one of the following magical properties of your choice:
 
 - **Boots of Speed**, infused to increase the wearer's speed by 1 tile
@@ -38,10 +19,76 @@ You've learned how to invest a spark of magic into mundane objects. You can touc
 The chosen property lasts indefinitely, and you can end the property at will. You can bestow magic on multiple objects, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your **Mind** score.
 
 ## Barbarous Rage
+***Upgrades***. Extra Attack, Zealous Presence
+
 While you aren't wearing armor, you can use one **Focus** to channel your primal ferocity and rage. While you are raging, you have advantage on all **Strength** checks/rolls (including damage). While raging, you reduce incoming damage by 1 per attack. While you are raging, however, you do not recover **Focus** at the start of your turns. If you do not lose heart in between two of your consecutive turns, your rage ends.
 
 ## Bardic Inspiration
+***Upgrades***. Combat Inspiration, Font of Inspiration
+
 You can spend one **Focus** and inspire another creature. The target creature can roll an additional die for a roll of their choice. Once the extra die is used (or the creature rests), the inspiration fades. You can use this a number of times per rest, equal to your **Mind** score.
+
+## Divine Healing
+***Upgrades***. Divine Domain
+
+Whenever you use a focus point to restore a creature's heart, you may add an additional R1 to the amount of heart restored.
+
+## Druidic
+***Upgrades***. Wild Shape
+
+You aren't impeded by the natural world, and can move about it as you please. Non-magical terrain that would normally slow you down does not, and you have advantage to save against magically created or manipulated plants or terrain. Additionally, you have advantage on **Mind Checks** regarding knowledge about plants/animals/beasts and attempts to track enemies.
+
+## Duelist
+***Upgrades***. Extra Attack, Movement Master
+
+If you are wearing light or no armor, you can use your dexterity instead of strength when rolling damage with a light or medium melee weapon. Additionally, if you are attacked by a creature within melee range, you can spend one **Focus** to impose disadvantage on the roll.
+
+## Martial Arts
+***Upgrades***. Extra Attack, Movement Master, Stunning Strike
+
+Your fists are now considered to be light melee weapons, and you can expend **Focus** points instead of stamina to make attacks with your fists.
+
+## Paladic Presence
+***Upgrades***. Extra Attack, Zealous Presence
+
+When you make a melee attack against a creature, you can expend **Focus** points to do additional celestial damage (choose this type when you select this boon, this cannot be changed later). You do an additional R2 of this type for each **Focus** point you spend.
+
+## Ranger's Mark
+***Upgrades***. Blood Hunter, Extra Attack, Movement Master
+
+When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll additional dice equal to your **Constitution** score, the mark vanishing afterward.
+
+## Rogue Agent
+***Upgrades***. Extra Attack, Stunning Strike
+
+You have learned to exploit an enemy's moment of weakness. If you have advantage on a melee attack against a creature, you roll additional dice equal to your **Mind** score.
+
+## Second Wind
+***Upgrades***. Extra Attack
+
+You push yourself to continue fighting, past the point of what would normally be possible. Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level. Additionally, you roll a number of dice equal to your **Constitution** score, and recover the successes as **Heart**.
+
+## Sorcerous Origins
+***Upgrades***. Sorcerous Patron
+
+You are able to channel spells using bursts of physical strength, granted to you or your ancestry by a powerful patron. Your maximum amount of **Focus** is equal to your **Mind + Strength**. This does not increase the number of spells you can memorize, nor the difficulty. 
+
+## Warcaster
+***Upgrades***. *None*
+
+If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell. Additionally, if you are able to make an attack of opportunity, you can instead use a spell with a range of 1 Tile, with the target being the creature that provoked the opportunity attack. You must have and expend the appropriate amount of **Focus** and **Stamina**.
+
+# Upgraded Boons
+*These require certain basic boons to have be taken previously*
+
+## Blood Hunter
+You've learned occult rituals that twist the ways of normal magic to help you track down your targets. When you mark a creature, you lose R1 heart, with your blood sacrifice strengthening the bond between you. You choose an elemental or celestial damage type for the nature of the bond when you select this boon.
+
+- **Binding Curse**. When you attack a marked creature, they must make a **Strength Check** equal to the damage they recieved. If they fail, their speed is reduced to 0 until the end of your next turn.
+- **Crimson Brand**. If a marked creature is within melee range of you and attacks you or an ally, you can expend any number of **Focus** points you currently have. You roll a number of dice equal to the focus points you expended, the successes being damage to the creature of your mark's type.
+
+## Combat Inspiration
+Instead of giving inspiration on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve). Additionally, the inspired creature can now use the inspiration die to reduce the damage of an attack.
 
 ## Divine Domain
 You choose a certain domain, gaining additional power from a higher power associated with it. You can use your domain's features a number of times per rest, equal to your **Mind** score. You expend one **Focus** point when you use a feature.
@@ -58,29 +105,17 @@ You choose a certain domain, gaining additional power from a higher power associ
 - **War Priest**. You can make an additional attack with a weapon on your turn, even if you've already attacked with it.
 - **Guided Strike**. When you make an attack roll, you can add R2.
 
-## Druidic
-You gain the ability to take on the form of a creature you have seen before. Twice per rest, you may change your form. This form may have a total of 4 + your level points in its primary attributes, but you may choose to use your normal **Mind** score instead of the form's. You do not wear any armor and are unable to use equipment, but you do gain temporary heart equal to your level. When the temporary heart drops to zero (or when you choose), you revert back to your original form.
+## Extra Attack
+On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
 
-## Duelist
-If you are wearing light or no armor, you can use your dexterity instead of strength when rolling damage with a light or medium melee weapon. Additionally, if you are attacked by a creature within melee range, you can spend one **Focus** to impose disadvantage on the roll.
+## Font of Inspiration
+You can give inspiration dice multiple times per rest, equal to your **Constitution**. These can be given on different turns, or all on the same turn (provided you have enough stamina to do so).
 
-## Martial Artist
-Your fists are now considered to be light melee weapons, and you can expend **Focus** points instead of stamina to make attacks with your fists.
-
-## Paladic Presence
-When you make a melee attack against a creature, you can expend **Focus** points to do additional celestial damage (choose this type when you select this boon, this cannot be changed later). You do an additional R2 of this type for each **Focus** point you spend.
-
-## Ranger's Mark
-When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll additional dice equal to your **Constitution** score, the mark vanishingt afterward.
-
-## Rogue Agent
-You have learned to exploit an emey's moment of weakness. If you have advantage on a melee attack against a creature, you roll additional dice equal to your **Mind** score.
-
-## Second Wind
-You push yourself to continue fighting, past the point of what would normally be possible. Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level. Additionally, you roll a number of dice equal to your **Constitution** score, and recover the successes as **Heart**.
+## Movement Master
+You can swim and climb at your normal speed. Additionally, you can fall from a number of tiles equal to your **Dexterity** score without taking damage.
 
 ## Sorcerous Patron
-You are able to channel spells using bursts of physical strength, granted to you or your ancestry by a powerful patron. Your maximum amount of **Focus** is equal to your **Mind + Strength**. This does not increase the number of spells you can memorize, nor the difficulty. You also choose a certain origin based on your patron.
+As your connection to the origin of your power grows, you begin to manifest some of the aspects of it. You can only select one of these, and it cannot be changed later.
 
 ### Celestial Patronage
 - **Radiant Soul**. Once per rest, you may add your **Strength** score to the number of dice you are rolling for any check.
@@ -105,46 +140,11 @@ You are able to channel spells using bursts of physical strength, granted to you
 - **Form of Dread**. On your turn, you can spend one **Focus** to change your form into one of pure terror, such as shadowy appearance, elongated limbs, etc, until the end of your next turn. When you reduce a creature's heart, it makes a **Mind Check vs Your Strength**. If that creature fails, it is petrified and cannot move until your form of dread ends.
 - **Grave Touch**. Once per turn, you can change the damage type of a melee attack to Necrotic.
 
-## Warcaster
-If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell. Additionally, if you are able to make an attack of opportunity, you can instead use a spell with a range of 1 Tile, with the target being the creature that provoked the opportunity attack. You must have and expend the appropriate amount of **Focus** and **Stamina**.
-
-# Upgraded Boons
-*These boons require you have selected another boon at an earlier level.*
-
-## Blood Hunter
-*Requires **Ranger's Mark***
-
-You've learned occult rituals that twist the ways of normal magic to help you track down your targets. When you mark a creature, you lose R1 heart, with your blood sacrifice strengthening the bond between you. You choose an elemental or celestial damage type for the nature of the bond when you select this boon.
-
-- **Binding Curse**. When you attack a marked creature, they must make a **Strength Check** equal to the damage they recieved. If they fail, their speed is reduced to 0 until the end of your next turn.
-- **Crimson Brand**. If a marked creature is within melee range of you and attacks you or an ally, you can expend any number of **Focus** points you currently have. You roll a number of dice equal to the focus points you expended, the successes being damage to the creature of your mark's type.
-
-## Combat Inspiration
-*Requires **Bardic Inspiration***
-
-Instead of giving inspiration on your turn, you can now give it at any point (up to immediately after a roll, which it can be used to improve). Additionally, the inspired creature can now use the inspiration die to reduce the damage of an attack.
-
-## Extra Attack
-*Requires **Barbarous Rage**, **Duelist**, **Martial Arts**, **Paladic Presence**, **Ranger's Mark**, **Rogue Agent**, or **Second Wind***
-
-On your turn, you can make two attacks with one light or medium weapon (both attacks cost a **Stamina** point).
-
-## Font of Inspiration
-*Requires **Bardic Inspiration***
-
-You can give inspiration dice multiple times per rest, equal to your **Constitution**. These can be given on different turns, or all on the same turn (provided you have enough stamina to do so).
-
-## Movement Master
-*Requires **Duelist**, ***Ranger's Mark**, or **Martial Arts***
-
-You can swim and climb at your normal speed. Additionally, you can fall from a number of tiles equal to your **Dexterity** score without taking damage.
-
 ## Stunning Strike
-*Requires **Martial Arts***
+When you reduce a creature's heart with a melee weapon, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check**, and if they roll fewer successes than the heart that they lost, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
 
-When you attack a creature with your fists, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check**, and if they roll fewer successes than the heart that they lost, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
+## Wild Shape
+You gain the ability to take on the form of a creature you have seen before. Twice per rest, you may change your form. This form may have a total of 4 + your level points in its primary attributes, but you may choose to use your normal **Mind** score instead of the form's. You do not wear any armor and are unable to use equipment, but you do gain temporary heart equal to your level. When the temporary heart drops to zero (or when you choose), you revert back to your original form.
 
 ## Zealous Presence
-*Requires **Paladic Presence**, or **Rage***
-
 By spending one **Focus**, you can give a number of creatures (equal to your level) that can hear you advantage on attack rolls and checks until the start of your next turn.

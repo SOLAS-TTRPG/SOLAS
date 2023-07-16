@@ -82,7 +82,7 @@ Your **dexterity** affects your **speed**. This is equal to four plus your **dex
 Your **constitution** affects your **heart** (also referred to as health and/or hit points). This is equal to your **constitution** score times your level, plus five.
 
 ### Mind
-Your **mind** score is your maximum **focus** (the amount of which you begin with at the start of combat).
+Your **mind** score is your amount of **focus** (the amount of which you have at the start of combat).
 
 Your **mind** also affects what spells you know. A character can only memorize a certain number of spells at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a spell prepared, you cannot use it. Characters with a **Mind** score higher than one can use **spells**, so check out the section to make sure you know your character's options.
 

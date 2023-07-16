@@ -18,7 +18,7 @@ This comes when a character has undergone such a heavy burden (being awake for t
 Exhaustion is not removed by healing. Only resting does this.
 
 ### On a Turn
-It's your time to shine! Your character starts their turn by recovering some of their **Focus** and **Stamina** points (up to their maximum) the amount you recover of each is equal to your **Constitution**.
+It's your time to shine! Your character starts their turn by recovering some of their **Stamina** points (up to their maximum) the amount you recover of each is equal to your **Constitution**. Additionally, all characters recover at least one **Focus**, up to their maximum.
 
 Now you're ready to go! You can take any of the following actions for the cost of 1 stamina point:
 
@@ -28,9 +28,6 @@ Now you're ready to go! You can take any of the following actions for the cost o
 You can also use a spell for the cost of one **Stamina** point, as well as the listed **focus** cost for the spell.
 
 If you do not have enough stamina and/or focus to take an action, you cannot do it.
-
-### Opportunity Attacks
-If a creature leaves your melee range, you can make a melee attack against it, provided you have enough stamina to do so.
 
 ### Resistances/vulnerabilities
 Some enemies or characters may be resistant or vulnerable to certain types of damage (see **Damage Types** in the [Introduction](#introduction). If something is vulnerable to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
