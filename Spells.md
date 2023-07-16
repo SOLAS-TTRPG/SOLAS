@@ -37,12 +37,6 @@ You hurl a mote of fire at a creature or object within range, doing **R2 Fire** 
 
 A flash of light streaks toward a creature of your choice within range, doing **R2 Radiant** damage. The next attack against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-### Healing Word
-- Range: 3 Tiles
-- Scalable: +R2
-
-You cure the wounds of a willing creature (including yourself) that is within range, healing the target R2.
-
 ### Mage Hand
 - **Concentration**
 - Range: 6 Tiles

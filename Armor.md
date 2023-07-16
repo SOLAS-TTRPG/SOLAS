@@ -20,3 +20,6 @@ Armor is an important thing for any adventurer to consider, but not everyone is 
 
 - Reduces physical damage by 3
 - Reduces your speed by 3 tiles
+
+## Shields
+A shield can also be held in one one to reduce incoming physical damage by 1 without reducing your speed.

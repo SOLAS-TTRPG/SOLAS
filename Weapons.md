@@ -33,8 +33,10 @@ Weapons that pack more of a punch and can shoot further, like pistols, hand cros
 
 - Standard medium weapons limit any attacks with them to R5 damage
 - Limited to a range of 8 tiles
+- If your **Strength is below 2**, you have disadvantage on all attacks with the weapon.
 
 ### Heavy Weapons
 Weapons that are so large that they require both hands to be held, there is no limit to the amount of damage a heavy weapon can deal. Crossbows and greatbows are a great example of this.
 
 - Limited to a range of 12 tiles
+- If your **Strength is below 4**, you have disadvantage on all attacks with the weapon.

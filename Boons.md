@@ -6,7 +6,7 @@ A boon is something that is a unique skill that shapes how your character intera
 *These do not have any prerequisite boons*
 
 ## Arcane Infusion
-***Upgrades***. *None*
+***Upgrades***. Sentinel
 
 You've learned how to invest a spark of magic into mundane objects. You can touch a nonmagical object, spending one **Focus** to give it one of the following magical properties of your choice:
 
@@ -19,67 +19,79 @@ You've learned how to invest a spark of magic into mundane objects. You can touc
 The chosen property lasts indefinitely, and you can end the property at will. You can bestow magic on multiple objects, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your **Mind** score.
 
 ## Barbarous Rage
-***Upgrades***. Extra Attack, Zealous Presence
+***Upgrades***. Extra Attack, Sentinel, Shield Master, Zealous Presence
 
 While you aren't wearing armor, you can use one **Focus** to channel your primal ferocity and rage. While you are raging, you have advantage on all **Strength** checks/rolls (including damage). While raging, you reduce incoming damage by 1 per attack. While you are raging, however, you do not recover **Focus** at the start of your turns. If you do not lose heart in between two of your consecutive turns, your rage ends.
 
 ## Bardic Inspiration
-***Upgrades***. Combat Inspiration, Font of Inspiration
+***Upgrades***. Combat Inspiration, Font of Inspiration, Sentinel, Skulker
 
 You can spend one **Focus** and inspire another creature. The target creature can roll an additional die for a roll of their choice. Once the extra die is used (or the creature rests), the inspiration fades. You can use this a number of times per rest, equal to your **Mind** score.
 
-## Divine Healing
-***Upgrades***. Divine Domain
+## Divine {Something}
+***Upgrades***. Divine Domain, Shield Master
 
-Whenever you use a focus point to restore a creature's heart, you may add an additional R1 to the amount of heart restored.
+{Under Construction, supposed to fill the role of cleric}
 
 ## Druidic
-***Upgrades***. Wild Shape
+***Upgrades***. Wild Shape, Shield Master, Skulker
 
 You aren't impeded by the natural world, and can move about it as you please. Non-magical terrain that would normally slow you down does not, and you have advantage to save against magically created or manipulated plants or terrain. Additionally, you have advantage on **Mind Checks** regarding knowledge about plants/animals/beasts and attempts to track enemies.
 
 ## Duelist
-***Upgrades***. Extra Attack, Movement Master
+***Upgrades***. Extra Attack, Movement Master, Sentinel
 
 If you are wearing light or no armor, you can use your dexterity instead of strength when rolling damage with a light or medium melee weapon. Additionally, if you are attacked by a creature within melee range, you can spend one **Focus** to impose disadvantage on the roll.
 
 ## Martial Arts
-***Upgrades***. Extra Attack, Movement Master, Stunning Strike
+***Upgrades***. Extra Attack, Movement Master, Sentinel, Stunning Strike
 
 Your fists are now considered to be light melee weapons, and you can expend **Focus** points instead of stamina to make attacks with your fists.
 
 ## Paladic Presence
-***Upgrades***. Extra Attack, Zealous Presence
+***Upgrades***. Extra Attack, Sentinel, Shield Master, Zealous Presence
 
 When you make a melee attack against a creature, you can expend **Focus** points to do additional celestial damage (choose this type when you select this boon, this cannot be changed later). You do an additional R2 of this type for each **Focus** point you spend.
 
 ## Ranger's Mark
-***Upgrades***. Blood Hunter, Extra Attack, Movement Master
+***Upgrades***. Blood Hunter, Extra Attack, Movement Master, Sentinel, Skulker
 
 When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll additional dice equal to your **Constitution** score, the mark vanishing afterward.
 
 ## Rogue Agent
-***Upgrades***. Extra Attack, Stunning Strike
+***Upgrades***. Extra Attack, Sentinel, Skulker, Stunning Strike
 
 You have learned to exploit an enemy's moment of weakness. If you have advantage on a melee attack against a creature, you roll additional dice equal to your **Mind** score.
 
 ## Second Wind
-***Upgrades***. Extra Attack
+***Upgrades***. Extra Attack, Sentinel, Shield Master
 
 You push yourself to continue fighting, past the point of what would normally be possible. Once per rest at the start of your turn, you may recover **Focus** or **Stamina** points (or a mix of the two) equal to your level. Additionally, you roll a number of dice equal to your **Constitution** score, and recover the successes as **Heart**.
 
+## Sharpshooter
+***Upgrades***. Extra Attack, Skulker
+
+When using a ranged weapon, your range is increased by 3 tiles. When attacking with a ranged weapon, you can spend **one Focus** point to gain advantage on the attack.
+
 ## Sorcerous Origins
-***Upgrades***. Sorcerous Patron
+***Upgrades***. Sentinel, Sorcerous Patron
 
 You are able to channel spells using bursts of physical strength, granted to you or your ancestry by a powerful patron. Your maximum amount of **Focus** is equal to your **Mind + Strength**. This does not increase the number of spells you can memorize, nor the difficulty. 
 
-## Warcaster
-***Upgrades***. *None*
+# Standalone Boons
+*Anybody can take these boons, but they do not have upgrades*
 
-If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell. Additionally, if you are able to make an attack of opportunity, you can instead use a spell with a range of 1 Tile, with the target being the creature that provoked the opportunity attack. You must have and expend the appropriate amount of **Focus** and **Stamina**.
+## Alert
+Creatures attacking while unseen by you do not have advantage on their rolls.
+
+## Mage Slayer
+When a creature within 1 tile of you casts a spell, if you have the required stamina, you can make a melee weapon attack against them. Additionally, if the spell requires you to make a check, you have advantage on the roll regardless of the type.
+
+## Warcaster
+If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell.
 
 # Upgraded Boons
-*These require certain basic boons to have be taken previously*
+*These require certain boons to have been taken previously*
 
 ## Blood Hunter
 You've learned occult rituals that twist the ways of normal magic to help you track down your targets. When you mark a creature, you lose R1 heart, with your blood sacrifice strengthening the bond between you. You choose an elemental or celestial damage type for the nature of the bond when you select this boon.
@@ -114,6 +126,12 @@ You can give inspiration dice multiple times per rest, equal to your **Constitut
 ## Movement Master
 You can swim and climb at your normal speed. Additionally, you can fall from a number of tiles equal to your **Dexterity** score without taking damage.
 
+## Shield Master
+If you are holding a shield, you can spend a stamina or focus point to gain advantage on a strength, dexterity, or constitution check.
+
+## Skulker
+You are an expert at slinking through shadows, in low light and fog (which don't affect your vision). While in these areas, you can spend a focus or stamina point to roll a **Dexterity Check** which is used as a "Stealth Score" (which creatures trying to spot you contest with a **Mind Check**). If a creature doesn't see you, you have advantage on all attacks against them. Additionally, if you miss a ranged attack while hidden, you aren't revealed.
+
 ## Sorcerous Patron
 As your connection to the origin of your power grows, you begin to manifest some of the aspects of it. You can only select one of these, and it cannot be changed later.
 
@@ -128,8 +146,11 @@ As your connection to the origin of your power grows, you begin to manifest some
 ### Primordial Patronage
 - **Elemental Blessing**. When you take damage of an elemental type, you are empowered with that element. Until the end of your next turn, your first time you roll damage of that type, you may roll with advantage.
 
+## Sentinel
+When a creature attempts to leave your melee range, you can use a melee attack (or a spell with a range of 1 Tile) against them, provided you have the necessary **stamina** and **focus**. If the attack reduces the creature's heart, they can make a **Constitution Check** against the damage they took. If they fail, they cannot spend stamina on movement for the rest of their turn.
+
 ### Storm Patronage
-- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures within 2 tiles of your choice to make a **Strength Check vs Your Strength** or be pushed back 2 tiles.
+- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures within 2 tiles of your choice to make a **Strength Check** against the damage that they took or be pushed back 2 tiles.
 - **Tempestuous Magic**. On your turn, you can spend a **Focus** to surround yourself with gusts of wind, flying up to half of your speed without provoking opportunity attacks.
 
 ### Twilight Patronage
@@ -141,7 +162,7 @@ As your connection to the origin of your power grows, you begin to manifest some
 - **Grave Touch**. Once per turn, you can change the damage type of a melee attack to Necrotic.
 
 ## Stunning Strike
-When you reduce a creature's heart with a melee weapon, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check**, and if they roll fewer successes than the heart that they lost, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
+When you reduce a creature's heart with a melee weapon, you can spend a **Focus** point to attempt to stun them. The creature makes a **Constitution check** against the amount of lost heart, they cannot spend any **Stamina** or **Focus** until the end of your next turn.
 
 ## Wild Shape
 You gain the ability to take on the form of a creature you have seen before. Twice per rest, you may change your form. This form may have a total of 4 + your level points in its primary attributes, but you may choose to use your normal **Mind** score instead of the form's. You do not wear any armor and are unable to use equipment, but you do gain temporary heart equal to your level. When the temporary heart drops to zero (or when you choose), you revert back to your original form.
