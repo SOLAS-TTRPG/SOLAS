@@ -135,6 +135,16 @@ You bless up to three willing creatures of your choice. When blessed, creatures 
 
 When you cast this spell, you select a primary attribute of a creature you can see within range to boost. If you use this attribute for a check or attack before the end of your next turn, you roll an additional die. For up to the next two consecutive turns, you may continue adding an additional dice.
 
+### Crown of Madness
+- **Concentration**
+- Range: 12 Tiles
+
+You target one humanoid within range, and they must succeed on a **Contested Mind Check** or become charmed by you for the duration. While charmed in this way, a twisted crown of jagged iron appears on the target's head, and madness gleams in their eyes.
+
+The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.
+
+On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Additionally, the target can make another **Contested Mind Check** at the end of each of its turns. On a success, the spell ends.
+
 ### Disguise Self
 - **Concentration**
 - Duration: 1 hour
@@ -158,7 +168,6 @@ You choose one object that you must touch while the casting the spell. If it is 
 
 A hauntingly beautiful melody fills the air around the caster (optionally sung by them) that steals the will of enemies. Three creatures within range make **Mind Checks (2)**, and those who fail can only spend stamina to move towards the caster.
 
-
 ### Witch Bolt
 - **Concentration**
 - Range: 6 Tiles
@@ -170,3 +179,22 @@ A beam of crackling energy lances out towards a creature within range, forming a
 - **Concentration**
 
 The caster summons a spectral melee weapon of their choice (i.e. sword, axe, etc.) The summoned weapon is semi-transparent and emits dim light for one tile, and lasts until the end of combat (unless dispelled or dismissed first). Attacking with weapon deals damage based on strength, but deals **Force** damage instead of the weapon's original type and is not limited by the weapon's size
+
+## Tertiary Spells
+*Requires 5 Mind, Costs 5 Focus*
+
+### Telekinesis
+- **Concentration** up to 10 minutes
+- Range: 24 Tiles
+
+You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
+
+**Creature.** You can try to move a Huge or smaller creature. Make a **Mind Check** contested by the creature's **Strength check**. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.
+
+On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.
+
+**Object.** You can try to move an object that weighs up to 1,000 pounds. If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this spell.
+
+If the object is worn or carried by a creature, you must make a **Mind Check vs Their Strength** contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.
+
+You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.

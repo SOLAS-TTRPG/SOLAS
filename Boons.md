@@ -28,10 +28,10 @@ While you aren't wearing armor, you can use one **Focus** to channel your primal
 
 You can spend one **Focus** and inspire another creature. The target creature can roll an additional die for a roll of their choice. Once the extra die is used (or the creature rests), the inspiration fades. You can use this a number of times per rest, equal to your **Mind** score.
 
-## Divine {Something}
+## Divine Healing
 ***Upgrades***. Divine Domain, Shield Master
 
-{Under Construction, supposed to fill the role of cleric}
+After every rest, you have a pool of healing equal to your **Mind score** (this doesn't stack). On your turn, you may spend **One Stamina** and **One Focus** to heal a creature within 6 Tiles. For each point of healing you use, the creature recovers R2 heart. If you touch the creature while using this, you may use advantage when rolling.
 
 ## Druidic
 ***Upgrades***. Wild Shape, Shield Master, Skulker
