@@ -39,9 +39,9 @@ A flash of light streaks toward a creature of your choice within range, doing **
 
 ### Mage Hand
 - **Concentration**
-- Range: 6 Tiles
+- Range: 12 Tiles
 
-A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 6 tiles away from you.
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 12 tiles away from you.
 
 You can use **one Stamina** to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 6 tiles each time you use it.
 
@@ -119,7 +119,7 @@ These spells represent things that a character can do with some effort.
 - Range: 6 Tiles
 - Scalable: +1 target
 
-Up to three creatures of your choice make **Mind Checks vs Your Mind**. Creatures who fail roll one less dice when attacking or making a check.
+Up to three creatures of your choice make **Mind Checks vs Your Mind**. Creatures who fail roll with disadvantage when attacking or making a check.
 
 ### Bless
 - **Concentration**
@@ -156,6 +156,11 @@ You can make yourself appear as a different race, gender, height, and weight, an
 - Scalable: +R2
 
 You channel the power of the lower planes, surrounding yourself in flames. Until you lose heart, you can add **R1 Fire** damage to melee attacks. When you do take damage (before concentration ends), the flames engulf your attacker, dealing **R3 Fire** damage.
+
+### Hex
+- **Concentration**
+
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an additional **R1 Necrotic** to the target whenever you reduce its heart.
 
 ### Identify
 - Range: 1 Tile

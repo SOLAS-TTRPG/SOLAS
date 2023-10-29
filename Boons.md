@@ -28,10 +28,10 @@ While you aren't wearing armor, you can use one **Focus** to channel your primal
 
 You can spend one **Focus** and inspire another creature. The target creature can roll an additional die for a roll of their choice. Once the extra die is used (or the creature rests), the inspiration fades. You can use this a number of times per rest, equal to your **Mind** score.
 
-## Divine Healing
+## Divine Healer
 ***Upgrades***. Divine Domain, Shield Master
 
-After every rest, you have a pool of healing equal to your **Mind score** (this doesn't stack). On your turn, you may spend **One Stamina** and **One Focus** to heal a creature within 6 Tiles. For each point of healing you use, the creature recovers R2 heart. If you touch the creature while using this, you may use advantage when rolling.
+You have a pool of healing ability you can draw from. After every rest, your pool has a number of points equal to your **Constitution Score**. On your turn, you may spend **One Stamina** and **One Focus** to use a point, and provide **R4 healing** to a creature within 6 Tiles. If you touch the creature while using this, you may use advantage when rolling.
 
 ## Druidic
 ***Upgrades***. Wild Shape, Shield Master, Skulker
@@ -56,7 +56,7 @@ When you make a melee attack against a creature, you can expend **Focus** points
 ## Ranger's Mark
 ***Upgrades***. Blood Hunter, Extra Attack, Movement Master, Sentinel, Skulker
 
-When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack that creature again, you roll additional dice equal to your **Constitution** score, the mark vanishing afterward.
+When you reduce a creature's heart, you form a mystical bond with that creature. If you attack another creature or don't attack it on your next turn, the mark vanishes. When you attack a marked creature, you roll additional dice equal to your **Constitution** score, the mark vanishing afterward.
 
 ## Rogue Agent
 ***Upgrades***. Extra Attack, Sentinel, Skulker, Stunning Strike
@@ -85,10 +85,10 @@ You are able to channel spells using bursts of physical strength, granted to you
 Creatures attacking while unseen by you do not have advantage on their rolls.
 
 ## Mage Slayer
-When a creature within 1 tile of you casts a spell, if you have the required stamina, you can make a melee weapon attack against them. Additionally, if the spell requires you to make a check, you have advantage on the roll regardless of the type.
+When a creature within 1 tile of you casts a spell, if you have the required stamina, you can make a melee weapon attack against them. Additionally, if a spell requires you to make a check, you have advantage on the roll regardless of the type.
 
 ## Warcaster
-If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check. If you roll more successes than damage that you took, you maintain concentration on the spell.
+If your **heart** is reduced while you are concentrating on a spell, you may roll a **Constitution** check against the heart you lost. If you succeed, you maintain concentration on the spell.
 
 # Upgraded Boons
 *These require certain boons to have been taken previously*
@@ -96,7 +96,7 @@ If your **heart** is reduced while you are concentrating on a spell, you may rol
 ## Blood Hunter
 You've learned occult rituals that twist the ways of normal magic to help you track down your targets. When you mark a creature, you lose R1 heart, with your blood sacrifice strengthening the bond between you. You choose an elemental or celestial damage type for the nature of the bond when you select this boon.
 
-- **Binding Curse**. When you attack a marked creature, they must make a **Strength Check** equal to the damage they recieved. If they fail, their speed is reduced to 0 until the end of your next turn.
+- **Binding Curse**. When you attack a marked creature, they must make a **Strength Check** against the damage they received. If they fail, their speed is reduced to 0 until the end of your next turn.
 - **Crimson Brand**. If a marked creature is within melee range of you and attacks you or an ally, you can expend any number of **Focus** points you currently have. You roll a number of dice equal to the focus points you expended, the successes being damage to the creature of your mark's type.
 
 ## Combat Inspiration
@@ -105,8 +105,12 @@ Instead of giving inspiration on your turn, you can now give it at any point (up
 ## Divine Domain
 You choose a certain domain, gaining additional power from a higher power associated with it. You can use your domain's features a number of times per rest, equal to your **Mind** score. You expend one **Focus** point when you use a feature.
 
+### Life Domain
+- **Disciple of Life**. Your number of Healing Points is equal to your **Constitution + Mind**
+- **Preserve Life**. You can scale your divine healing by using additional Focus points when you cast: for each extra Focus you spend, you can use another point from your healing pool without using an additional stamina. You cannot use more healing or focus points than what you have available.
+
 ### Tempest Domain
-- **Thunderous Rebuke**. When a creature hits you with a melee attack, you can cause them to make a **Dexterity Check vs Your Mind**. They then take R4 Lightning damage (with disadvantage if they succeeded the check).
+- **Thunderous Rebuke**. When a creature hits you with a melee attack, you can cause them to make a **Dexterity Check vs Your Constitution**. They then take R4 Lightning damage (with disadvantage if they succeeded the check).
 - **Destructive Wrath**. When you are rolling lightning or force damage, you can gain advantage on the roll.
 
 ### Trickery Domain
@@ -132,6 +136,8 @@ If you are holding a shield, you can spend a stamina or focus point to gain adva
 ## Skulker
 You are an expert at slinking through shadows, in low light and fog (which don't affect your vision). While in these areas, you can spend a focus or stamina point to roll a **Dexterity Check** which is used as a "Stealth Score" (which creatures trying to spot you contest with a **Mind Check**). If a creature doesn't see you, you have advantage on all attacks against them. Additionally, if you miss a ranged attack while hidden, you aren't revealed.
 
+## Sentinel
+When a creature attempts to leave your melee range, you can use a melee attack (or a spell with a range of 1 Tile) against them, provided you have the necessary **stamina** and **focus**. If the attack reduces the creature's heart, they can make a **Constitution Check** against the damage they took. If they fail, they cannot spend stamina on movement for the rest of their turn.
 ## Sorcerous Patron
 As your connection to the origin of your power grows, you begin to manifest some of the aspects of it. You can only select one of these, and it cannot be changed later.
 
@@ -146,11 +152,8 @@ As your connection to the origin of your power grows, you begin to manifest some
 ### Primordial Patronage
 - **Elemental Blessing**. When you take damage of an elemental type, you are empowered with that element. Until the end of your next turn, your first time you roll damage of that type, you may roll with advantage.
 
-## Sentinel
-When a creature attempts to leave your melee range, you can use a melee attack (or a spell with a range of 1 Tile) against them, provided you have the necessary **stamina** and **focus**. If the attack reduces the creature's heart, they can make a **Constitution Check** against the damage they took. If they fail, they cannot spend stamina on movement for the rest of their turn.
-
 ### Storm Patronage
-- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures within 2 tiles of your choice to make a **Strength Check** against the damage that they took or be pushed back 2 tiles.
+- **Heart of the Storm**. When you deal lightning damage, storm magic erupts around you, causing creatures of your choice within 2 tiles of your choice to make a **Strength Check** against the damage that they took or be pushed back 2 tiles.
 - **Tempestuous Magic**. On your turn, you can spend a **Focus** to surround yourself with gusts of wind, flying up to half of your speed without provoking opportunity attacks.
 
 ### Twilight Patronage
@@ -158,7 +161,7 @@ When a creature attempts to leave your melee range, you can use a melee attack (
 - **Strength of the Grave**. Once per rest, when damage reduces you to 0 heart, you can spend one **Focus** to make a **Strength check** and recover the successes as heart.
 
 ### Undead Patronage
-- **Form of Dread**. On your turn, you can spend one **Focus** to change your form into one of pure terror, such as shadowy appearance, elongated limbs, etc, until the end of your next turn. When you reduce a creature's heart, it makes a **Mind Check vs Your Strength**. If that creature fails, it is petrified and cannot move until your form of dread ends.
+- **Form of Dread**. On your turn, you can spend one **Focus** to change your form into one of pure terror, such as shadowy appearance, elongated limbs, etc, until the end of your next turn. When you reduce a creature's heart, it makes a **Mind Check** against the damage it took. If that creature fails, it is petrified and cannot move closer to you until the end of your next turn.
 - **Grave Touch**. Once per turn, you can change the damage type of a melee attack to Necrotic.
 
 ## Stunning Strike

@@ -53,12 +53,12 @@ You are resistant to one elemental damage type (Acid, Poison, Fire, Cold, or Lig
 *Your power may come from primordial beings, dragons, or something else entirely. This usually manifests in a unique bodily color palette, with reds and oranges for fire, etc.*
 
 ### Fey Ancestry
-You no longer need to sleep to fully recover heart, instead only requiring 4 hours of concious meditation. As a result of this, magic cannot put you to sleep. Furthermore, you have advantage on **Mind checks** against spell effects.
+You no longer need to sleep to fully recover heart, instead only requiring 4 hours of conscious meditation. As a result of this, magic cannot put you to sleep. Furthermore, you have advantage on **Mind checks** against spell effects.
 
 *This may be the result of exposure to the feywild, underdark, or similar place. Your skin may sparkle in the right light, some animalistic features may manifest (satyrs, for example), flowers may bloom/wilt around you depending on your mood, or you may even represent aspects of nature like seasons.*
 
 ### Innate Arcana
-You permanently memorize one **Primary Spell**, which costs one **Focus** as opposed to the normal two. This does not count towards your maximum number of memorized spells. After using this memorized spell for the reduced cost, you recover one less **Focus** at the start of your next turn.
+You permanently memorize one **Primary Spell**, which costs one **Focus** as opposed to the normal two.
 
 *Your ancestry has been touched by magic, having a natural gift of spell usage. This can come from all sorts of places, from planar magic to deities, a natural connection or a deliberate augmentation.*
 
@@ -88,3 +88,14 @@ Your **mind** also affects what spells you know. A character can only memorize a
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your primary attributes (**Strength**, **Dexterity**, **Mind**, or **Constitution**), and if at an appropriate level you also recieve another **Boon**!
+
+## Additional Ways of Play
+Ways to spice up the game, each benefit has tradeoffs
+
+### Lycanthropy
+You have the power to transform into a hybrid of man and beast. Hide/Scales/Fur may appear all over your body, and your lack of inhibition only turns you into a more ferocious predator.
+- Even when not in your bestial form, you have advantage on **mind checks** relating to perception.
+- You can transform at will between your normal human form and your bestial form, but doing so **costs R1 heart**.
+- When in your bestial form, you gain advantage on melee attacks made with claws, and you have the melee option to bite.
+- When in your bestial form, your melee attacks are rolled with advantage.
+- At the end of each of your turns, make a constitution check against the number of creatures you reduced the heart of. If you fail, you enter a frenzy. At the start of each of your turns, you must attack any creatures within melee range (including allies), provided you have available stamina. After this, you may take your turn as normal, making the check again at the end.
