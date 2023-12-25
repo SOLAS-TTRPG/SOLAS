@@ -1,0 +1,3 @@
+Your agile nature deepens, each part of your body coming together in unison. For a number of times equal to your mind score per rest, when you make a **dexterity check**, you can spend a focus point to add the successes of a **mind check**.
+
+*As you deftly navigate the intricacies of your performance, the harmonious melding of dexterity and intellect allows you to transcend the realm of physical. A testament to your mastery, your movements exude  fluid grace, your nimbleness elevated to a level where the mind and body dance in perfect unison.*

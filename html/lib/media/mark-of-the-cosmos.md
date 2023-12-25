@@ -1,0 +1,3 @@
+Your maximum focus is equal to your **Mind + Strength**, but does not increase the number nor difficulty of spells you can memorize.
+
+*Through cosmic favor or a part of your soul that has been devoted to a force in the cosmos, physical strength is the catalyst for your magical prowess. When using large amounts of Focus, your eyes and veins may begin to glow, your voice backed by the subsonic rumble of the ground around you.*

@@ -1,0 +1,1 @@
+Indomitable defenders of unwavering ideals or chosen by powerful beings, standing as bastions of unyielding fortitude on the battlefield. They embody the resilience of their convictions, shielding allies and confronting adversaries with unwavering determination.

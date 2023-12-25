@@ -1,0 +1,3 @@
+Your maximum focus becomes equal to your **Mind + Dexterity**, ensuring that your nimble movements and agility contribute the wellspring of arcane energy at your disposal. This does not increase the number of spells you can memorize
+
+*In the fluidity of your performance, each deft motion becomes a reservoir for arcane potential. The finesse of your dexterity harmonizes with your arcane prowess, expanding the very boundaries of what you are capable of.*

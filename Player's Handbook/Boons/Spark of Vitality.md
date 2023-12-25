@@ -1,0 +1,3 @@
+Your maximum focus becomes equal to your **Mind + Constitution**, ensuring that your sheer will to keep going is reflected in your spellcasting ability.
+
+*Your indomitable will and unwavering determination have been forged into your very being, becoming the beating heart of your spellcasting prowess. As you channel arcane energy, the resilience within you manifests, ensuring that your magical abilities mirror the tenacity with which you face the challenges that lie ahead.*

@@ -1,0 +1,1 @@
+You have a pool of healing ability you can draw from. After every rest, your pool has a number of points equal to your **Focus + Constitution**. On your turn, you may spend **One Stamina** and **One Focus** to use a point, and provide **R3 healing** to a creature within 6 Tiles. If you touch the creature while using this, you may use advantage when rolling.

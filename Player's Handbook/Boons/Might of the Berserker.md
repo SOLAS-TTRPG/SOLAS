@@ -1,0 +1,3 @@
+While raging: Your advantage on all strength checks now encompasses your physical melee attacks, and your damage reduction is increased to two (as if you were wearing medium armor). Furthermore, you can now spend a focus point in response to taking any damage, reducing the incoming attack by the successes of a **Strength Check**.
+
+Through pushing your rage to new levels, you can now unleash a more chaotic, unpredictable anger on your foes. While in this enhanced state, your tolerance reaches new thresholds, and your attacks carve through your enemies indiscriminately.

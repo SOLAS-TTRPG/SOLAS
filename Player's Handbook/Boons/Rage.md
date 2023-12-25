@@ -1,0 +1,3 @@
+On your turn, you can use **One Focus** to rage. While raging, you have advantage on all strength checks, but you do not recover spent focus. Your rage ends when you do not take damage in between two turns. Additionally, if you are not wearing armor, you can reduce incoming physical damage by one per attack (as if you were wearing light armor).
+
+*Fueled by an inner fury, you can tap into the raw, untamed power coursing through you. As you enter a state of rage, your senses sharpen, and a ferocious determination takes hold. Stripped of armor, you become a living tempest, deflecting incoming attacks with sheer might.*

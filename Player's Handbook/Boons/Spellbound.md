@@ -1,0 +1,3 @@
+You gain the ability to temporarily bind an additional spell to your mind, allowing you to cast it without the need for conventional spell memorization. Once per rest, you can replace a prepared spell with another, which remains until your next rest.
+
+*The arcane energies wrap around your consciousness like an ethereal chain, linking you to an additional spell that dances at the edge of your mind's grasp. Spellbound, you are a living grimoire, capable of seamlessly integrating new magical knowledge into your repertoire. As dawn breaks, the ephemeral bindings fade, leaving you ready to embrace a fresh array of spells with each passing day.*

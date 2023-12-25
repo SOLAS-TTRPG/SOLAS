@@ -1,0 +1,3 @@
+You have mastered the art of capitalizing on an enemy's moment of vulnerability. When you have advantage on an attack against a creature, you roll additional dice equal to your **Mind** score as part of the damage.
+
+*The razor-sharp focus of your mind in the midst of battle discerns the precise moments to strike. With each attack, your mind guides your strikes with unparalleled precision, unraveling the vulnerabilities of your adversaries and delivering calculated blows that leave an indelible mark on the battlefield.*
