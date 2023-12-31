@@ -40,7 +40,7 @@ Your strength limits what armor you can wear. Ask your GM if you are allowed to 
 ### Dexterity
 *Physical agility, reflexes, precision*
 
-Your **dexterity** affects your **speed**. This is equal to four plus your **dexterity** score.
+Your **dexterity** affects your **speed**. This is equal to **five plus half of your dexterity** score (rounded down).
 
 ### Constitution
 *Physical/Mental toughness, persistence*
@@ -82,6 +82,8 @@ When you begin playing, everybody rolls a dexterity check, including the GM. Thi
 
 ## Combat
 Struggle is a part of every story, and it may present itself in the form of combat. Your characters have specific strengths and weaknesses based on your primary attributes. When somebody announces that they are doing something combative enough to warrant a full fight, that person goes first, and play follows the pre-rolled initiative starting from them.
+
+When in combat, you naturally recover some of your reserves each turn. On the start of your turn (before you do anything), **your character recovers two stamina and one focus**.
 
 ## Resting
 Your characters cannot stay awake indefinitely, and will need to recover and heal their wounds. Characters will need to rest for a total of 8 hours, up to two of which can be sitting/lying down but conscious. If characters go 24 hours without resting, they gain a **point of exhaustion**. Resting removes all points of exhaustion.
