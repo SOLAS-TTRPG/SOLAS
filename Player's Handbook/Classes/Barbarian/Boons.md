@@ -1,4 +1,5 @@
 ![Barbarian](Barbarian.md)
+
 ## Primary Boons
 These can be taken by anyone.
 

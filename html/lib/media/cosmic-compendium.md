@@ -1,3 +1,0 @@
-You have advantage on **Mind Checks** regarding anatomical/biological knowledge about creatures, as well as tracking. You can elect to spend **one Focus** to glean tactical insight about a creature within sight, the Game Master revealing a random resistance or weakness.
-
-*Your knowledge of the world around you is bolstered by your connection to the natural and supernatural realms, allowing you to be a valuable ally and a dangerous enemy.*

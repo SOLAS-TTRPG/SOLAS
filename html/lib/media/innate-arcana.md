@@ -1,3 +1,0 @@
-You permanently memorize one **Primary Spell**, which costs one **Focus** as opposed to the normal two. This does not count against your total number of memorized spells.
-
-*Etched into the very fabric of your being, the Innate Arcana manifests as a wellspring of mystical knowledge, yielding one paramount spell that requires less effort to invoke. This singular enchantment, a testament to your profound connection with the arcane, becomes an intrinsic part of your magical repertoire, a beacon of power that sets you apart in the realm of spellcasters.*

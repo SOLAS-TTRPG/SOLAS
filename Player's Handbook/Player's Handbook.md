@@ -13,7 +13,7 @@ Rolls can be used to determine damage, healing, or checks of your abilities. The
 ## Checks
 A check is when you rely on a particular skill to determine an outcome. If your GM calls for a Dexterity Check (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes. If you meet or exceed the difficulty of the check, you succeed!
 
-Checks can also be **contested**. This is where a character attempts a roll against someone else's score. If the character gets more successes that the score they're against, they succeed! These checks will be written as **Attribute Check vs Attribute**.
+Checks can also be **contested**. This is where a character attempts a roll against someone else's score. If the character gets more successes that the score they're against, they succeed! These checks will be written as **Attribute Check vs Attribute**
 
 ## Damage Types
 SOLAS contains many different damage types for different weapons and spells. This list can be expanded upon for your needs, but the standard categories as follows:
@@ -25,12 +25,12 @@ SOLAS contains many different damage types for different weapons and spells. Thi
 ## Point Pools
 These are points you can save up to spend attacking, moving, or doing spells. When combat ends, these are returned to their maximum.
 
-**Focus** is your mental concentration at any given moment. These points are used up when you use spells and certain abilities, and some are given back at the start of each turn.
+**Focus** is your mental concentration at any given moment. These points are used up when you use spells and certain abilities, and **one is given back at the start of each turn**.
 
-**Stamina** is your physical ableness at any given moment. These points are used up when you move or attack, and some are given back at the start of each turn. Every character has 3 stamina points.
+**Stamina** is your physical ableness at any given moment. These points are used up when you move or attack, and **two are given back at the start of each turn**. Every character has a max of 3 stamina points.
 
 ## Primary Attributes
-Characters in the game have different attributes to describe their general skills. The number associated with each attribute is its relative effectiveness, 1 being the minimum possible. The categories are as follows:
+Characters in the game have different attributes to describe their general skills. The number associated with each attribute is its relative effectiveness, one being the minimum possible. The categories are as follows:
 
 ### Strength
 *Natural athleticism, physical power*
@@ -45,7 +45,7 @@ Your **dexterity** affects your **speed**. This is equal to **five plus half of 
 ### Constitution
 *Physical/Mental toughness, persistence*
 
-Your **constitution** affects your **heart** (also referred to as health and/or hit points). This is equal to your **constitution** score times your level, plus five.
+Your **constitution** affects your **heart** (also referred to as health and/or hit points). This is equal to **five plus your level times constitution**.
 
 ### Mind
 *Analytical skill, intuition*
@@ -65,14 +65,17 @@ Start your character with one point in each of your **Primary Attributes**, then
 
 You then must figure out your other scores (focus, speed, etc), referring back to the **Primary Attributes**.
 
-## Choosing a Boon & Classes
+## Choosing Boons & Classes
 When you're starting out, your character receives a **boon**, which is a special ability that helps them to be more effective. These boons are sorted into **classes** to help keep track of prerequisites, but do not feel locked into a class! Mixing and matching abilities to build a character that suits the story you are helping tell is more important.
 
-![What is a Boon?](What%20is%20a%20Boon?.md)
+A **boon** is a unique skill that shapes how your character interacts with the world, that they have acquired throughout their journey. Which boons you can take are determined by if you already have the required prerequisite ones.
+
+You get to choose one boon when you create your character, as well as an additional boon every three levels after that (levels four, seven, ten, thirteen, sixteen, and nineteen).
 
 ![Classes](Classes.md)
+
 ## Leveling Up
-After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your [Primary Attributes](Player's%20Handbook.md#Primary%20Attributes), and if at an appropriate level you also receive another [boon](What%20is%20a%20Boon?.md)!
+After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your **Primary Attributes**, and if at an appropriate level (one, four, seven, ten, thirteen, sixteen, and nineteen) you also receive another **Boon**!
 
 # Playing the Game
 Most TTRPGs are broken down into a cycle of play, but this is by no means a one-size fits all solution. Generally, a GM will describe the environment, and the players respond with what their character does. The GM then goes back and forth with the players, narrating the results of their actions and having the players respond, until a scene comes to a natural close.
@@ -91,13 +94,13 @@ Your characters cannot stay awake indefinitely, and will need to recover and hea
 ## Exhaustion
 This comes when a character has undergone such a heavy burden (being awake for too long, physical exertion, or sustaining too much damage). There are different degrees of exhaustion, and they correspond with how many **points of exhaustion** that you have. For each point of exhaustion you've accumulated:
 
-- You recover one less stamina and focus at the start of your turns (to a minimum of zero).
+- You roll one less die for **all** checks and rolls.
 - Your speed is reduced by one tile (to a minimum of zero).
 
 Exhaustion is not removed by healing. Only resting does this.
 
 ## On a Turn
-It's your time to shine! Your character starts their turn by recovering some of their **Stamina** points (up to their maximum) the amount you recover of each is equal to your **Constitution**. Additionally, all characters recover at least one **Focus**, up to their maximum.
+It's your time to shine! Your character starts their turn by recovering two **Stamina** points, up to three. Additionally, all characters recover one **Focus**, up to their maximum.
 
 Now you're ready to go! You can take any of the following actions for the cost of 1 stamina point:
 
@@ -109,9 +112,14 @@ You can also use a spell for the cost of one **Stamina** point, as well as the l
 If you do not have enough stamina and/or focus to take an action, you cannot do it.
 
 ## Resistances/vulnerabilities
-Some enemies or characters may be resistant or vulnerable to certain types of damage (see **Damage Types** in the [Introduction](#introduction). If something is vulnerable to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
+Some enemies or characters may be resistant or vulnerable to certain types of damage (see **Damage Types** in the Introduction). If something is vulnerable to a type of attack, count your successes with advantage. If something is resistant to the type of attack, count the successes with disadvantage.
 
 ## Fading
-Once your character reaches 0 heart, their grip on mortality is weakening and could soon die. On the start of your turn when you're fading, you gain a point of exhaustion. If you end your turn with three points of exhaustion, your character dies.
+Once your character reaches 0 heart, their grip on mortality is weakening and could soon die. On the start of your turn when you're fading, you gain a point of exhaustion. If you end your turn with four points of exhaustion, your character dies.
 
 If you take damage while fading, consider your heart to be negative. Healing must bring you back up above 0 for you to be no longer fading.
+
+# Spellcasting
+There is magic out in the world, and some have been able to hone their minds to channel and control it to suite their needs (referred to here as **casters**). A character can only memorize a certain number of spells at a time, this being your **Mind** score. The ones you have memorized can be swapped during rests, but if you don't have a spell prepared, you cannot use it. Most casters have a few favored spells, but feel free to get creative!
+
+![[Spells]]

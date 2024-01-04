@@ -1,3 +1,0 @@
-You gain a reservoir of points equal to your **Mind Score**. These points can be spent like **Stamina**, and for the same actions. However, you only recover these when you finish a rest.
-
-*The Untapped Reserves within you represent the latent energy awaiting release through disciplined mastery. As a master, you can harness this to perform extraordinary feats, unleashing a torrent of swift strikes, unparalleled agility and speed, and other abilities that set you apart as a true master of the disciplined arts. With focused meditation while resting, your reserves points replenish, ensuring a wellspring of untapped potential whenever the call to action arises.*
