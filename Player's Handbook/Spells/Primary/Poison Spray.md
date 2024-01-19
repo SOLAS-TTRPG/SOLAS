@@ -1,4 +1,4 @@
-# [Poison Spray](Poison%20Spray.md)
+# [Poison Spray](Player's%20Handbook/Spells/Primary/Poison%20Spray.md)
 **Scalable: +R2 Poison**
 Range: Three Tiles
 Damage: R4 Poison

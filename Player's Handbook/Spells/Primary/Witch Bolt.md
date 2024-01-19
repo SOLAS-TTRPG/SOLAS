@@ -1,4 +1,4 @@
-# [Witch Bolt](Witch%20Bolt.md)
+# [Witch Bolt](Player's%20Handbook/Spells/Primary/Witch%20Bolt.md)
 ***Concentration***
 **Scalable: +R2 Lightning**
 Range: 12 Tiles

@@ -1,4 +1,4 @@
-# [Ice Knife](Ice%20Knife.md)
+# [Ice Knife](Player's%20Handbook/Spells/Primary/Ice%20Knife.md)
 **Scalable: +R2 Cold**
 Range: Six Tiles
 Damage: R3 Cold
