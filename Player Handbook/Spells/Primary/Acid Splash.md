@@ -1,4 +1,4 @@
-# [Acid Splash](Player%20Handbook/Spells/Primary/Acid%20Splash.md)
+# [Acid Splash](Acid%20Splash.md)
 **Scalable: +R2 Acid**
 Range: Six Tiles
 Damage: R3 Acid

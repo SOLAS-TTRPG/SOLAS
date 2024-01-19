@@ -75,26 +75,26 @@ These boons are sorted into **classes** to help keep track of prerequisites, but
 ### Strength
 Strength-based classes rare known for their physical strength to brute force their way through obstacles and situations alike.
 
-- **[Barbarian](Player%20Handbook/Classes/Barbarian.md) (Martial)**
-- **[Evoker](Player%20Handbook/Classes/Evoker.md) (Caster)**
+- **[Barbarian](Classes/Barbarian.md) (Martial)**
+- **[Evoker](Classes/Evoker.md) (Caster)**
 
 ### Dexterity
 Dexterity-based classes rely on their deftness and agility, their goals being success through sheer physical perfection.
 
-- **[Bard](Player%20Handbook/Classes/Bard.md) (Caster)**
-- **[Duelist](Player%20Handbook/Classes/Duelist.md) (Martial)**
+- **[Bard](Classes/Bard.md) (Caster)**
+- **[Duelist](Classes/Duelist.md) (Martial)**
 
 ### Constitution
 Constitution-based classes rely on their ability to just keep pushing, their wills and bodies toughened to survive much more strain.
 
-- **[Alchemist](Player%20Handbook/Classes/Alchemist.md) (Caster)** 
-- **[Champion](Player%20Handbook/Classes/Champion.md)(Martial)**
+- **[Alchemist](Classes/Alchemist.md) (Caster)**
+- **[Champion](Classes/Champion.md)(Martial)**
 
 ### Mind
 Mind-based classes use their knowledge of inner workings (people and the cosmos alike) to create favorable situations where success is guaranteed.
 
-- **[Arcanist](Player%20Handbook/Classes/Arcanist.md) (Caster)**
-- **[Ranger](Player%20Handbook/Classes/Ranger.md) (Martial)**
+- **[Arcanist](Classes/Arcanist.md) (Caster)**
+- **[Ranger](Classes/Ranger.md) (Martial)**
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your **Primary Attributes**, and if at an appropriate level (one, four, seven, ten, thirteen, sixteen, and nineteen) you also receive another **Boon**! Characters can (and should!) dip into multiple classes for different boons to build up who your character is.
@@ -220,11 +220,11 @@ To cast a spell, you must spend **one stamina** as well as its **focus cost**. A
 ## Primary Spells
 These spells cost two focus to cast.
 
-- [Acid Splash](Player%20Handbook/Spells/Primary/Acid%20Splash.md)
-- [Eldritch Blast](Player%20Handbook/Spells/Primary/Eldritch%20Blast.md)
-- [Fire Bolt](Player%20Handbook/Spells/Primary/Fire%20Bolt.md)
-- [Guiding Bolt](Player%20Handbook/Spells/Primary/Guiding%20Bolt.md)
-- [Ice Knife](Player%20Handbook/Spells/Primary/Ice%20Knife.md)
-- [Poison Spray](Player%20Handbook/Spells/Primary/Poison%20Spray.md)
-- [Ray of Frost](Player%20Handbook/Spells/Primary/Ray%20of%20Frost.md)
-- [Witch Bolt](Player%20Handbook/Spells/Primary/Witch%20Bolt.md)
+- [Acid Splash](Spells/Primary/Acid%20Splash.md)
+- [Eldritch Blast](Spells/Primary/Eldritch%20Blast.md)
+- [Fire Bolt](Spells/Primary/Fire%20Bolt.md)
+- [Guiding Bolt](Spells/Primary/Guiding%20Bolt.md)
+- [Ice Knife](Spells/Primary/Ice%20Knife.md)
+- [Poison Spray](Spells/Primary/Poison%20Spray.md)
+- [Ray of Frost](Spells/Primary/Ray%20of%20Frost.md)
+- [Witch Bolt](Spells/Primary/Witch%20Bolt.md)

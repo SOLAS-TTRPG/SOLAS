@@ -1,4 +1,4 @@
-# [Ranger](Player%20Handbook/Classes/Ranger.md)
+# [Ranger](Ranger.md)
 Master tacticians armed with a razor-sharp intellect, who navigate the battlefield with precision discerning vulnerabilities and exploiting weaknesses in their adversaries' defenses. Through strategic insight, Rangers emerge as cerebral assassins, excelling in the art of calculated strikes and unraveling the mysteries of both the natural world and their unsuspecting foes.
 
 # Boons

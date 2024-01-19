@@ -1,4 +1,4 @@
-# [Eldritch Blast](Player%20Handbook/Spells/Primary/Eldritch%20Blast.md)
+# [Eldritch Blast](Eldritch%20Blast.md)
 **Scalable: +R2 Force**
 Range: Twelve Tiles
 Damage: R3 Force

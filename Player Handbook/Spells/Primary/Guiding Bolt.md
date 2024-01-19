@@ -1,4 +1,4 @@
-# [Guiding Bolt](Player%20Handbook/Spells/Primary/Guiding%20Bolt.md)
+# [Guiding Bolt](Guiding%20Bolt.md)
 **Scalable: +R2 Radiant**
 Range: 18 Tiles
 Damage: R3 Radiant

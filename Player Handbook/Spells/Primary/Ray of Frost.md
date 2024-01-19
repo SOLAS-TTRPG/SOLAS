@@ -1,4 +1,4 @@
-# [Ray of Frost](Player%20Handbook/Spells/Primary/Ray%20of%20Frost.md)
+# [Ray of Frost](Ray%20of%20Frost.md)
 **Scalable: +R2 Cold**
 Range: Twelve Tiles
 Damage: R3 Cold

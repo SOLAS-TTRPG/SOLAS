@@ -1,4 +1,4 @@
-# [Fire Bolt](Player%20Handbook/Spells/Primary/Fire%20Bolt.md)
+# [Fire Bolt](Fire%20Bolt.md)
 **Scalable: +R2 Fire**
 Range: 24 Tiles
 Damage: R3 Fire
