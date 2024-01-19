@@ -1,3 +1,4 @@
+# [[Ray of Frost]]
 **Scalable: +R2 Cold**
 Range: Twelve Tiles
 Damage: R3 Cold

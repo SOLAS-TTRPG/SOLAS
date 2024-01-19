@@ -1,3 +1,4 @@
+# [[Eldritch Blast]]
 **Scalable: +R2 Force**
 Range: Twelve Tiles
 Damage: R3 Force

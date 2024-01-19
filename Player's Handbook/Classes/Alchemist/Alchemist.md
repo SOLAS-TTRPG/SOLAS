@@ -1,1 +1,0 @@
-Masters of the eldritch concoctions and divine elixirs, stand as the conduits between the cosmic forces of creation and the mortal realm. These divine artisans channel their mental and physical will into their craft, creating concoctions or contraptions to shape the world around them. [[Player's Handbook/Classes/Alchemist/Boons|Boons]]

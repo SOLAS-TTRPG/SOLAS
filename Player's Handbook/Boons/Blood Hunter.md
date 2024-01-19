@@ -1,6 +1,0 @@
-You've learned occult rituals that twist the ways of normal arcane to help you track down your targets. When you mark a creature, you lose R1 heart, with your blood sacrifice strengthening the bond between you. You choose an elemental or celestial damage type for the nature of the bond when you select this boon.
-
-- **Binding Curse**. When you attack a marked creature, they must make a **Strength Check** against the damage they received. If they fail, their speed is reduced to 0 until the end of your next turn.
-- **Crimson Brand**. If a marked creature is within melee range of you and attacks you or an ally, you can expend any number of **Focus** points you currently have. You roll a number of dice equal to the focus points you expended, the successes being damage to the creature of your mark's type.
-
-*With a whispered incantation and the willing sacrifice of your life essence, the Blood Hunter's Pact is sealed. Each mark etched upon your enemies becomes a conduit for the eldritch forces within, turning your relentless pursuit into a dance of blood and magic. Through occult rituals and the strength of your indomitable will, you stand as a Blood Hunter, an otherworldly predator bound by a pact written in the language of primal forces.*

@@ -1,3 +1,4 @@
+# [[Guiding Bolt]]
 **Scalable: +R2 Radiant**
 Range: 18 Tiles
 Damage: R3 Radiant

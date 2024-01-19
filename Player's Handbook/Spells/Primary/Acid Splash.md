@@ -1,3 +1,4 @@
+# [[Acid Splash]]
 **Scalable: +R2 Acid**
 Range: Six Tiles
 Damage: R3 Acid

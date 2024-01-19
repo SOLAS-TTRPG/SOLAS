@@ -1,3 +1,4 @@
+# [[Ice Knife]]
 **Scalable: +R2 Cold**
 Range: Six Tiles
 Damage: R3 Cold

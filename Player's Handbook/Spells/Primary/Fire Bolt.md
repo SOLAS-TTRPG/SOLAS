@@ -1,3 +1,4 @@
+# [[Fire Bolt]]
 **Scalable: +R2 Fire**
 Range: 24 Tiles
 Damage: R3 Fire
