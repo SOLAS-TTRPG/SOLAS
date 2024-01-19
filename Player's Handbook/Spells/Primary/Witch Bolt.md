@@ -1,4 +1,4 @@
-# [[Witch Bolt]]
+# [Witch Bolt](Witch%20Bolt.md)
 ***Concentration***
 **Scalable: +R2 Lightning**
 Range: 12 Tiles

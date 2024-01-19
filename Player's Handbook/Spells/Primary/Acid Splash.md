@@ -1,4 +1,4 @@
-# [[Acid Splash]]
+# [Acid Splash](Acid%20Splash.md)
 **Scalable: +R2 Acid**
 Range: Six Tiles
 Damage: R3 Acid

@@ -1,4 +1,4 @@
-# [[Ray of Frost]]
+# [Ray of Frost](Ray%20of%20Frost.md)
 **Scalable: +R2 Cold**
 Range: Twelve Tiles
 Damage: R3 Cold

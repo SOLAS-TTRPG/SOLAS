@@ -75,26 +75,26 @@ These boons are sorted into **classes** to help keep track of prerequisites, but
 ### Strength
 Strength-based classes rare known for their physical strength to brute force their way through obstacles and situations alike.
 
-- **[[Barbarian]] (Martial)**
-- **[[Evoker]] (Caster)**
+- **[Barbarian](Barbarian.md) (Martial)**
+- **[Evoker](Evoker.md) (Caster)**
 
 ### Dexterity
 Dexterity-based classes rely on their deftness and agility, their goals being success through sheer physical perfection.
 
-- **[[Bard]] (Caster)**
-- **[[Duelist]] (Martial)**
+- **[Bard](Bard.md) (Caster)**
+- **[Duelist](Duelist.md) (Martial)**
 
 ### Constitution
 Constitution-based classes rely on their ability to just keep pushing, their wills and bodies toughened to survive much more strain.
 
-- **[[Alchemist]] (Caster)** 
-- **[[Champion]] (Martial)**
+- **[Alchemist](Alchemist.md) (Caster)** 
+- **[Champion](Champion.md)(Martial)**
 
 ### Mind
 Mind-based classes use their knowledge of inner workings (people and the cosmos alike) to create favorable situations where success is guaranteed.
 
-- **[[Arcanist]] (Caster)**
-- **[[Ranger]] (Martial)**
+- **[Arcanist](Arcanist.md) (Caster)**
+- **[Ranger](Ranger.md) (Martial)**
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your **Primary Attributes**, and if at an appropriate level (one, four, seven, ten, thirteen, sixteen, and nineteen) you also receive another **Boon**! Characters can (and should!) dip into multiple classes for different boons to build up who your character is.
@@ -220,14 +220,11 @@ To cast a spell, you must spend **one stamina** as well as its **focus cost**. A
 ## Primary Spells
 These spells cost two focus to cast.
 
-- [[Acid Splash]]
-- [[Eldritch Blast]]
-- [[Fire Bolt]]
-- [[Guiding Bolt]]
-- [[Ice Knife]]
-- [[Poison Spray]]
-- [[Ray of Frost]]
-- [[Witch Bolt]]
-
-## Secondary Spells
-WIP
+- [Acid Splash](Acid%20Splash.md)
+- [Eldritch Blast](Eldritch%20Blast.md)
+- [Fire Bolt](Fire%20Bolt.md)
+- [Guiding Bolt](Guiding%20Bolt.md)
+- [Ice Knife](Ice%20Knife.md)
+- [Poison Spray](Poison%20Spray.md)
+- [Ray of Frost](Ray%20of%20Frost.md)
+- [Witch Bolt](Witch%20Bolt.md)
