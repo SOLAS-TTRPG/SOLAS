@@ -1,7 +1,7 @@
 # Welcome to SOLAS
 The Simply Organized, Lightweight Adventure System by Cooper Ott. A Tabletop Roleplaying Game System designed for easier accessibility and flexibility.
 
-| [Player's Handbook](Player's%20Handbook/Player's%20Handbook.md) | [SOLAS Character Sheet](Character%20Sheet/SOLAS%20Character%20Sheet.pdf) |
+| [Player Handbook](Player%20Handbook/Player%20Handbook.md) | [SOLAS Character Sheet](Character%20Sheet/SOLAS%20Character%20Sheet.pdf) |
 | ---- | ---- |
 | A great place to start! You can pick up the rules and start playing in the same afternoon | Totally printable! But also please see [How to Print](How%20to%20Print.md) |
 
