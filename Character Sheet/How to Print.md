@@ -1,4 +1,4 @@
 # How to Print
-The [SOLAS Character Sheet](Character%20Sheet/SOLAS%20Character%20Sheet.pdf) has had a lot of time and effort put into it to make sure that it would be easily printed in a variety of situations. It's specifically made for US Letter paper (8.5 inches by 11 inches), with quarter-inch margins built-in (aka don't add your own, it'll get weird).
+The [SOLAS Character Sheet](SOLAS%20Character%20Sheet.pdf) has had a lot of time and effort put into it to make sure that it would be easily printed in a variety of situations. It's specifically made for US Letter paper (8.5 inches by 11 inches), with quarter-inch margins built-in (aka don't add your own, it'll get weird).
 
 If you only require one sheet, you can print it in landscape format with spells on the right side. To save paper with multiple character sheets (because how are you playing this by yourself?) you can print sheets front and back flipped on the **short** edge, and then cut them in half for front-and-back space saving sheets.

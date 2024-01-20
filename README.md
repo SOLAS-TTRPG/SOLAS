@@ -3,7 +3,7 @@ The Simply Organized, Lightweight Adventure System by Cooper Ott. A Tabletop Rol
 
 | [Player Handbook](Player%20Handbook/Player%20Handbook.md) | [SOLAS Character Sheet](Character%20Sheet/SOLAS%20Character%20Sheet.pdf) |
 | ---- | ---- |
-| A great place to start! You can pick up the rules and start playing in the same afternoon | Totally printable! But also please see [How to Print](How%20to%20Print.md) |
+| A great place to start! You can pick up the rules and start playing in the same afternoon | Totally printable! But also please see [How to Print](Character%20Sheet/How%20to%20Print.md) |
 
 # Preface
 The main goals of TTRPGs are to provide exploration, social interaction, and combat for a group with a common interest in storytelling. Unfortunately, a lot have really complex systems that stop new players from picking up the rules and start playing that same day.
