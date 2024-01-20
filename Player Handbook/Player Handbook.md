@@ -87,14 +87,14 @@ Dexterity-based classes rely on their deftness and agility, their goals being su
 ### Constitution
 Constitution-based classes rely on their ability to just keep pushing, their wills and bodies toughened to survive much more strain.
 
-- **[Alchemist](Classes/Alchemist.md) (Caster)**
+- **[Restorationist](Classes/Restorationist.md) (Caster)**
 - **[Champion](Classes/Champion.md)(Martial)**
 
 ### Mind
 Mind-based classes use their knowledge of inner workings (people and the cosmos alike) to create favorable situations where success is guaranteed.
 
 - **[Arcanist](Classes/Arcanist.md) (Caster)**
-- **[Ranger](Classes/Ranger.md) (Martial)**
+- **[Wanderer](Classes/Wanderer.md) (Martial)**
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your **Primary Attributes**, and if at an appropriate level (one, four, seven, ten, thirteen, sixteen, and nineteen) you also receive another **Boon**! Characters can (and should!) dip into multiple classes for different boons to build up who your character is.

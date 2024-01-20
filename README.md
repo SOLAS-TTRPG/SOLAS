@@ -6,11 +6,14 @@ The Simply Organized, Lightweight Adventure System by Cooper Ott. A Tabletop Rol
 | A great place to start! You can pick up the rules and start playing in the same afternoon | Totally printable! But also please see [How to Print](Character%20Sheet/How%20to%20Print.md) |
 
 # Preface
-The main goals of TTRPGs are to provide exploration, social interaction, and combat for a group with a common interest in storytelling. Unfortunately, a lot have really complex systems that stop new players from picking up the rules and start playing that same day.
+The main goals of Tabletop Roleplaying Games (TTRPGs) are to provide exploration, social interaction, and combat for a group with a common interest in storytelling.
 
-The goal of SOLAS is to do that. A dead-simple system that uses players' knowledge of storytelling to allow them to quickly understand their options and get started playing with any type of story they want to tell. While most of SOLAS is flavored as Medieval fantasy with a dose of Lovecraft, it has the flexibility to accommodate many other settings, have fun with it and let me know if you cook up something crazy!
+Some TTRPGs make this overly cumbersome with tons of rolling, rules with caveat rules, and systems that might work mechanically but don't make sense. Barrier to entry is just way too high for most, whether in complexity, cost, or both.
 
-I grew up playing first edition Dungeons and Dragons (copyright, WotC and Hasbro), and when I moved to fifth edition I noticed some things that didn't seem like they helped streamline the TTRPG process. Spell lists had been made confusing, with differing rules for different classes and combat having more moving pieces yet less flexibility. After playing TIME Stories (copyright, Space Cowboys) and seeing the strengths of a D6 dice system, I starting building out this system. Call of Cthulu, homebrewed DnD with friends, and a fan-made Hollow Knight-inspired TTRPG, all helped inform the SOLAS mechanics to make it more adaptable, and quicker to learn for newcomers.
+SOLAS is an attempt to correct these issues in larger systems by providing an extremely pick-up-and-playable rule set that even players who are unfamiliar with TTRPGs can learn quickly. The goal is to provide a dead-simple system that allows for quick understanding of available options, while providing room for diving in and getting creative.
+
+# About the Creator
+I got introduced to TTRPGs with Advanced Dungeons and Dragons (copyright Hasbro), and was totally captured by it. Over time I branched out to 5e, and got inspired to run my own campaigns from T.I.M.E. Stories (copyright Space Cowboys) and Call of Cthulu (copyright Chaosium). After seeing straightforward aspects of other systems that still allowed for player freedom and creativity, I started running my own campaigns and one shots with my own system: something lighter to fit me and my player's needs (less crunchy and better customization).
 
 And that's where we are today! Thanks for checking it out.
 
