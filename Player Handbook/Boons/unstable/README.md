@@ -1,0 +1,2 @@
+# Warning
+These boons are in active development/playtesting, and are not suitable for balanced or long term play. Please only use these if you are willing to provide feedback and/or suggestions. Thanks!

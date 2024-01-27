@@ -66,16 +66,14 @@ Start your character with one point in each of your **Primary Attributes** (Stre
 You then must figure out your other scores (focus, speed, etc), referring back to the **Primary Attributes**.
 
 ## Choosing Boons
-As your character grows in their strengths and areas of expertise, they gain **boons**, which are unique skills that shape how your character interacts with the world. You begin at level one by selecting the primary boon for your chosen class.
+As your character grows in their strengths and areas of expertise, they gain **boons**, which are unique skills that shape how your character interacts with the world. You begin at level one with selecting a primary boon.
 
-These boons are sorted into **classes** to help keep track of prerequisites, but do not feel locked into a class! Classes are general modes of problem solving, based on classic archetypes and the main stat their abilities and identity rely on.
-
-**Note**. Each statistic will have at least one martial (meaning physical combat) and one caster (using spells) class, to allow for better player customization.
+Boons are categorized with which builds they were designed for: casters, martials, preferred primary attribute, etc. These are simply suggestions, as any boon can be taken by any character, and mixing and matching is part of the fun when playing this game.
 
 ### Strength
 Strength-based classes rare known for their physical strength to brute force their way through obstacles and situations alike.
 
-- **[Barbarian](Classes/Barbarian.md) (Martial)**
+- **[Warrior](Classes/Warrior.md) (Martial)**
 - **[Evoker](Classes/Evoker.md) (Caster)**
 
 ### Dexterity
@@ -87,14 +85,14 @@ Dexterity-based classes rely on their deftness and agility, their goals being su
 ### Constitution
 Constitution-based classes rely on their ability to just keep pushing, their wills and bodies toughened to survive much more strain.
 
-- **[Restorationist](Classes/Restorationist.md) (Caster)**
-- **[Champion](Classes/Champion.md)(Martial)**
+- **[Paladin](Classes/Paladin.md) (Martial)**
+- **[Cleric](Classes/Cleric.md) (Caster)**
 
 ### Mind
 Mind-based classes use their knowledge of inner workings (people and the cosmos alike) to create favorable situations where success is guaranteed.
 
 - **[Arcanist](Classes/Arcanist.md) (Caster)**
-- **[Wanderer](Classes/Wanderer.md) (Martial)**
+- **[Ranger](Classes/Ranger.md) (Martial)**
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your **Primary Attributes**, and if at an appropriate level (one, four, seven, ten, thirteen, sixteen, and nineteen) you also receive another **Boon**! Characters can (and should!) dip into multiple classes for different boons to build up who your character is.
