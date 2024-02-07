@@ -213,13 +213,14 @@ There is magic out in the world, and some have been able to hone their minds to 
 
 To cast a spell, you must spend **one stamina** as well as its **focus cost**. A spell failing (no damage on the roll, targets making their checks, etc) still expend this amount. If you don't have enough focus OR stamina, you cannot use it. Some spells require concentration, meaning that if your heart is reduced, or you cast another spell, the spell ends.
 
-***Scalable***. Some spells scale with the ability of your caster. Damage could increase, and area of effect could get bigger, number of targets, etc. Each scalable spell will be specified, as well as how the spell scales with your level. Spells scale with your **Mind Score**, after two. If you had a mind score of four, you would add the **scalable** effect twice.
+***Scalable***. Some spells scale with the ability of your caster. Damage could increase, and area of effect could get bigger, number of targets, etc. Each scalable spell will be specified, as well as how the spell scales. You can elect to spend additional **focus** points when you cast a scalable spell, and for each one you spend, the scalable effect applies (stacking).
 
 ## Primary Spells
 These spells cost two focus to cast.
 
 - [Acid Splash](Spells/Primary/Acid%20Splash.md)
 - [Eldritch Blast](Spells/Primary/Eldritch%20Blast.md)
+- [Electrify Armament](Spells/Primary/Electrify%20Armament.md)
 - [Fire Bolt](Spells/Primary/Fire%20Bolt.md)
 - [Guiding Bolt](Spells/Primary/Guiding%20Bolt.md)
 - [Ice Knife](Spells/Primary/Ice%20Knife.md)
