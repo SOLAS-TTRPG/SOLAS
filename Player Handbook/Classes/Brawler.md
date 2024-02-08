@@ -5,4 +5,4 @@ Untamed warriors fueled by primal fury, embodying the raw essence of chaos and u
 The following boons characterize the [Brawler](Brawler.md):
 
 - [Rage](../../Player%20Handbook/Boons/Rage.md)
-- [Unarmored Defense](../Boons/unstable/Unarmored%20Defense.md)
+- [Unarmored Defense](../Boons/Unarmored%20Defense.md)

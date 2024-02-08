@@ -6,4 +6,5 @@ The following boons characterize the [Skirmisher](Skirmisher.md):
 
 - [Finesse](../Boons/Finesse.md)
 - [Hand to Hand](../Boons/Hand%20to%20Hand.md)
+- [Unarmored Defense](../Boons/Unarmored%20Defense.md)
 - [Untapped Reserves](../Boons/Untapped%20Reserves.md)

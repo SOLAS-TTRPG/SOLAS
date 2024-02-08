@@ -4,9 +4,9 @@ Your unarmed strikes (punches, kicks, etc) are considered to be light melee weap
 *You have honed your body into a lethal weapon, capable of delivering flurried strikes to break down enemies' resolves. Your mental focus on these strikes set you apart from other fighters, leaving your enemies reeling from your martial mastery.*
 
 # Upgrades
-When you are selecting a boon, you can instead choose one of the following upgrades, provided you have previously taken [Rage](Rage.md)
+When you are selecting a boon, you can instead choose one of the following upgrades, provided you have previously taken [Hand to Hand](Hand%20to%20Hand.md)
 
-### Aspect of the Storm
-While raging, the area around you (2 tile radius) becomes stormy, based on a harsh and unforgiving environment, and all speed in this radius is halved (excluding yours). You can spend a stamina point to deal damage equal to the successes of a strength check. The type of this damage is selected from the **elemental** damage types when you select this boon, and can be changed immediately after a rest.
+## Stunning Strike
+By perfecting where you hit an enemy, you can turn your opponent's body against them. When you reduce another creature's heart with an unarmed strike, you can spend a focus point to attempt to stun them. The target makes a **Constitution Check** against the damage they took, and if failed, they are stunned until the end of your next turn. (Stunned: 0 Speed, and cannot spend stamina or focus)
 
-*Your rage warps the area immediately around you, transforming the ground and air into a harsh and unforgiving environment. It may become blisteringly hot like a desert, stormy like the sea, or biting cold like the tundra.*
+*The pinnacle of your martial training, you can harness your mental and physical discipline by striking with precision and accuracy, incapacitating your enemies with a single blow. Unable to defend themselves against your onslaught, you assert your dominance on the battlefield, rendering your foes powerless in the face of your martial prowess._*
