@@ -68,7 +68,7 @@ You then must figure out your other scores (focus, speed, etc), referring back t
 ## Choosing Boons
 As your character grows in their strengths and areas of expertise, they gain **boons**, which are unique skills that shape how your character interacts with the world. You begin at level one with selecting a primary boon.
 
-Boons are categorized with which builds they were designed for: casters, martials, preferred primary attribute, etc. These are simply suggestions, as any boon can be taken by any character, and mixing and matching is part of the fun when playing this game.
+Boons are categorized with which builds they were designed for: casters, martials, preferred primary attribute, etc. These are simply suggestions, as **any boon can be taken by any character**, and mixing and matching is part of the fun when playing this game.
 
 ### Strength
 Strength-based classes rare known for their physical strength to brute force their way through obstacles and situations alike.
