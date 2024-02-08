@@ -177,6 +177,11 @@ Struggle is a part of every story, and it may present itself in the form of comb
 
 When in combat, you naturally recover some of your reserves each turn. On the start of your turn (before you do anything), **your character recovers two stamina and one focus**.
 
+### Creative Combat
+Sometimes, you can opt to do something more creative than what is specifically outlined in the rules. Some common examples are below:
+
+- **Grappling**. Grabbing hold of a creature and not letting go, for one stamina. If you win a contested **Strength Check**, both you and creature's speed is considered to be 0 until the grapple is broken (the target spends a stamina to retry the contested strength check, or you choose to let go). Both you and the creature have disadvantage when attacking other creatures.
+
 ## Resting
 Your characters cannot stay awake indefinitely, and will need to recover and heal their wounds. Characters will need to rest for a total of 8 hours, up to two of which can be sitting/lying down but conscious. If characters go 24 hours without resting, they gain a **point of exhaustion**. Resting removes all points of exhaustion.
 
