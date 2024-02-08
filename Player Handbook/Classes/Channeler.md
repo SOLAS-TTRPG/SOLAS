@@ -5,3 +5,5 @@ Clerics are mysterious practitioners of divinely inspired crafts: healing, innov
 The following boons characterize the [Channeler](Channeler.md):
 
 - [Blessed Healer](../Boons/Blessed%20Healer.md)
+- [Primeval Conduit](../Boons/Primeval%20Conduit.md)
+- [Unarmored Defense](../Boons/Unarmored%20Defense.md)

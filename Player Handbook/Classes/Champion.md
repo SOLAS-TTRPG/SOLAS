@@ -6,3 +6,5 @@ The following boons characterize the [Champion](Champion.md):
 
 - [Paladins Presence](../Boons/Paladins%20Presence.md)
 - [Stalwart Guardian](../Boons/Stalwart%20Guardian.md)
+- [Unarmored Defense](../Boons/Unarmored%20Defense.md)
+
