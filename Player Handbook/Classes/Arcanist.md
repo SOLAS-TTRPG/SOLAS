@@ -6,3 +6,5 @@ The following boons characterize the [Arcanist](Arcanist.md):
 
 - [Innate Arcana](../../Player%20Handbook/Boons/Innate%20Arcana.md)
 - [Warcaster](../../Player%20Handbook/Boons/Warcaster.md)
+
+*Inspired by Wizard*

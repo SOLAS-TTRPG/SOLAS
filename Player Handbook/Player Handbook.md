@@ -73,26 +73,26 @@ Boons are categorized with which builds they were designed for: casters, martial
 ### Strength
 Strength-based classes rare known for their physical strength to brute force their way through obstacles and situations alike.
 
-- **[Warrior](Classes/Warrior.md) (Martial)**
+- **[Brawler](Classes/Brawler.md) (Martial)**
 - **[Evoker](Classes/Evoker.md) (Caster)**
 
 ### Dexterity
 Dexterity-based classes rely on their deftness and agility, their goals being success through sheer physical perfection.
 
-- **[Bard](Classes/Bard.md) (Caster)**
-- **[Duelist](Classes/Duelist.md) (Martial)**
+- **[Enchanter](Classes/Enchanter.md) (Caster)**
+- **[Skirmisher](Classes/Skirmisher.md) (Martial)**
 
 ### Constitution
 Constitution-based classes rely on their ability to just keep pushing, their wills and bodies toughened to survive much more strain.
 
-- **[Paladin](Classes/Paladin.md) (Martial)**
-- **[Cleric](Classes/Cleric.md) (Caster)**
+- **[Champion](Classes/Champion.md) (Martial)**
+- **[Channeler](Classes/Channeler.md) (Caster)**
 
 ### Mind
 Mind-based classes use their knowledge of inner workings (people and the cosmos alike) to create favorable situations where success is guaranteed.
 
 - **[Arcanist](Classes/Arcanist.md) (Caster)**
-- **[Ranger](Classes/Ranger.md) (Martial)**
+- **[Infiltrator](Classes/Infiltrator.md) (Martial)**
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your **Primary Attributes**, and if at an appropriate level (one, four, seven, ten, thirteen, sixteen, and nineteen) you also receive another **Boon**! Characters can (and should!) dip into multiple classes for different boons to build up who your character is.
