@@ -4,4 +4,5 @@ Nimble maestros of the arcane, weaving enchantments with finesse, their dexterou
 # Boons
 The following boons characterize the [Enchanter](Enchanter.md):
 
-- [Inspiration](../../Player%20Handbook/Boons/Inspiration.md)
+- [Alchemical Craft](../Boons/Alchemical%20Craft.md)
+- [Inspiration](../Boons/Inspiration.md)

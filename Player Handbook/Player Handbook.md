@@ -225,7 +225,7 @@ These spells cost two focus to cast.
 
 - [Acid Splash](Spells/Primary/Acid%20Splash.md)
 - [Eldritch Blast](Spells/Primary/Eldritch%20Blast.md)
-- [Electrify Armament](Spells/Primary/Electrify%20Armament.md)
+- [Electrify Armament](Spells/unstable/Electrify%20Armament.md)
 - [Fire Bolt](Spells/Primary/Fire%20Bolt.md)
 - [Guiding Bolt](Spells/Primary/Guiding%20Bolt.md)
 - [Ice Knife](Spells/Primary/Ice%20Knife.md)
