@@ -1,5 +1,5 @@
 .obsidian/
-hidden/
+*hidden/
 assets/
 .trash
 *.ods

@@ -1,9 +1,9 @@
 # Welcome to SOLAS
 The Simply Organized, Lightweight Adventure System by Cooper Ott. A Tabletop Roleplaying Game System designed for easier accessibility and flexibility.
 
-| [Player Handbook](Player%20Handbook/Player%20Handbook.md) | [SOLAS Character Sheet](Character%20Sheet/SOLAS%20Character%20Sheet.pdf) |
-| ---- | ---- |
-| A great place to start! You can pick up the rules and start playing in the same afternoon | Totally printable! But also please see [How to Print](Character%20Sheet/How%20to%20Print.md) |
+| [Player Handbook](Player%20Handbook/Player%20Handbook.md)                                  | [SOLAS Character Sheet](Character%20Sheet/SOLAS%20Character%20Sheet.pdf)                      | [SOLAS Preview](preview/README.md)          |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| A great place to start! You can pick up the rules and start playing in the same afternoon. | Totally printable! But also please see [How to Print](Character%20Sheet/How%20to%20Print.md). | Check out what I'm planning next for SOLAS! |
 
 # Preface
 The main goals of Tabletop Roleplaying Games (TTRPGs) are to provide exploration, social interaction, and combat for a group with a common interest in storytelling.
@@ -18,6 +18,6 @@ I got introduced to TTRPGs with Advanced Dungeons and Dragons (copyright Hasbro)
 And that's where we are today! Thanks for checking it out.
 
 # Thanks
-Thanks to all of my friends who I shoveled this system onto, just to rules a couple months later. Sorry for the headaches, but hopefully the fun stories outweighed them.
+Thanks to all of my friends who I shoveled this system onto, just to change rules a couple months later. Sorry for the headaches, but hopefully the fun stories outweighed them.
 
-Huge thanks to Obsidian for the amazing piece of software, this would be impossible to create and maintain without it (SOLAS is not associated with Obsidian in any capacity).
+Huge thanks to [Obsidian](https://obsidian.md/) for the amazing piece of software, this would be impossible to create and maintain without it. I'm unaffiliated but still, thanks.

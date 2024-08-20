@@ -1,36 +1,10 @@
 # Introduction
-Welcome to SOLAS! It's a rules system for running tabletop role-playing games (TTRPGs) that anybody can pick up and play. TTRPGs are about getting together with others and letting a story play out, with players controlling characters of their own creation.
+Welcome to SOLAS! It's a rules system for running role-playing adventure games that anybody can pick up and play. RPGs are about getting together with others and letting a story play out, with players controlling characters of their own creation.
 
-To play, you'll need more than two people (one of whom is the Game Master, referred to as the GM), a way to take notes, and at least one standard six-sided die. Other materials are nice to have (like a few more d6s, some way to take notes), but are certainly not needed.
+To play, you'll need more than two people (one of whom is the Game Master, referred to as the GM), a way to take notes ([check out the official SOLAS Character Sheet!](/Character%20Sheet/SOLAS%20Character%20Sheet.pdf)), and at least one standard six-sided die. Other materials are nice to have (like more six-sided dice, tokens to keep track of points), but are certainly not needed.
 
-## Rolling
-A die roll is when someone rolls at least one standard six-sided die to determine an outcome. A roll of four or higher is a success (a six is worth two successes), meaning a three or lower is a failure. The “result” of a roll is how many total successes there are. In these rules, rolls are indicated in these rules by an **R**, followed by a number such as R1, R4, etc. The **R** indicates a roll, and the number after it is the number of dice that you are rolling.
-
-Sometimes a roll is specified as “advantaged” which means dice rolls succeed on a 3 or higher. Another variant is “disadvantaged” which means dice rolls succeed on a 5 or higher. Rolling a 6 is always considered to be 2 successes. Advantages and disadvantages don't stack, you can only be "advantaged" or "disadvantaged" and any amount of each cancels out.
-
-Rolls can be used to determine damage, healing, or checks of your abilities. The weapon, spell, or GM will describe what you are trying to accomplish and what attribute you will be using.
-
-## Checks
-A check is when you rely on a particular skill to determine an outcome. If your GM calls for a Dexterity Check (perhaps you've activated a trap!), you would roll a number of dice equal to your dexterity score, and count your successes. If you meet or exceed the difficulty of the check, you succeed!
-
-Checks can also be **contested**. This is where a character attempts a roll against someone else's score. If the character gets more successes that the score they're against, they succeed! These checks will be written as **Attribute Check vs Attribute**
-
-## Damage Types
-SOLAS contains many different damage types for different weapons and spells. This list can be expanded upon for your needs, but the standard categories as follows:
-
-- **Physical**: Bludgeoning, Piercing, Slashing
-- **Elemental**: Acid, Poison, Fire, Cold, Lightning
-- **Celestial**: Radiant, Necrotic, Force, Psychic
-
-## Point Pools
-These are points you can save up to spend attacking, moving, or doing spells. When combat ends, these are returned to their maximum.
-
-**Focus** is your mental concentration at any given moment. These points are used up when you use spells and certain abilities, and **one is given back at the start of each turn**.
-
-**Stamina** is your physical ableness at any given moment. These points are used up when you move or attack, and **two are given back at the start of each turn**. Every character has a max of 3 stamina points.
-
-## Primary Attributes
-Characters in the game have different attributes to describe their general skills. The number associated with each attribute is its relative effectiveness, one being the minimum possible. The categories are as follows:
+## Your Abilities
+Every character has four different abilities that are used to interact with the world, rolling checks to determine results of using a particular ability. The number associated with each attribute is its relative effectiveness, one being the minimum possible. The categories are as follows:
 
 ### Strength
 *Natural athleticism, physical power*
@@ -50,9 +24,28 @@ Your **constitution** affects your **heart** (also referred to as health and/or 
 ### Mind
 *Analytical skill, intuition*
 
-Your **mind** score is your amount of **focus** (the amount of which you have at the start of combat).
+Your **mind** score is your starting amount of **focus** (which you spend throughout combat).
 
-Your **mind** also affects what spells you know. A character can only memorize a certain number of spells at a time, this being your **mind**. The ones you have memorized can be swapped during rests, but if you don't have a spell prepared, you cannot use it. Characters with a **Mind** score higher than one can use **spells**, so check out the section to make sure you know your character's options.
+## Rolling Dice
+A die roll is when someone rolls at least one standard six-sided die to determine an outcome. A roll of four or higher is a success, and a six is worth two successes. The “result” of a roll is how many total successes there are. In these rules, rolls are indicated in these rules by an **R**, followed by a number such as **R1**, **R4**, etc. The **R** indicates a roll, and the number after it is the number of dice that you are rolling.
+
+Rolls can also be specific checks, like seeing how well you dodge a trap with a dexterity check. If your GM calls for a check of a particular ability (strength, dexterity, constitution, or mind), your roll will use a number of dice equal to your score in that ability. Checks can be contested between characters, such as a contested strength check for trying to break out of a grapple or a contested mind check to conceal/deduce a lie. The most successes wins!
+
+If a task should be relatively easy (or type of damage is very effective against an enemy), the number you have to roll above on the dice is lowered by one (threes are now successes). This is **Rolling with Advantage**. Likewise, if a task is quite tough (or your enemy is resistant to the type of damage you're dealing), the number is raised by one (fours now don't count as successes). This is **Rolling with Disadvantage**. Rolling a 6 always counts as two successes.
+
+## Damage Types
+SOLAS contains many different damage types for different weapons and spells. This list can be expanded upon for your needs, but the standard categories as follows:
+
+- **Physical**: Bludgeoning, Piercing, Slashing
+- **Elemental**: Acid, Poison, Fire, Cold, Lightning
+- **Celestial**: Radiant, Necrotic, Force, Psychic
+
+## Point Pools
+These are points you can save up to spend attacking, moving, or doing spells. When combat ends, these are returned to their maximum.
+
+**Focus** is your mental concentration at any given moment. These points are used up when you use certain abilities or spells, and **one is given back at the start of each turn**.
+
+**Stamina** is your physical ableness at any given moment. These points are used up when you move or attack, and **two are given back at the start of each turn**. Every character has a max of 3 stamina points.
 
 ## Tiles
 A tile is typically a square or hexagon on a grid, and is considered to be 5 feet (or 1.5 meters). While you may not be playing with an actual grid at all, this still describes specific distances for spells, ranges, and movement.
