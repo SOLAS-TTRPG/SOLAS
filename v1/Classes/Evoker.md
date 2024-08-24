@@ -4,5 +4,5 @@ Wielders of primal strength and cosmic destruction who harness the raw, untamed 
 # Boons
 The following boons characterize the [Evoker](Evoker.md):
 
-- [Aberrant Mind](../Boons/Aberrant%20Mind.md)
-- [Cosmic Compendium](../Boons/Cosmic%20Compendium.md)
+- [Aberrant Mind](../../v1/Boons/Aberrant%20Mind.md)
+- [Cosmic Compendium](../../v1/Boons/Cosmic%20Compendium.md)

@@ -66,26 +66,26 @@ Boons are categorized with which builds they were designed for: casters, martial
 ### Strength
 Strength-based classes rare known for their physical strength to brute force their way through obstacles and situations alike.
 
-- **[Brawler](Classes/Brawler.md) (Martial)**
-- **[Evoker](Classes/Evoker.md) (Caster)**
+- **[Brawler](../v1/Classes/Brawler.md) (Martial)**
+- **[Evoker](../v1/Classes/Evoker.md) (Caster)**
 
 ### Dexterity
 Dexterity-based classes rely on their deftness and agility, their goals being success through sheer physical perfection.
 
-- **[Enchanter](Classes/Enchanter.md) (Caster)**
-- **[Skirmisher](Classes/Skirmisher.md) (Martial)**
+- **[Enchanter](../v1/Classes/Enchanter.md) (Caster)**
+- **[Skirmisher](../v1/Classes/Skirmisher.md) (Martial)**
 
 ### Constitution
 Constitution-based classes rely on their ability to just keep pushing, their wills and bodies toughened to survive much more strain.
 
-- **[Champion](Classes/Champion.md) (Martial)**
-- **[Channeler](Classes/Channeler.md) (Caster)**
+- **[Champion](../v1/Classes/Champion.md) (Martial)**
+- **[Channeler](../v1/Classes/Channeler.md) (Caster)**
 
 ### Mind
 Mind-based classes use their knowledge of inner workings (people and the cosmos alike) to create favorable situations where success is guaranteed.
 
-- **[Arcanist](Classes/Arcanist.md) (Caster)**
-- **[Infiltrator](Classes/Infiltrator.md) (Martial)**
+- **[Arcanist](../v1/Classes/Arcanist.md) (Caster)**
+- **[Infiltrator](../v1/Classes/Infiltrator.md) (Martial)**
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your **Primary Attributes**, and if at an appropriate level (one, four, seven, ten, thirteen, sixteen, and nineteen) you also receive another **Boon**! Characters can (and should!) dip into multiple classes for different boons to build up who your character is.
@@ -216,12 +216,12 @@ To cast a spell, you must spend **one stamina** as well as its **focus cost**. A
 ## Primary Spells
 These spells cost two focus to cast.
 
-- [Acid Splash](Spells/Primary/Acid%20Splash.md)
-- [Eldritch Blast](Spells/Primary/Eldritch%20Blast.md)
-- [Electrify Armament](Spells/unstable/Electrify%20Armament.md)
-- [Fire Bolt](Spells/Primary/Fire%20Bolt.md)
-- [Guiding Bolt](Spells/Primary/Guiding%20Bolt.md)
-- [Ice Knife](Spells/Primary/Ice%20Knife.md)
-- [Poison Spray](Spells/Primary/Poison%20Spray.md)
-- [Ray of Frost](Spells/Primary/Ray%20of%20Frost.md)
-- [Witch Bolt](Spells/Primary/Witch%20Bolt.md)
+- [Acid Splash](../v1/Spells/Primary/Acid%20Splash.md)
+- [Eldritch Blast](../v1/Spells/Primary/Eldritch%20Blast.md)
+- [Electrify Armament](../v1/Spells/unstable/Electrify%20Armament.md)
+- [Fire Bolt](../v1/Spells/Primary/Fire%20Bolt.md)
+- [Guiding Bolt](../v1/Spells/Primary/Guiding%20Bolt.md)
+- [Ice Knife](../v1/Spells/Primary/Ice%20Knife.md)
+- [Poison Spray](../v1/Spells/Primary/Poison%20Spray.md)
+- [Ray of Frost](../v1/Spells/Primary/Ray%20of%20Frost.md)
+- [Witch Bolt](../v1/Spells/Primary/Witch%20Bolt.md)
