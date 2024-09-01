@@ -71,7 +71,7 @@ Boons are designed for either martials (physical fighters) or spellcasters, and 
 - [Evoker](boons/Mind/Evoker.md)
 
 ### Spellcasting
-If your focus is above one, you have the ability to cast spells! You can have a number of spells memorized equal to your maximum focus. You can swap *one* prepared spell when you rest.
+If your focus is above one, you have the ability to cast spells! You can have a number of spells memorized equal to your maximum focus. You can swap which spells you have memorized when you rest.
 
 ## Leveling Up
 After a few fights or an important story arc, the Game Master may determine that your character levels up! You may add a point to one of your character's abilities, and at appropriate levels you gain another boon.
