@@ -51,9 +51,24 @@ When you create a character, their ability scores each start at one. At level on
 ### Boons
 As your ability grows, you gain boons: unique abilities that shape how you can interact with the world. You select a boon at level one, and every three levels after that (four, seven, ten, etc.).
 
-Boons are designed for either martials (physical fighters) or spellcasters, and each are written to benefit from multiple abilities. These are just suggestions, and any boon can be taken by anyone. Get creative!
+Boons are designed for either martials (physical fighters) or spellcasters, and each are written to benefit from multiple abilities. These are just suggestions, and any boon can be taken by anyone with at least a two in that ability. Get creative!
 
-***This part of SOLAS v2 is under construction. I'm rewriting everything as fast as I can!***
+#### Strength Boons
+- [Barbarian](boons/Strength/Barbarian.md)
+- [Swashbuckler](boons/Strength/Swashbuckler.md)
+
+#### Dexterity Boons
+- [Monk](boons/Dexterity/Monk.md)
+- [Rogue](boons/Dexterity/Rogue.md)
+
+#### Constitution Boons
+- [The Last Stand](boons/Constitution/The%20Last%20Stand.md)
+- [Occultist](boons/Constitution/Occultist.md)
+
+#### Mind Boons
+- [Arcanist](boons/Mind/Arcanist.md)
+- [Devotant](boons/Mind/Devotant.md)
+- [Evoker](boons/Mind/Evoker.md)
 
 ### Spellcasting
 If your focus is above one, you have the ability to cast spells! You can have a number of spells memorized equal to your maximum focus. You can swap *one* prepared spell when you rest.
