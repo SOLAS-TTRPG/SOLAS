@@ -51,21 +51,27 @@ When you create a character, their ability scores each start at one. At level on
 ### Boons
 As your ability grows, you gain boons: unique abilities that shape how you can interact with the world. You select a boon at level one, and every three levels after that (four, seven, ten, etc.).
 
-Boons are designed for either martials (physical fighters) or spellcasters, and each are written to benefit from multiple abilities. These are just suggestions, and any boon can be taken by anyone with at least a two in that ability. Get creative!
-
 #### Strength Boons
+**Minimum Two Strength**
+
 - [Barbarian](boons/Strength/Barbarian.md)
 - [Swashbuckler](boons/Strength/Swashbuckler.md)
 
 #### Dexterity Boons
+**Minimum Two Dexterity**
+
 - [Monk](boons/Dexterity/Monk.md)
 - [Rogue](boons/Dexterity/Rogue.md)
 
 #### Constitution Boons
+**Minimum Two Constitution**
+
 - [The Last Stand](boons/Constitution/The%20Last%20Stand.md)
 - [Occultist](boons/Constitution/Occultist.md)
 
 #### Mind Boons
+**Minimum Two Mind**
+
 - [Arcanist](boons/Mind/Arcanist.md)
 - [Devotant](boons/Mind/Devotant.md)
 - [Evoker](boons/Mind/Evoker.md)
@@ -74,7 +80,7 @@ Boons are designed for either martials (physical fighters) or spellcasters, and 
 If your focus is above one, you have the ability to cast spells! You can have a number of spells memorized equal to your maximum focus. You can swap which spells you have memorized when you rest.
 
 ## Leveling Up
-After a few fights or an important story arc, the Game Master may determine that your character levels up! You may add a point to one of your character's abilities, and at appropriate levels you gain another boon.
+After a few fights or an important story arc, the Game Master may determine that your character levels up! You may add a point to one of your character's abilities, and at appropriate levels you gain another boon (or take an upgrade to a boon you already have).
 
 # Parts of the Game
 Some general definitions and explanations. It's useful to at least skim this section, even if you're familiar with other tabletop games.
