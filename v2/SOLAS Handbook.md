@@ -67,7 +67,7 @@ As your ability grows, you gain boons: unique abilities that shape how you can i
 **Minimum Two Constitution**
 
 - [Paladin](boons/Constitution/Paladin.md)
-- [Ranger WIP](boons/Constitution/Ranger%20WIP.md)
+- [Ranger](boons/Constitution/Ranger.md)
 
 #### Mind Boons
 **Minimum Two Mind**

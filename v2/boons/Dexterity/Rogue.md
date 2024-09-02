@@ -1,6 +1,4 @@
 # [Rogue](Rogue.md)
 **Tagline under construction**
 
-Tactical insight. By spending **one focus**, you may add the successes of a Mind check to a dexterity-based attack.
-
-**Hiding and stuff**
+When you make a dexterity-based attack, you can spend **one focus** to roll a Mind check. Each success is worth five feet of movement you can take after your attack, with no stamina cost.
