@@ -7,3 +7,10 @@ Your maximum number of known spells is increased by your Strength.
 The [Evoker](Evoker.md) Spell List is as follows:
 
 - Whoops, I'm not done with this yet
+
+
+Melee range setup - redirect, push, etc.
+
+Mesh with the battle more than damage on a turn.
+
+Attacks could be swapped to a damage type.

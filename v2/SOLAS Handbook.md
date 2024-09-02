@@ -66,8 +66,8 @@ As your ability grows, you gain boons: unique abilities that shape how you can i
 #### Constitution Boons
 **Minimum Two Constitution**
 
-- [The Last Stand](boons/Constitution/The%20Last%20Stand.md)
-- [Occultist](boons/Constitution/Occultist.md)
+- [Paladin](boons/Constitution/Paladin.md)
+- [Ranger WIP](boons/Constitution/Ranger%20WIP.md)
 
 #### Mind Boons
 **Minimum Two Mind**

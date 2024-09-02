@@ -7,3 +7,7 @@ Your maximum number of known spells is increased by your Constitution.
 The [Devotant](Devotant.md) Spell List is as follows:
 
 - Whoops, I'm not done with this yet
+
+Warcaster big idea for an upgrade - con check if take damage to not lose focus on spell.
+
+Buffing lifestealer
