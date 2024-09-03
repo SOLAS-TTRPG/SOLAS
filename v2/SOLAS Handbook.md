@@ -133,4 +133,17 @@ Exhaustion is not removed by healing, only resting does this.
 Once you reach zero heart, your mortality is at stake. On the start of your turn when you're fading, you gain a point of exhaustion. If you take damage during your turn, your heart still reduces in the negative range. Healing must bring your heart back up to **above** zero to no longer be fading. If your turn ends when you are at zero heart or below and four points of exhaustion, your character dies.
 
 # Spells
-***This part of SOLAS v2 is under construction. I'm rewriting everything as fast as I can!***
+There is plenty of magic in this world, and many adventurers (and monsters) have learned to harness this. As for you, you can have a certain number of spells known, equal to your Mind. When you rest, you have to option of forgetting spells to select new ones.
+
+When you cast a spell, you expend **one stamina** as well as its **focus cost**. If you don't have enough of either, you can't cast the spell. Some spells require concentration: if your heart is reduced or you cast another spell, your concentration ends.
+
+**Scaling Spells**. Some spells scale with your abilities as a spellcaster. By spending *additional* focus points when you cast a spell, you could increase the damage, range, effect, or more, as specified by the spell.
+
+## Apprentice Spells
+**Spells that many people can cast | Cost: Two Focus**
+
+## Mage Spells
+**Achieved through devoted study | Cost: Four Focus**
+
+## Archmage Spells
+**Legendary casters created these | Cost: Six Focus**
