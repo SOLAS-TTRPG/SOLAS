@@ -28,7 +28,7 @@ Brought to you by Cooper Ott (OttCS)
 	- [Archmage Spells](#Archmage%20Spells)
 
 # Welcome to SOLAS
-SOLAS is a simply organized, lightweight adventure system. It focuses on theater-of-the-mind adventure in a sword and sorcery world, where it provides a pick-up-and-play experience for rpg beginners and seasoned experts alike.
+SOLAS is a simply organized, lightweight adventure system. It focuses on theater-of-the-mind adventure in a sword and sorcery world, where it provides a pick-up-and-play experience for ttrpg beginners and seasoned veteran alike.
 
 To play, you'll need more than two people (one of whom is the Game Master, referred to as the GM), a way to take notes ([check out the official SOLAS Character Sheet!](/Character%20Sheet/SOLAS%20Character%20Sheet.pdf)), and at least one standard six-sided die. Other materials are nice to have (like more six-sided dice, tokens to keep track of points), but are certainly not needed.
 
