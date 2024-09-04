@@ -25,8 +25,8 @@ This also is to address an issue in SOLAS currently...
 ## Caster Identity
 Spells are currently available for all. While that's nice and leads to just picking your favorites, it kind of clamps down on creativity. If you can always use the best spell, why would you use the second best, even if it fits your character better?
 
-**Master of Magicks** will be a new feature, optional sets of spells that allow players to further dial in their character's identity. Each one will focus on a specific aspect of spellcraft: The sorcerer and warlock lists of 5e are combined to become the **Evoker**, the bard and wizard lists are combined into the **Arcanist**, and cleric and druid lists are combined into the **Devotant**. These optional spell list expansions will provide unique and tailored experiences for casters looking to improve their incantations.
+**Master of Magicks** will be a new feature, optional sets of spells that allow players to further dial in their character's identity. Each one will focus on a specific aspect of spellcraft: The sorcerer and warlock lists of 5e are combined to become the [Evoker](../v2/boons/Mind/Evoker.md), the bard and wizard lists are combined into the [Arcanist](../v2/boons/Mind/Arcanist.md), and cleric and druid lists are combined into the [Devotant](../v2/boons/Mind/Devotant.md). These optional spell list expansions will provide unique and tailored experiences for casters looking to improve their incantations.
 
-**Evokers.** Focused on Strength. Since they'll have the ability to melee, spells should be shorter range.
-**Arcanists.** Focused on Dexterity. With access to long range weapons, spells should be longer range. Likely area of effects that could affect the caster and/or allies to discourage casting on yourself.
-**Devotants.** Focused on Constitution. Long range buffs and support, close range defensive.
+**Evokers.** Focused on Strength. Since they'll have the ability to melee, spells should be shorter range and improve melee combat effectiveness. Spellblade sort  of type.
+**Arcanists.** Focused on Dexterity. With access to long range weapons, spells should be longer range. Likely area of effects that could affect the caster and/or allies to discourage casting on yourself. Arcane cannon type.
+**Devotants.** Focused on Constitution. Long range buffs and support, close range defensive. Unique spell scaling option for using heart, as these casters have a lot of it.

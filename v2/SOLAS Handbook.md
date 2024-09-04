@@ -1,3 +1,32 @@
+# [SOLAS Handbook](SOLAS%20Handbook.md)
+**The Simply Organized, Lightweight Adventure System**
+
+Brought to you by Cooper Ott (OttCS)
+
+# Table of Contents
+1. [Welcome to SOLAS](#Welcome%20to%20SOLAS)
+	- [The Game Master](#The%20Game%20Master)
+	- [The Players](#The%20Players)
+2. [Characters](#Characters)
+	- [Abilities](#Abilities)
+	- [Point Pools](#Point%20Pools)
+	- [Creating a Character](#Creating%20a%20Character)
+	- [Boons](#Boons)
+	- [Leveling Up](#Leveling%20Up)
+3. [Parts of the Game](#Parts%20of%20the%20Game)
+	- [Rolling Dice](#Rolling%20Dice)
+	- [Damage Types](#Damage%20Types)
+	- [Ranges](#Ranges)
+4. [Playing the Game](#Playing%20the%20Game)
+	- [Combat Order](#Combat%20Order)
+	- [Resting](#Resting)
+	- [Exhaustion](#Exhaustion)
+	- [Fading](#Fading)
+5. [Spells](#Spells)
+	- [Apprentice Spells](#Apprentice%20Spells)
+	- [Mage Spells](#Mage%20Spells)
+	- [Archmage Spells](#Archmage%20Spells)
+
 # Welcome to SOLAS
 SOLAS is a simply organized, lightweight adventure system. It focuses on theater-of-the-mind adventure in a sword and sorcery world, where it provides a pick-up-and-play experience for rpg beginners and seasoned experts alike.
 
@@ -46,38 +75,38 @@ When you create a character, their ability scores each start at one. At level on
 
 **Heart.** Your overall health, equal to your level times your constitution, plus five.
 
-**Focus.** Your maximum focus is equal to your mind score. If your focus is greater than one, you have the ability to cast spells!
+**Focus.** Your maximum focus is equal to your mind score. If your focus is greater than one, you have the ability to cast spells! You can have access to a number of spells equal to your Mind score, and can swap what you have ready during rests.
 
-### Boons
+### Selecting Boons
 As your ability grows, you gain boons: unique abilities that shape how you can interact with the world. You select a boon at level one, and every three levels after that (four, seven, ten, etc.).
 
-#### Strength Boons
+## Boons
+Unique abilities that shape how you can interact with the world. These generally will affect how effective you are in combat, but sometimes they can come in handy in unlikely places!
+
+### Strength Boons
 **Minimum Two Strength**
 
 - [Barbarian](boons/Strength/Barbarian.md)
 - [Swashbuckler](boons/Strength/Swashbuckler.md)
 
-#### Dexterity Boons
+### Dexterity Boons
 **Minimum Two Dexterity**
 
 - [Monk](boons/Dexterity/Monk.md)
 - [Rogue](boons/Dexterity/Rogue.md)
 
-#### Constitution Boons
+### Constitution Boons
 **Minimum Two Constitution**
 
 - [Paladin](boons/Constitution/Paladin.md)
 - [Ranger](boons/Constitution/Ranger.md)
 
-#### Mind Boons
+### Mind Boons
 **Minimum Two Mind**
 
 - [Arcanist](boons/Mind/Arcanist.md)
 - [Devotant](boons/Mind/Devotant.md)
 - [Evoker](boons/Mind/Evoker.md)
-
-### Spellcasting
-If your focus is above one, you have the ability to cast spells! You can have a number of spells memorized equal to your maximum focus. You can swap which spells you have memorized when you rest.
 
 ## Leveling Up
 After a few fights or an important story arc, the Game Master may determine that your character levels up! You may add a point to one of your character's abilities, and at appropriate levels you gain another boon (or take an upgrade to a boon you already have).
