@@ -7,16 +7,16 @@ Brought to you by Cooper Ott (OttCS)
 1. [Welcome to SOLAS](#Welcome%20to%20SOLAS)
 	- [The Game Master](#The%20Game%20Master)
 	- [The Players](#The%20Players)
-2. [Characters](#Characters)
+2. [Parts of the Game](#Parts%20of%20the%20Game)
+	- [Rolling Dice](#Rolling%20Dice)
+	- [Damage Types](#Damage%20Types)
+	- [Ranges](#Ranges)
+3. [Characters](#Characters)
 	- [Abilities](#Abilities)
 	- [Point Pools](#Point%20Pools)
 	- [Creating a Character](#Creating%20a%20Character)
 	- [Boons](#Boons)
 	- [Leveling Up](#Leveling%20Up)
-3. [Parts of the Game](#Parts%20of%20the%20Game)
-	- [Rolling Dice](#Rolling%20Dice)
-	- [Damage Types](#Damage%20Types)
-	- [Ranges](#Ranges)
 4. [Playing the Game](#Playing%20the%20Game)
 	- [Combat Order](#Combat%20Order)
 	- [Resting](#Resting)
@@ -43,73 +43,6 @@ You tell a story, featuring your players and their actions. You lay out a scene 
 Your character is your way of interacting with the world of your Game Master's design: a place full of mystery and monsters.
 
 Your Game Master describes a scene, and you tell them what your character does. Get creative in it, and keep the setting and themes in mind. Some Game Masters love lots of action and combat, with cunning plot lines and grand reveals. Some like tons of role-play, with anything from absurd to serious moments. Both of these are great ways to play, but it's really hard to hit every beat in a couple hours. Treat your GM with respect for what they've made, and have fun with their creation.
-
-# Characters
-Whether it's a player's character or a random tavern keeper that greets them, characters fill the world of the GM's design. Most likely.
-
-## Abilities
-Every character has four different abilities which are used to interact with the world around them.
-
-**Strength.** Natural athleticism and physical power. How hard you hit things, what kind of armor you can wear, etc.
-
-**Dexterity.** Physcial agility, reflexes. How quick you are, both in terms of top speed and dodging things.
-
-**Constitution.** Physical and mental toughness. How much of a beating you can take before falling.
-
-**Mind.** Analytical skill and intuition. This affects your ability to cast spells as well.
-
-## Point Pools
-These are what you spend when you attack, move, or cast spells. When combat ends, these are returned to their respective maximums.
-
-**Focus.** Your mental concentration at any given moment. These points are used up when you use certain abilities or spells, and **one is given back at the start of each of your turns**. Your maximum stamina is equal to your mind score.
-
-**Stamina.** Your physical readiness at any given moment. These points are used up when you move, attack, or cast a spell, and **two are given back at the start of each turn**. Every character has a max of 3 stamina points.
-
-## Creating a Character
-To play the game, you have to create a character, a member of your Game Master's setting. You'll need to think about the character you'll want to play before you start writing on the [SOLAS Character Sheet](../Character%20Sheet/SOLAS%20Character%20Sheet.pdf). What did they do before becoming an adventurer? What are they motivated by? Who do they trust or mistrust?
-
-### Ability Scores
-When you create a character, their ability scores each start at one. At level one (and each time you level up), you get to add a point to an ability of your choice.
-
-**Speed.** Your speed is equal to five plus half of your dexterity (rounded down).
-
-**Heart.** Your overall health, equal to your level times your constitution, plus five.
-
-**Focus.** Your maximum focus is equal to your mind score. If your focus is greater than one, you have the ability to cast spells! You can have access to a number of spells equal to your Mind score, and can swap what you have ready during rests.
-
-### Selecting Boons
-As your ability grows, you gain boons: unique abilities that shape how you can interact with the world. You select a boon at level one, and every three levels after that (four, seven, ten, etc.).
-
-## Boons
-Unique abilities that shape how you can interact with the world. These generally will affect how effective you are in combat, but sometimes they can come in handy in unlikely places!
-
-### Strength Boons
-**Minimum Two Strength**
-
-- [Barbarian](boons/Strength/Barbarian.md)
-- [Swashbuckler](boons/Strength/Swashbuckler.md)
-
-### Dexterity Boons
-**Minimum Two Dexterity**
-
-- [Monk](boons/Dexterity/Monk.md)
-- [Rogue](boons/Dexterity/Rogue.md)
-
-### Constitution Boons
-**Minimum Two Constitution**
-
-- [Paladin](boons/Constitution/Paladin.md)
-- [Ranger](boons/Constitution/Ranger.md)
-
-### Mind Boons
-**Minimum Two Mind**
-
-- [Arcanist](boons/Mind/Arcanist.md)
-- [Devotant](boons/Mind/Devotant.md)
-- [Evoker](boons/Mind/Evoker.md)
-
-## Leveling Up
-After a few fights or an important story arc, the Game Master may determine that your character levels up! You may add a point to one of your character's abilities, and at appropriate levels you gain another boon (or take an upgrade to a boon you already have).
 
 # Parts of the Game
 Some general definitions and explanations. It's useful to at least skim this section, even if you're familiar with other tabletop games.
@@ -141,6 +74,73 @@ As this game is focused around theater-of-the-mind, distances can be a little gr
 
 There can be a maximum of four characters in melee range of any given creature in an open area, less if there's other things around. Just use your best judgement, and prioritize what makes sense between the Game Master and players.
 
+# Characters
+Whether it's a player's character or a random tavern keeper that greets them, characters fill the world of the GM's design. Most likely.
+
+## Abilities
+Every character has four different abilities which are used to interact with the world around them.
+
+**Strength.** Natural athleticism and physical power. How hard you hit things, what kind of armor you can wear, etc.
+
+**Dexterity.** Physcial agility, reflexes. How quick you are, both in terms of top speed and dodging things.
+
+**Constitution.** Physical and mental toughness. How much of a beating you can take before falling.
+
+**Mind.** Analytical skill and intuition. This affects your ability to cast spells as well.
+
+## Point Pools
+These are what you spend when you attack, move, or cast spells. When combat ends, these are returned to their respective maximums.
+
+**Focus.** Your mental concentration at any given moment. These points are used up when you use certain abilities or spells, and **one is given back at the start of each of your turns**. Your maximum stamina is equal to your mind score.
+
+**Stamina.** Your physical readiness at any given moment. These points are used up when you move, attack, or cast a spell, and **two are given back at the start of each turn**. Every character has a max of 3 stamina points.
+
+## Creating a Character
+To play the game, you have to create a character, a member of your Game Master's setting. You'll need to think about the character you'll want to play before you start writing on the [SOLAS Character Sheet](../Character%20Sheet/SOLAS%20Character%20Sheet.pdf). What did they do before becoming an adventurer? What are they motivated by? Who do they trust or mistrust?
+
+### Ability Scores
+When you start, your ability scores each start at one. At level one (and each time you level up), you get to add a point to an ability of your choice.
+
+**Speed.** Your speed is equal to five plus half of your dexterity (rounded down).
+
+**Heart.** Your overall health, equal to your level times your constitution, plus five.
+
+**Focus.** Your maximum focus is equal to your mind score. If your focus is greater than one, you have the ability to cast [Spells](#Spells)! You can have access to a number of spells equal to your Mind score, and can swap what you have ready during rests.
+
+### Selecting Boons
+As your ability grows, you gain boons: unique abilities that shape how you can interact with the world. You select a boon at level one, and every three levels after that (four, seven, ten, etc.).
+
+## Boons
+Unique abilities that shape how you can interact with the world. These generally will affect how effective you are in combat, but sometimes they can come in handy in unlikely places!
+
+### Strength Boons
+Minimum Two Strength
+
+- [Barbarian](boons/Strength/Barbarian.md)
+- [Swashbuckler](boons/Strength/Swashbuckler.md)
+
+### Dexterity Boons
+Minimum Two Dexterity
+
+- [Monk](boons/Dexterity/Monk.md)
+- [Rogue](boons/Dexterity/Rogue.md)
+
+### Constitution Boons
+Minimum Two Constitution
+
+- [Paladin](boons/Constitution/Paladin.md)
+- [Ranger](boons/Constitution/Ranger.md)
+
+### Mind Boons
+Minimum Two Mind
+
+- [Arcanist](boons/Mind/Arcanist.md)
+- [Devotant](boons/Mind/Devotant.md)
+- [Evoker](boons/Mind/Evoker.md)
+
+## Leveling Up
+After a few fights or an important story arc, the Game Master may determine that your character levels up! You may add a point to one of your character's abilities, and at appropriate levels you gain another boon (or take an upgrade to a boon you already have).
+
 # Playing the Game
 Finally, the fun part! The Game Master will explain the area and/or situation you find yourselves in, and the players will respond with what their characters do. This could lead to a fight, social interaction with each other or other non-player characters, different checks (explained below), and more! This goes back and forth, the Game Master describing the events that follow and the players responding. It's a group story that you're building together, after all!
 
@@ -171,8 +171,14 @@ When you cast a spell, you expend **one stamina** as well as its **focus cost**.
 ## Apprentice Spells
 **Spells that many people can cast | Cost: Two Focus**
 
+- Under construction :)
+
 ## Mage Spells
 **Achieved through devoted study | Cost: Four Focus**
 
+- Under construction :)
+
 ## Archmage Spells
 **Legendary casters created these | Cost: Six Focus**
+
+- Under construction :)
