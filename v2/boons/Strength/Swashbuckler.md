@@ -1,7 +1,7 @@
 # [Swashbuckler](Swashbuckler.md)
 **Tagline under construction**
 
-By spending **one stamina**, you can deflect an incoming physical attack. Roll a strength check, and reduce the damage by that much. If you completely negate the damage, you manage to redirect it, and can deal damage to a target within five feet, equal to a dexterity check.
+By spending **one stamina**, you can riposte physical damage from attacks against you. Roll a dexterity check, and redirect that much damage to a target within your melee range (or none at all), up to your strength score.
 
 # Upgrades
 When you reach a level where you can select a new boon, you can instead opt to take one of the upgrades below. Upgrades are not exclusive.

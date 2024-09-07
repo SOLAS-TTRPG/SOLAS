@@ -66,11 +66,11 @@ SOLAS contains many different damage types for different weapons and spells. Thi
 ## Ranges
 As this game is focused around theater-of-the-mind, distances can be a little gray. When it is needed though, distances are measured in feet, which you can get as granular as you would like. As a general rule, here are some ranges that will be used for spells, weapons, etc.
 
-5. Melee range
-10. Close Range
-20. Short Range
-40. Medium Range
-80. Long Range
+- **Melee range** - 5 feet
+- **Close Range** - 10 feet
+- **Short Range** - 20 feet
+- **Medium Range** - 40 feet
+- **Long Range** - 80 feet
 
 There can be a maximum of four characters in melee range of any given creature in an open area, less if there's other things around. Just use your best judgement, and prioritize what makes sense between the Game Master and players.
 
@@ -116,7 +116,7 @@ Unique abilities that shape how you can interact with the world. These generally
 ### Strength Boons
 Minimum Two Strength
 
-- [Barbarian](boons/Strength/Barbarian.md)
+- [Brawler](boons/Strength/Brawler.md)
 - [Swashbuckler](boons/Strength/Swashbuckler.md)
 
 ### Dexterity Boons
@@ -128,8 +128,8 @@ Minimum Two Dexterity
 ### Constitution Boons
 Minimum Two Constitution
 
-- [Paladin](boons/Constitution/Paladin.md)
-- [Ranger](boons/Constitution/Ranger.md)
+- [Champion](boons/Constitution/Champion.md)
+- [Occultist](boons/Constitution/Occultist.md)
 
 ### Mind Boons
 Minimum Two Mind
