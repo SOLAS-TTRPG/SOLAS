@@ -1,9 +1,9 @@
 # Welcome to SOLAS
 The Simply Organized, Lightweight Adventure System by Cooper Ott. A Tabletop Roleplaying Game System designed for easier accessibility and flexibility.
 
-| [SOLAS Handbook](v2/SOLAS%20Handbook.md)                                                                                   | [SOLAS Character Sheet](Character%20Sheet/SOLAS%20Character%20Sheet.pdf)                      | [SOLAS Preview](preview/README.md)          |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| You can pick up the rules and start playing in the same afternoon. [Legacy old Player Handbook](v1/Player%20Handbook.md) | Totally printable! But also please see [How to Print](Character%20Sheet/How%20to%20Print.md). | Check out what I'm planning next for SOLAS! |
+| [2nd Edition SOLAS Handbook](2nd%20Edition%20-%20WIP/SOLAS%20Handbook.md)                                                               | [SOLAS Character Sheet](Character%20Sheet/SOLAS%20Character%20Sheet.pdf)                      | [SOLAS Preview](preview/README.md)          |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| You can pick up the rules and start playing in the same afternoon. [1st Edition Handbook](1st%20Edition/Player%20Handbook.md) | Totally printable! But also please see [How to Print](Character%20Sheet/How%20to%20Print.md). | Check out what I'm planning next for SOLAS! |
 
 # Preface
 The main goals of Tabletop Roleplaying Games (TTRPGs) are to provide exploration, social interaction, and combat for a group with a common interest in storytelling.

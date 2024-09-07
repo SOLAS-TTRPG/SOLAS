@@ -4,7 +4,7 @@ Wielders of the boundless power of the intellect, delving into the deepest reces
 # Boons
 The following boons characterize the [Arcanist](Arcanist.md):
 
-- [Innate Arcana](../../v1/Boons/Innate%20Arcana.md)
-- [Warcaster](../../v1/Boons/Warcaster.md)
+- [Innate Arcana](../Boons/Innate%20Arcana.md)
+- [Warcaster](../Boons/Warcaster.md)
 
 *Inspired by Wizard*

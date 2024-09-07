@@ -4,4 +4,4 @@ Infiltrators are warriors who use their intellect and exceptional knowledge to b
 # Boons
 The following boons characterize the [Infiltrator](Infiltrator.md):
 
-- [Hunters Mark](../../v1/Boons/Hunters%20Mark.md)
+- [Hunters Mark](../Boons/Hunters%20Mark.md)

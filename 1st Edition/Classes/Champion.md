@@ -4,7 +4,7 @@ Indomitable defenders of unwavering ideals or chosen by powerful beings, standin
 # Boons
 The following boons characterize the [Champion](Champion.md):
 
-- [Paladins Presence](../../v1/Boons/Paladins%20Presence.md)
-- [Stalwart Guardian](../../v1/Boons/Stalwart%20Guardian.md)
-- [Unarmored Defense](../../v1/Boons/Unarmored%20Defense.md)
+- [Paladins Presence](../Boons/Paladins%20Presence.md)
+- [Stalwart Guardian](../Boons/Stalwart%20Guardian.md)
+- [Unarmored Defense](../Boons/Unarmored%20Defense.md)
 
