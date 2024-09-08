@@ -169,16 +169,16 @@ When you cast a spell, you expend **one stamina** as well as its **focus cost**.
 **Scaling Spells**. Some spells scale with your abilities as a spellcaster. By spending *additional* focus points when you cast a spell, you could increase the damage, range, effect, or more, as specified by the spell.
 
 ## Apprentice Spells
-**Spells that many people can cast | Cost: Two Focus**
+**Requires Two Mind | Costs Two Focus**
 
 - Under construction :)
 
 ## Mage Spells
-**Achieved through devoted study | Cost: Four Focus**
+**Requires Four Mind | Costs Four Focus**
 
 - Under construction :)
 
 ## Archmage Spells
-**Legendary casters created these | Cost: Six Focus**
+**Requires Six Mind | Costs Six Focus**
 
 - Under construction :)

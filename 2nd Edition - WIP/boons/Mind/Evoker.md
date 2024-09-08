@@ -16,7 +16,7 @@ When you select this boon upgrade, choose a celestial damage type (Radiant, Necr
 The [Evoker](Evoker.md) Spell List is as follows:
 
 ## Apprentice Spells
-**Spells that all Evokers can cast | Cost: Two Focus**
+**Requires Two Mind | Costs Two Focus**
 
 ## Fear
 A number of targets (up to your Strength) of your choice within close range are frightened of you. There are three options they can take: fight, flight, or freeze. Fight locks them into moving towards you, and they are forced to attack. Flight locks them into moving away from you, no attacks against you. Freeze completely locks their movement, but they cannot use any actions on their turn.
@@ -25,12 +25,12 @@ A number of targets (up to your Strength) of your choice within close range are 
 You can apply a push or pull force within short range. By spending **one focus and one stamina**, you can move a target up to 5 feet per success of a strength check. If the target attempts to resist it, they roll a strength check which reduces your successes.
 
 ## Mage Spells
-**Achieved through devoted study | Cost: Four Focus**
+**Requires Four Mind | Costs Four Focus**
 
 - Under construction :)
 
 ## Archmage Spells
-**Legendary Evokers created these | Cost: Six Focus**
+**Requires Six Mind | Costs Six Focus**
 
 - Under construction :)
 

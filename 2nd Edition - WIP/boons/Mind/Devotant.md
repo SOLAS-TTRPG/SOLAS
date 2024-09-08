@@ -25,3 +25,18 @@ Warcaster big idea for an upgrade - con check if take damage to not lose focus o
 Buffing lifestealer
 
 Spells are default weak, but can be improved by spending heart
+
+## Apprentice Spells
+**Requires Two Mind | Costs Two Focus**
+
+- Under construction :)
+
+## Mage Spells
+**Requires Four Mind | Costs Four Focus**
+
+- Under construction :)
+
+## Archmage Spells
+**Requires Six Mind | Costs Six Focus**
+
+- Under construction :)

@@ -17,3 +17,18 @@ The [Arcanist](Arcanist.md) Spell List is as follows:
 
 - Magic Missile
 - Artillery Mage lmaooooooooo
+
+## Apprentice Spells
+**Requires Two Mind | Costs Two Focus**
+
+- Under construction :)
+
+## Mage Spells
+**Requires Four Mind | Costs Four Focus**
+
+- Under construction :)
+
+## Archmage Spells
+**Requires Six Mind | Costs Six Focus**
+
+- Under construction :)
