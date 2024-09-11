@@ -3,4 +3,4 @@
 assets/
 .trash
 *.ods
-
+.gitignore
