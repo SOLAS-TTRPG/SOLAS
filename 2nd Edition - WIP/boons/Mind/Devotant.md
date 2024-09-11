@@ -29,7 +29,8 @@ Spells are default weak, but can be improved by spending heart
 ## Apprentice Spells
 **Requires Two Mind | Costs Two Focus**
 
-- Under construction :)
+### Guiding Bolt
+
 
 ## Mage Spells
 **Requires Four Mind | Costs Four Focus**

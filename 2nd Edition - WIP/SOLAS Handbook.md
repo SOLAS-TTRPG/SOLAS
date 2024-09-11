@@ -1,8 +1,6 @@
 # [SOLAS Handbook](SOLAS%20Handbook.md)
 **The Simply Organized, Lightweight Adventure System**
 
-Brought to you by Cooper Ott (OttCS)
-
 # Table of Contents
 1. [Welcome to SOLAS](#Welcome%20to%20SOLAS)
 	- [The Game Master](#The%20Game%20Master)
