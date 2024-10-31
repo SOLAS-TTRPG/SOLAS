@@ -1,32 +1,7 @@
 # [SOLAS Handbook](2nd%20Edition%20-%20WIP/SOLAS%20Handbook.md)
-**The Simply Organized, Lightweight Adventure System**
+**A Simply Organized, Lightweight Adventure System**
 
-# Table of Contents
-1. [Welcome to SOLAS](#Welcome%20to%20SOLAS)
-	- [The Game Master](#The%20Game%20Master)
-	- [The Players](#The%20Players)
-2. [Parts of the Game](#Parts%20of%20the%20Game)
-	- [Rolling Dice](#Rolling%20Dice)
-	- [Damage Types](#Damage%20Types)
-	- [Ranges](#Ranges)
-3. [Characters](#Characters)
-	- [Abilities](#Abilities)
-	- [Point Pools](#Point%20Pools)
-	- [Creating a Character](#Creating%20a%20Character)
-	- [Boons](#Boons)
-	- [Leveling Up](#Leveling%20Up)
-4. [Playing the Game](#Playing%20the%20Game)
-	- [Combat Order](#Combat%20Order)
-	- [Resting](#Resting)
-	- [Exhaustion](#Exhaustion)
-	- [Fading](#Fading)
-5. [Spells](#Spells)
-	- [Apprentice Spells](#Apprentice%20Spells)
-	- [Mage Spells](#Mage%20Spells)
-	- [Archmage Spells](#Archmage%20Spells)
-
-# Welcome to SOLAS
-SOLAS is a simply organized, lightweight adventure system. It focuses on theater-of-the-mind adventure in a sword and sorcery world, where it provides a pick-up-and-play experience for ttrpg beginners and seasoned veteran alike. SOLAS is flexible enough to accommodate very different settings, in the event you choose to play something else.
+SOLAS is numbers-light, primarily focused on adventure and discovery, which provides a pick-up-and-play experience for ttrpg beginners and seasoned veterans alike. It's flexible enough to accommodate very different settings, and new settings and adventures are always in the works.
 
 To play, you'll need more than two people (one of whom is the Game Master, referred to as the GM), a way to take notes ([check out the official SOLAS Character Sheet!](/Character%20Sheet/SOLAS%20Character%20Sheet.pdf)), and at least one standard six-sided die. Other materials are nice to have (like more six-sided dice, tokens to keep track of points), but are certainly not needed.
 
