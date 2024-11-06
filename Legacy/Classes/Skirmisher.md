@@ -4,7 +4,7 @@ Agile practitioners of finesse and blade, seamlessly blending martial prowess wi
 # Boons
 The following boons characterize the [Skirmisher](Skirmisher.md):
 
-- [Finesse](../Boons/Finesse.md)
-- [Hand to Hand](../Boons/Hand%20to%20Hand.md)
-- [Unarmored Defense](../Boons/Unarmored%20Defense.md)
-- [Untapped Reserves](../Boons/Untapped%20Reserves.md)
+- [Finesse](Finesse.md)
+- [Hand to Hand](Hand%20to%20Hand.md)
+- [Unarmored Defense](Unarmored%20Defense.md)
+- [Untapped Reserves](Untapped%20Reserves.md)

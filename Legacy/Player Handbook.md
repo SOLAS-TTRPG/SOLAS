@@ -1,7 +1,7 @@
 # Introduction
 Welcome to SOLAS! It's a rules system for running role-playing adventure games that anybody can pick up and play. RPGs are about getting together with others and letting a story play out, with players controlling characters of their own creation.
 
-To play, you'll need more than two people (one of whom is the Game Master, referred to as the GM), a way to take notes ([check out the official SOLAS Character Sheet!](/Character%20Sheet/SOLAS%20Character%20Sheet.pdf)), and at least one standard six-sided die. Other materials are nice to have (like more six-sided dice, tokens to keep track of points), but are certainly not needed.
+To play, you'll need more than two people (one of whom is the Game Master, referred to as the GM), a way to take notes ([check out the official SOLAS Character Sheet!](../hidden/Character%20Sheet/SOLAS%20Character%20Sheet.pdf)), and at least one standard six-sided die. Other materials are nice to have (like more six-sided dice, tokens to keep track of points), but are certainly not needed.
 
 ## Your Abilities
 Every character has four different abilities that are used to interact with the world, rolling checks to determine results of using a particular ability. The number associated with each attribute is its relative effectiveness, one being the minimum possible. The categories are as follows:
@@ -66,26 +66,26 @@ Boons are categorized with which builds they were designed for: casters, martial
 ### Strength
 Strength-based classes rare known for their physical strength to brute force their way through obstacles and situations alike.
 
-- **[Brawler](Classes/Brawler.md) (Martial)**
-- **[Evoker](Classes/Evoker.md) (Caster)**
+- **[Brawler](Legacy/Classes/Brawler.md) (Martial)**
+- **[Evoker](Legacy/Classes/Evoker.md) (Caster)**
 
 ### Dexterity
 Dexterity-based classes rely on their deftness and agility, their goals being success through sheer physical perfection.
 
-- **[Enchanter](Classes/Enchanter.md) (Caster)**
-- **[Skirmisher](Classes/Skirmisher.md) (Martial)**
+- **[Enchanter](Enchanter.md) (Caster)**
+- **[Skirmisher](Skirmisher.md) (Martial)**
 
 ### Constitution
 Constitution-based classes rely on their ability to just keep pushing, their wills and bodies toughened to survive much more strain.
 
-- **[Champion](Classes/Champion.md) (Martial)**
-- **[Channeler](Classes/Channeler.md) (Caster)**
+- **[Champion](Legacy/Classes/Champion.md) (Martial)**
+- **[Channeler](Channeler.md) (Caster)**
 
 ### Mind
 Mind-based classes use their knowledge of inner workings (people and the cosmos alike) to create favorable situations where success is guaranteed.
 
-- **[Arcanist](Classes/Arcanist.md) (Caster)**
-- **[Infiltrator](Classes/Infiltrator.md) (Martial)**
+- **[Arcanist](Legacy/Classes/Arcanist.md) (Caster)**
+- **[Infiltrator](Infiltrator.md) (Martial)**
 
 ## Leveling Up
 After some progression in the story, your GM may decide that it is time for your characters to become stronger! You get to add another point to one of your **Primary Attributes**, and if at an appropriate level (one, four, seven, ten, thirteen, sixteen, and nineteen) you also receive another **Boon**! Characters can (and should!) dip into multiple classes for different boons to build up who your character is.
@@ -216,12 +216,12 @@ To cast a spell, you must spend **one stamina** as well as its **focus cost**. A
 ## Primary Spells
 These spells cost two focus to cast.
 
-- [Acid Splash](Spells/Primary/Acid%20Splash.md)
-- [Eldritch Blast](Spells/Primary/Eldritch%20Blast.md)
-- [Electrify Armament](Spells/unstable/Electrify%20Armament.md)
-- [Fire Bolt](Spells/Primary/Fire%20Bolt.md)
-- [Guiding Bolt](Spells/Primary/Guiding%20Bolt.md)
-- [Ice Knife](Spells/Primary/Ice%20Knife.md)
-- [Poison Spray](Spells/Primary/Poison%20Spray.md)
-- [Ray of Frost](Spells/Primary/Ray%20of%20Frost.md)
-- [Witch Bolt](Spells/Primary/Witch%20Bolt.md)
+- [Acid Splash](Acid%20Splash.md)
+- [Eldritch Blast](Eldritch%20Blast.md)
+- [Electrify Armament](Electrify%20Armament.md)
+- [Fire Bolt](Fire%20Bolt.md)
+- [Guiding Bolt](Guiding%20Bolt.md)
+- [Ice Knife](Ice%20Knife.md)
+- [Poison Spray](Poison%20Spray.md)
+- [Ray of Frost](Ray%20of%20Frost.md)
+- [Witch Bolt](Witch%20Bolt.md)
