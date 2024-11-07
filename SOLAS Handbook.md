@@ -126,5 +126,5 @@ Exhaustion is not removed by healing, only resting does this.
 ## Fading
 Once you reach zero heart, your mortality is at stake. On the start of your turn when you're fading, you gain a point of exhaustion. If you take damage during your turn, your heart still reduces in the negative range. Healing must bring your heart back up to **above** zero to no longer be fading. If your turn ends when you are at zero heart or below and four points of exhaustion, your character dies.
 
-# Settings
-Now all that's left is to hop into the game! Check out one of the official (or partnered) [SOLAS Settings](https://github.com/SOLAS-TTRPG/Settings) to get started. It also has a guide for making your own!
+# Modules
+Now all that's left is to hop into the game! Check out one of the official (or partnered) [Modules](Modules/README.md) to get started. We also have a guide for making your own!

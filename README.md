@@ -3,7 +3,7 @@ The Simply Organized, Lightweight Adventure System by Cooper Ott. A Tabletop Rol
 
 ## Where to Go
 - **[SOLAS Handbook](SOLAS%20Handbook.md)** - Pick up the rules and start playing in the same afternoon.
-- **[Settings](Settings/README.md)** - Check out our officially created (or partnered) settings/adventures!
+- **[Modules](Modules/README.md)** - Check out our officially created (or partnered) settings/adventures!
 
 # Preface
 The main goals of Tabletop Roleplaying Games (TTRPGs) are to provide exploration, social interaction, and combat for a group with a common interest in storytelling.
