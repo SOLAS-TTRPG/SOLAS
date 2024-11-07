@@ -14,7 +14,7 @@ Briefly explain how your setting changes or adds onto the core SOLAS system
 Explain them here. What makes it unique and fun?
 
 # Adventures
-Got specific modules that you've cooked up? List them here! Generally keep these in their own sub-folders.
+Got specific modules that you've cooked up? List them here! You should probably keep each of these in a separate folder inside Modules.
 
 # World Lore and History
 This should be at the end, because it can get fairly lengthy.
