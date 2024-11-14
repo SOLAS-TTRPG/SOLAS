@@ -75,7 +75,7 @@ Every character has four different abilities which are used to interact with the
 
 **Strength.** Natural athleticism and physical power. How hard you hit things.
 
-**Dexterity.** Physical agility, reflexes. How quick you are.
+**Dexterity.** Physical agility, reflexes. How quick you are, and your ranged abilities.
 
 **Constitution.** Physical and mental toughness. How much of a beating you can take.
 
@@ -97,7 +97,7 @@ Since SOLAS is just the core of the system, it doesn't really need it's own char
 ### Ability Scores
 When you create a starting character, start with a score of 1 in each of your abilities (Strength, Dexterity, Constitution, and Mind). Then, choose an ability to increase to a score of 2.
 
-**Speed.** Everybody has a base speed of 20 feet (able to cover Short Range with one Stamina). For every point you have in Dexterity, you can cover an additional 5 feet with one Stamina.
+**Speed.** Everybody has a base speed of 20 feet (able to cover Short Range with one Stamina). For every point you have in Dexterity (including the base one), you can cover an additional 5 feet with one Stamina.
 
 **Heart.** Your overall health, equal to 5 times your Constitution, plus 5.
 
@@ -109,8 +109,16 @@ After a few fights or an important story beat, the Game Master may determine tha
 # Playing the Game
 Finally, the fun part! The Game Master will explain the area and/or situation you find yourselves in, and the players will respond with what their characters do. This could lead to a fight, social interaction with each other or other non-player characters, different checks (explained below), and more! This goes back and forth, the Game Master describing the events that follow and the players responding. It's a group story that you're building together, after all!
 
-## Combat Order
+## Combat
 Outside of combat, you can what you'd like to in any order with your compatriots. In combat, however, the players are slightly constrained as to when they can act. When combat starts, every player rolls a dexterity check: those who roll above the enemies get to act first. After that, the enemy and player groups alternate. The within groups, players can coordinate and act whenever.
+
+Every physical action in combat costs at least **one Stamina**. Moving, attacking (melee or ranged), etc. You can do as many actions as you have **Stamina** available. Keep in mind that though your maximum is three, you only gain two back per round.
+
+**Melee.** You may attack with your Strength, with a physical weapon, against a target within melee range. The type of damage depends on the type of weapon (bludgeoning, slashing, piercing, etc.) The damage you deal is equal to the successes of a Strength Check.
+
+**Ranged.** Using your Dexterity, you aim at an enemy, firing your weapon. Typically, this ends up as piercing damage, but confirm with your game master. The damage you deal is equal to the successes of a Dexterity Check, and to use the weapon again you must spend **one Stamina** to reload it.
+
+**Move.** You can spend a stamina, moving up to your speed across your turn. This can be split, such as moving 15 feet, attacking, and then moving another 10 feet (with a speed of 25).
 
 ## Resting
 You can't stay awake forever, and will eventually need to recover from (and heal) your wounds. By resting for 8 hours, your heart returns to its maximum, and a point of exhaustion is removed. If you go a full day without resting, you gain a point of exhaustion.
