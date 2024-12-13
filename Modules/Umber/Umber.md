@@ -32,11 +32,11 @@ Originating from a log-sunken island chain dense in natural magic, most have stu
 Nomadic folk with hooved goat legs, permitting them navigation of difficult terrain from steep mountains to forest undergrowth. They sport horns that range from swept-back antelope to large, curling ram shapes. Their varied skin hues come from the environments they were born in, from ashen gray hues in mountains, to fiery red in deserts, deep green in forests, even pure white in tundras. The Faunari form roaming kin-clans that can create temporary settlements, or _Glens_, at common crossroad areas where they trade, celebrate, and share stories as the population is ever arriving, ever leaving.
 
 ### Chlorophytes
-Coming in both small and large sizes, these green-skinned humanoids are more commonly described as goblins and/or orcs. Due to their ability to absorb sunlight to survive almost indefinitely without rations, they have both developed vastly different cultures than most other humanoids, and each other.
+Coming in both small and large sizes, these green-skinned, pointy-eared humanoids are more commonly described as goblins and/or orcs. Due to their ability to absorb sunlight to survive almost indefinitely without rations, they have both developed vastly different cultures than most other humanoids, as well as each other.
 
 Orcs (somewhat tall, with small tusks and ranging from lithe to muscular) have taken to living in forests, swamps, or jungles, where they will build canopy bridge-networked towns. When adventuring outside of these towns, they'll typically pick up outdoor work. It's rewarding, and lets them keep their rations.
 
-Goblins (heavyset, four feet tall, with large pointed ears) have built a culture revolving around outdoor relaxation and festivals. They tend to settle in towns near bodies of freshwater, with their culture either bringing in other races for the parties, or getting themselves kicked out. They usually stay away from hard work when they can.
+Goblins (heavyset, four feet tall, with large, floppy ears) have built a culture revolving around outdoor relaxation and festivals. They tend to settle in towns near bodies of freshwater, with their culture either bringing in other races for the parties, or getting themselves kicked out. They usually stay away from hard work when they can.
 
 ## Spells
 There is magic out the world, and some have the ability to control it. As for you (if you have a Mind score of at least two), you have this gift. Spells and arcane prowess are generally controlled by your character's **Mind** ability.
