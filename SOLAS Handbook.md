@@ -97,7 +97,7 @@ Since SOLAS is just the core of the system, it doesn't really need it's own char
 ### Ability Scores
 When you create a starting character, start with a score of 1 in each of your abilities (Strength, Dexterity, Constitution, and Mind). Then, choose an ability to increase to a score of 2.
 
-**Speed.** Everybody has a base speed of 20 feet (able to cover Short Range with one Stamina). For every point you have in Dexterity (including the base one), you can cover an additional 5 feet with one Stamina.
+**Speed.** Everybody can move up to 30 feet by expending one Stamina.
 
 **Heart.** Your overall health, equal to 5 times your Constitution, plus 5.
 
