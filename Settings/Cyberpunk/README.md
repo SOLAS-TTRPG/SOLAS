@@ -1,4 +1,4 @@
-You're probably looking for the [Cyberpunk (WIP)](Settings/Cyberpunk/Cyberpunk%20(WIP).md) document.
+You're probably looking for the [Cyberpunk (WIP)](Cyberpunk%20(WIP).md) document.
 
 In case you're interested, here's some music to get inspired!
 
