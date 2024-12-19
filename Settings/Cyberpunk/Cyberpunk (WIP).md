@@ -1,6 +1,6 @@
+![Pasted image 20241218211037](Pasted%20image%2020241218211037.png)
 
 
 
 
 
-![](Settings/Cyberpunk/Pasted%20image%2020241218211037.png)
