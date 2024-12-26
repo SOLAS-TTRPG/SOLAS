@@ -95,8 +95,8 @@
                     'WIZARD',
                     'SORCERER',
                     'WARLOCK',
+                    'CLERIC',
                     'DRUID',
-                    'CLERIC'
                 ][p] + ': ' + best.positions[p].label);
                 // console.log(p);
             }
@@ -203,13 +203,6 @@
 
         let currentPermutationIndex = 0;
 
-        let spellDataSet = {
-            arcanist: [],
-            evoker: [],
-            devotant: [],
-            common: []
-        };
-
         function generateScatter() {
             datasets.newSet();
             const currentPermutation = permutation;
@@ -240,7 +233,6 @@
                 console.log('Running...')
             }
 
-            // Increment the permutation index and loop back to the start if we've reached the end
             // if (nextPermutation()) {
             //     currentPermutationIndex++;
             //     requestAnimationFrame(generateScatter);
