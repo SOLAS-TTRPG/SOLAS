@@ -1,8 +1,6 @@
 # [Medieval](Medieval.md)
 **An Ancient World, Worn by Time**
 
-
-
 In Umber, the echoes of ancient empires and forgotten gods linger beneath ruins and cities alike. Most people have some sort of magical tendency, but deep study leads to suspicion of others, as well as vice versa. Adventurers are common, but most treat it as an income stream rather than grand, altruistic quests. The passage of time has rendered the greatest monuments and ideals down to nothing more than old twisted ruins, standing alone and forgotten.
 
 With expanded character abilities and spells, Umber lends a focus to more personal stories, finding a balance between high fantasy and sword and sorcery.

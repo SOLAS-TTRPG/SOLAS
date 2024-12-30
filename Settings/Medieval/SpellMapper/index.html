@@ -81,8 +81,10 @@
         datasets.add = function (p, classes = 1) {
             datasets[set - 1].data.push(p);
             const mid = checkMid(p);
-            datasets[set - 1].score += score(p);
+            let s = score(p);
+            datasets[set - 1].score += s;
             // datasets[set - 1].score += checkIfMid(p);
+            return s;
         }
         datasets.getScore = function () {
             return datasets[set - 1].score;
@@ -201,7 +203,47 @@
             index: 0
         };
 
+        let lists = {
+            arcanist: [],
+            evoker: [],
+            devotant: [],
+            common: [],
+            add: function (list, spell, dist) {
+                spells[spell].list = list;
+                lists[list].push(spell)
+            }
+        };
+
+        let dists = {
+            add: function (d) {
+                let rDist = `${((d * 1000) ^ 0) * 0.001}`;
+                if (!dists[rDist])
+                    dists[rDist] = 0;
+                dists[rDist]++;
+            }
+        }
+
         let currentPermutationIndex = 0;
+
+        function cartToPolar(x, y) {
+            return { magnitude: Math.hypot(x, y), degrees: (Math.atan2(y, x) * 180 / Math.PI + 720) % 360 };
+        }
+
+        let rays = [];
+        rays.add = function (degrees, magnitude) {
+            if (!rays[degrees])
+                rays[degrees] = [];
+            rays[degrees].push(magnitude);
+        }
+        rays.solve = function () {
+            for (let i = 0; i < rays.length; i++) {
+                if (rays[i]) {
+                    const average = rays[i].reduce((a, b) => a + b) / rays[i].length;
+                    rays[i] = average;
+                }
+
+            }
+        }
 
         function generateScatter() {
             datasets.newSet();
@@ -220,7 +262,34 @@
                     x += c.x / v.length;
                     y += c.y / v.length;
                 }
-                datasets.add({ x: x, y: y }, v.length);
+                let dist = datasets.add({ x: x, y: y }, v.length);
+                dists.add(dist);
+                // Build up spells dataset
+                spells[k].name = k;
+                spells[k].score = dist;
+                if (dist <= 0.5) {
+                    spells[k].list = 'common';
+                    lists.common.push(k);
+                } else if (x > 0) {
+                    if (y >= 0) {
+                        spells[k].list = 'arcanist';
+                        lists.arcanist.push(k)
+                    } else {
+                        spells[k].list = 'devotant';;
+                        lists.devotant.push(k);
+                    }
+                } else {
+                    if (y > Math.abs(x) * r3) {
+                        spells[k].list = 'arcanist';
+                        lists.arcanist.push(k)
+                    } else if (y < x * r3) {
+                        spells[k].list = 'devotant';
+                        lists.devotant.push(k);
+                    } else {
+                        spells[k].list = 'evoker';
+                        lists.evoker.push(k);
+                    }
+                }
             }
 
             if (datasets.getScore() > best.score) {
@@ -242,7 +311,20 @@
             //     createScatter()
             // }
             console.log(best);
-            createScatter()
+            createScatter();
+            console.log(lists)
+            for (let k in lists) {
+                if (k != 'add') {
+                    // lists[k].sort(function(s1, s2) {
+                    //     return spells[s2].score - spells[s1].score;
+                    // })
+                    let str = k.toUpperCase() + '\n';
+                    lists[k].forEach(k => {
+                        str += `${k}, `;
+                    });
+                    console.log(str);
+                }
+            }
         }
 
         requestAnimationFrame(generateScatter);
