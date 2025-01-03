@@ -1,7 +1,7 @@
 # [Devotant](Devotant.md)
-**You're playing with the big boys now**
+**Control the battlefield and the enemies on it.**
 
-Your maximum number of known spells is increased by your Constitution. Additionally, you have the ability to empower your spells: you may spend a heart instead of a focus when scaling a spell.
+Your maximum number of known spells is increased by your **Constitution**. Additionally, if you would lose concentration on a spell due to taking damage, you instead can roll a constitution check. If you roll greater than or equal to the damage you took, you maintain concentration.
 
 # Upgrades
 When you reach a level where you can select a new boon, you can instead opt to take one of the upgrades below. Upgrades are not exclusive.
@@ -9,7 +9,7 @@ When you reach a level where you can select a new boon, you can instead opt to t
 ## Divine Devotant
 When you heal a creature that is at or below zero heart, you may roll with advantage.
 
-## Primal Devotant
+## Primal
 If you would lose concentration on a spell due to taking damage, you instead can roll a constitution check. If you roll greater than or equal to the damage you took, you maintain concentration.
 
 # Spells
@@ -26,10 +26,13 @@ Buffing lifestealer
 
 Spells are default weak, but can be improved by spending heart
 
-## Apprentice Spells
+## Novice Spells
 **Requires Two Mind | Costs Two Focus**
 
-### Guiding Bolt
+### Entangle
+**Concentration**
+
+Plants erupt from the ground at a point within medium range. Every creature within short range of the plants must make a **Strength Check** against your **Mind score**. If they fail, their speed is halved due to the plants and vines grasping at them.
 
 
 ## Mage Spells

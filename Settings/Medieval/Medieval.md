@@ -45,23 +45,29 @@ Characters can only know a certain amount of spells equal to their Mind, due to 
 
 Spells have a certain cost, being **one stamina** as well as the **focus cost** based on difficulty tier (beginner, intermediate, and advanced). Remember that you only get one Focus back at the start of each of your turns.
 
-### Beginner Spells
+### Novice Spells
 **Requires Two Mind | Costs Two Focus**
 
-**Calculated.** When you are making a **Mind Check**, you can improve your mental clarity, giving you advantage on the roll.
+#### Detect Magic
+**Concentration.** For up to 10 minutes, you can sense the presence of magic within **short range** of you. You gain advantage on all **Mind Checks** to gain information about the nature of magical items/effects that you can see while concentrating on this spell.
 
-**Glow.** Causes a non-magical item that can be held in one hand to emit a faint light for up to an hour. Slowly fades over that course of time.
+#### Glow
+Causes a non-magical item that can be held in one hand to emit a faint light for up to an hour. Slowly fades over that course of time.
 
-**Mage Hand.** You create an invisible hand within short range that can hold items up to five pounds. Every ability score it has is 0, except it has your Dexterity. It has **one Heart**. You can perform actions with this mage hand by expanding **one Focus**:
+#### Mage Hand
+**Concentration.** You create an invisible hand within short range that can hold items up to five pounds. Every ability score it has is 0, except it has your Dexterity. It has **one Heart**. You can perform actions with this mage hand by expanding **one Focus**:
 
 - **Move.** Up to a short distance
 - **Act.** Make a check of your choice with it
 
-**Spark.** You create a small flame by snapping, about the size of a candle's, which goes out after a few seconds. Good for starting a campfire or lighting torches, but technically deals **R1 Fire** to a melee target.
+#### Spark
+You create a small flame by snapping, about the size of a candle's, which goes out after a few seconds. Good for starting a campfire or lighting torches, but technically deals **R1 Fire** to a melee target.
 
-**Thaumaturgy.** You can create a harmless sensory effect within short range, such as flames flickering, the sound of indistinct whispers, and more. Gettin' spooky with it.
+#### Thaumaturgy
+You can create a harmless sensory effect within short range, such as flames flickering, the sound of indistinct whispers, and more. Gettin' spooky with it.
 
-**Whisper.** You establish a mental connection with someone you can see within Short Range. For the next hour, either party can spend **One Focus** to send a mental whisper to the other, regardless of range or sight.
+#### Whisper
+You establish a mental connection with someone you can see within Short Range. For the next hour, either party can spend **One Focus** to send a mental whisper to the other, regardless of distance or sight.
 
 ### Intermediate Spells
 **Requires Four Mind | Costs Four Focus**
@@ -107,7 +113,7 @@ Below are the adventures which have been created for this module.
 - These are a work in progress! It takes a lot of time to cook these up, not to mention playtesting. I'll be bringing in a module that is under construction soon, an arctic expedition with a Lovecraftian twist.
 
 # World Lore and History
-Umber is an **old** world, but most of its history has been long erased or forgotten. While powerful warring kingdoms once conquered all they could, something happened that wiped out most of the world's urban. A century or two later is where we find ourselves now, after all who cared to go looking into the capital ruins never came back, and everybody else forgot exactly what happened anyway.
+Umber is an **old** world, but most of its history has been long erased or forgotten. While powerful warring kingdoms once conquered all they could, something happened that wiped out most of the world's urban areas. A century or two later is where we find ourselves now, after all who cared to go looking into the capital ruins never came back, and everybody else forgot exactly what happened anyway.
 
 This world is round, but as it wobbles awkwardly around its sun-facing north pole, it maintains its very unique climate: the icy tundra around its pole is bathed in a permanent twilight. A massive ocean surrounds the icy, polar mass, its waves broken up by huge continents sitting a good distance off of the pole, reaching out to each other with broken, scattered archipelagos.
 

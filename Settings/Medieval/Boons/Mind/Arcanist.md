@@ -1,5 +1,5 @@
 # [Arcanist](Arcanist.md)
-**Magic is an art form. A dangerous one**
+**Rain spells on your enemies from a distance**
 
 Your maximum number of known spells is increased by your Dexterity.
 
