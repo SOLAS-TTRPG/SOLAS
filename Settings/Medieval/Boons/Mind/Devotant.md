@@ -6,11 +6,8 @@ Your maximum number of known spells is increased by your **Constitution**. Addit
 # Upgrades
 When you reach a level where you can select a new boon, you can instead opt to take one of the upgrades below. Upgrades are not exclusive.
 
-## Divine Devotant
-When you heal a creature that is at or below zero heart, you may roll with advantage.
-
 ## Primal
-If you would lose concentration on a spell due to taking damage, you instead can roll a constitution check. If you roll greater than or equal to the damage you took, you maintain concentration.
+If you would lose concentration on a spell due to taking damage, you instead can roll a constitution check. If you roll greater than or equal to the damage you took, you maintain concentration on the spell.
 
 # Spells
 The [Devotant](Devotant.md) Spell List is as follows:
