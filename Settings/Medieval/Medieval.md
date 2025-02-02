@@ -51,9 +51,6 @@ Spells have a certain cost, being **one stamina** as well as the **focus cost** 
 #### Detect Magic
 **Concentration.** For up to 10 minutes, you can sense the presence of magic within **short range** of you. You gain advantage on all **Mind Checks** to gain information about the nature of magical items/effects that you can see while concentrating on this spell.
 
-#### Glow
-Causes a non-magical item that can be held in one hand to emit a faint light for up to an hour. Slowly fades over that course of time.
-
 #### Mage Hand
 **Concentration.** You create an invisible hand within short range that can hold items up to five pounds. Every ability score it has is 0, except it has your Dexterity. It has **one Heart**. You can perform actions with this mage hand by expanding **one Focus**:
 
