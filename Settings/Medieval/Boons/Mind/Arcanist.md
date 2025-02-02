@@ -6,11 +6,8 @@ Your maximum number of known spells is increased by your Dexterity. Additionall
 # Upgrades
 When you reach a level where you can select a new boon, you can instead opt to take one of the upgrades below. Upgrades are not exclusive.
 
-## Inspiring Arcanist
-On your turn, you can spend a focus point to give an ally one of your stamina points.
+## Practiced
 
-## Tinkering Arcanist
-Once per rest, you can imbue a non-magical item with one of your memorized spells. Until your next rest, you are able to cast that spell from the object, as long as it is within short range (20 feet). The spells still cost a stamina and the standard focus cost.
 
 # Spells
 The [Arcanist](Arcanist.md) Spell List is as follows:
@@ -18,10 +15,17 @@ The [Arcanist](Arcanist.md) Spell List is as follows:
 - Magic Missile
 - Artillery Mage lmaooooooooo
 
-## Apprentice Spells
+## Novice Spells
 **Requires Two Mind | Costs Two Focus**
 
-- Under construction :)
+### Chromatic Bolt
+**Medium Range**
+
+**Fire**. You send a streak of fire towards a target, dealing **R(Dex) Fire Damage**.
+
+*Variants.* When you learn this spell, you can instead opt for it's damage type to be any elemental one. You must relearn this spell to change its damage type.
+
+
 
 ## Mage Spells
 **Requires Four Mind | Costs Four Focus**

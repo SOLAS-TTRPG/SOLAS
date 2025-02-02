@@ -3,7 +3,7 @@
 
 In Umber, the echoes of ancient empires and forgotten gods linger beneath ruins and cities alike. Most people have some sort of magical tendency, but deep study leads to suspicion of others, as well as vice versa. Adventurers are common, but most treat it as an income stream rather than grand, altruistic quests. The passage of time has rendered the greatest monuments and ideals down to nothing more than old twisted ruins, standing alone and forgotten.
 
-With expanded character abilities and spells, Umber lends a focus to more personal stories, finding a balance between high fantasy and sword and sorcery.
+With expanded character abilities and spells, gameplay lends a focus to more personal stories, finding a balance between high fantasy and sword and sorcery.
 
 ## Table of Contents
 1. [Mechanics](#Mechanics)
@@ -50,9 +50,6 @@ Spells have a certain cost, being **one stamina** as well as the **focus cost** 
 
 #### Detect Magic
 **Concentration.** For up to 10 minutes, you can sense the presence of magic within **short range** of you. You gain advantage on all **Mind Checks** to gain information about the nature of magical items/effects that you can see while concentrating on this spell.
-
-#### Glow
-Causes a non-magical item that can be held in one hand to emit a faint light for up to an hour. Slowly fades over that course of time.
 
 #### Mage Hand
 **Concentration.** You create an invisible hand within short range that can hold items up to five pounds. Every ability score it has is 0, except it has your Dexterity. It has **one Heart**. You can perform actions with this mage hand by expanding **one Focus**:

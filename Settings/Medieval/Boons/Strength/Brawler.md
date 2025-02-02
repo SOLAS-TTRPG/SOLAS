@@ -7,4 +7,4 @@ By spending **one focus**, you can roll a **constitution check** when you take d
 When you reach a level where you can select a new boon, you can instead opt to take one of the upgrades below. Upgrades are not exclusive.
 
 ## Relentless
-When you have levels of exhaustion, your speed and rolls are not reduced.
+When you have levels of exhaustion, your speed and checks are not reduced.
