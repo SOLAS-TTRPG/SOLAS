@@ -52,8 +52,8 @@ If a task should be relatively easy (or a type of damage is effective against an
 ## Damage Types
 SOLAS accommodates many  damage types for different weapons and general dangers, all depending on the setting that you're playing in. This list can be expanded upon for your needs, but the standard categories as follows:
 
-- **Physical**: Bludgeoning, Piercing, Slashing
-- **Elemental**: Acid, Poison, Fire, Cold, Lightning
+- **Physical**: Crushing, Piercing, Slashing
+- **Elemental**: Corrode, Poison, Burn, Freeze, Shock
 - **Supernatural**: Radiant, Necrotic, Force, Psychic
 
 ## Ranges
