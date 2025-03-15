@@ -1,7 +1,7 @@
 # [Arcanist](Arcanist.md)
 **Rain spells on your enemies from a distance**
 
-Your maximum number of known spells is increased by your Dexterity. Additionall
+Your maximum number of known spells is increased by your Dexterity.
 
 # Upgrades
 When you reach a level where you can select a new boon, you can instead opt to take one of the upgrades below. Upgrades are not exclusive.
