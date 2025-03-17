@@ -5,3 +5,6 @@ What was once a lonely, derelict set of planets circling a white dwarf, began to
 - [Rust](Rust.md)
 - [Slime](Slime.md)
 - [Rime](Rime.md)
+
+Common Destinations:
+- [Nautilus Nebula](../Nautilus%20Nebula/Nautilus%20Nebula.md)
